@@ -21,7 +21,7 @@ var router = express.Router();              // get an instance of the express Ro
 
 // test route to make sure everything is working (accessed at GET http://localhost:8080/api)
 router.get('/', function(req, res) {
-    res.json({ message: 'API Is Working!' });
+    res.json({ message: 'This is the monPlan API. Please read the API documentation' });
 });
 
 // more routes for our API will happen here
@@ -36,4 +36,4 @@ app.get('/course/:id', courses.findById);
 // START THE SERVER
 // =============================================================================
 app.listen(port);
-console.log('Magic happens on port ' + port);
+console.log('monPlan API has loaded');

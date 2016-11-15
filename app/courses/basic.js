@@ -5,7 +5,7 @@ function JSONHandler(file){
   return obj
 }
 
-//asume list is already sorted, use binary search
+// Find target Course using Binary Search
 function findUnitCode(target, array) {
   var lowerBound = 0;
   var upperBound = (array.length - 1);

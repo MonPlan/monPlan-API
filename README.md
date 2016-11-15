@@ -1,5 +1,5 @@
-# nAPIServer
-This is an API Testing Server built on of Node.js
+# monPlan API Test server
+This is an API Testing Server built on of Node.js for monPlan as an alternative (with server side logic)
 
 
 # Usage
@@ -16,10 +16,12 @@ node server.js
 
 The use of Postman (A Chrome Extension) is suggested. To test it out on Postman type
 
-| Instruction        | Returns       |
-| ------------------ | ------------- |
-| /courses/          | Every course  |
-| /courses/(id)      | Course with right unit code, including Unit Name and Faculty. Otherwise return 'missing' if course is N/A      |
+**/courses/**
+Returns _every course_
+
+**/courses/(unitCode)**
+Returns _Course Name and Faculty of unitCode, otherwise return 'Missing'_
+
 
 # License
 MIT License

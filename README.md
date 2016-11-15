@@ -15,14 +15,16 @@ node server.js
 ```
 
 The use of Postman (A Chrome Extension) is suggested. To test it out on Postman type
-```
-https://localhost:8080/api/
-```
+
+| Instruction        | Returns       |
+| ------------------ | ------------- |
+| /courses/          | Every course  |
+| /courses/(id)      | Course with right unit code, including Unit Name and Faculty. Otherwise return 'missing' if course is N/A      |
 
 # License
 MIT License
 
-Copyright (c) 2016 Eric Jiang
+Copyright (c) 2016 Eric Jiang & monPlan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

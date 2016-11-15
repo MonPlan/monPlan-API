@@ -30,9 +30,8 @@ router.get('/', function(req, res) {
 // all of our routes will be prefixed with /api
 app.use('/api', router);
 
-app.get('/course', courses.findAll);
+app.get('/course', courses.allUnits);
 app.get('/course/:id', courses.findById);
-app.get('/test', courses.test);
 
 // START THE SERVER
 // =============================================================================

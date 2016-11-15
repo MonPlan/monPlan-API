@@ -5,25 +5,6 @@ function JSONHandler(file){
   return obj
 }
 
-exports.findAll = function(req, res) {
-    res.send([{name:'wine1'}, {name:'wine2'}, {name:'wine3'}]);
-};
-
-exports.findById = function(req, res) {
-    var targetCourse = req.params.id;
-    var result = findUnitCode(targetCourse, JSONHandler('./app/courses/db.json'))
-
-    if(result !== false){
-      res.send({id:req.params.id, name: result.UnitName, faculty: result.Faculty});
-    } else {
-      res.send('Missing')
-    }
-};
-
-exports.test = function(req, res) {
-    res.send();
-};
-
 //asume list is already sorted, use binary search
 function findUnitCode(target, array) {
   var lowerBound = 0;
@@ -48,3 +29,18 @@ function findUnitCode(target, array) {
   }
   return false
 }
+
+exports.allUnits = function(req, res) {
+    res.send(JSONHandler('./app/courses/db.json'));
+};
+
+exports.findById = function(req, res) {
+    var targetCourse = req.params.id;
+    var result = findUnitCode(targetCourse, JSONHandler('./app/courses/db.json'))
+
+    if(result !== false){
+      res.send({id:req.params.id, name: result.UnitName, faculty: result.Faculty});
+    } else {
+      res.send('Missing')
+    }
+};

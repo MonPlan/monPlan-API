@@ -6,7 +6,7 @@ function JSONHandler(file){
 }
 
 // Find target Course using Binary Search
-function findUnitCode(target, array) {
+function findBasic(target, array) {
   var lowerBound = 0;
   var upperBound = (array.length - 1);
   var currentbound;
@@ -30,16 +30,59 @@ function findUnitCode(target, array) {
   return false
 }
 
+// Find target Course using Binary Search
+function findExtended(target, array) {
+  var lowerBound = 0;
+  var upperBound = (array.length - 1);
+  var currentbound;
+
+  while (lowerBound <= upperBound){
+    var middle = Math.floor((lowerBound + upperBound)/2) //integer dicision to find middle
+    if(target === array[middle].UnitCode){
+      var unitName = array[middle].UnitName;
+      var unitFac = array[middle].Faculty;
+      var descrip = array[middle].Sypnosis;
+      var unitPreqs = array[middle].Preqs;
+      var unitProhib = array[middle].Proh;
+
+      var returnObject = {"UnitName": unitName,"Description": descrip, "Faculty": unitFac, "Prerequisites": unitPreqs, "Prohibitions":unitProhib}
+      return returnObject
+    } else {
+      if(target < array[middle].UnitCode) {
+        upperBound = middle - 1
+      } else {
+        lowerBound = middle + 1
+      }
+    }
+  }
+  return false
+}
+
 exports.allUnits = function(req, res) {
     res.send(JSONHandler('./app/courses/db.json'));
 };
 
+exports.extended = function(req, res) {
+    res.send(JSONHandler('./app/courses/extended.json'));
+};
+
 exports.findById = function(req, res) {
     var targetCourse = req.params.id;
-    var result = findUnitCode(targetCourse, JSONHandler('./app/courses/db.json'))
+    var result = findBasic(targetCourse, JSONHandler('./app/courses/db.json'))
 
     if(result !== false){
-      res.send({id:req.params.id, name: result.UnitName, faculty: result.Faculty});
+      res.send(result);
+    } else {
+      res.send('Missing')
+    }
+};
+
+exports.findByIdExt = function(req, res) {
+    var targetCourse = req.params.id;
+    var result = findExtended(targetCourse, JSONHandler('./app/courses/extended.json'))
+
+    if(result !== false){
+      res.send(result);
     } else {
       res.send('Missing')
     }

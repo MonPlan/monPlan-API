@@ -13,7 +13,7 @@ var app        = express();                 // define our app using express
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-var port = process.env.PORT || 8080;        // set our port
+var port = process.env.PORT || 3000;        // set our port
 
 // ROUTES FOR OUR API
 // =============================================================================
@@ -31,6 +31,8 @@ router.get('/', function(req, res) {
 app.use('/api', router);
 
 app.get('/course', courses.allUnits);
+app.get('/course/ext', courses.extended);
+app.get('/course/ext/:id', courses.findByIdExt);
 app.get('/course/:id', courses.findById);
 
 // START THE SERVER

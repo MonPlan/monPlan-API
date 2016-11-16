@@ -1,6 +1,8 @@
-# monPlan API Test server
+# monPlan API
 This is an API Testing Server built on of Node.js for monPlan as an alternative (with server side logic)
 
+## What is an api?
+> a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
 
 # Usage
 To use this simply, install npm
@@ -16,7 +18,12 @@ node server.js
 
 The use of Postman (A Chrome Extension) is suggested. To test it out on Postman type
 
+The default address (when accessing it locally) is `https://localhost:3000`, we use the 3000 port to prevent conflict with port 8080.
+
+## Instructions
+
 **/courses/**
+
 Returns _every course_
 
 **/courses/(unitCode)**

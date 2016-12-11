@@ -12,6 +12,8 @@ var units    = require('./app/units/unitsRoute');
 var spec    = require('./app/specialisations/specialRoute');
 
 var app        = express();                 // define our app using express
+var cors = require('cors')
+
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
@@ -29,7 +31,7 @@ var router = express.Router();              // get an instance of the express Ro
 router.get('/', function(req, res) {
     res.json({ message: 'This is the monPlan API v0.2.10. Please read the API documentation at: https://github.com/monashunitplanner/monplan-api' });
 });
-
+app.use(cors());
 // more routes for our API will happen here
 
 // REGISTER OUR ROUTES -------------------------------

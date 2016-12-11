@@ -58,32 +58,18 @@ function findExtended(target, array) {
   return false
 }
 
-exports.allUnits = function(req, res) {
-    res.send(JSONHandler('./app/units/db.json'));
-};
 
-exports.extended = function(req, res) {
+exports.allUnits = function(req, res) {
     res.send(JSONHandler('./app/units/extended.json'));
 };
 
-exports.findById = function(req, res) {
-    var targetCourse = req.params.id;
-    var result = findBasic(targetCourse, JSONHandler('./app/units/db.json'))
-
-    if(result !== false){
-      res.send(result);
-    } else {
-      res.send('Missing')
-    }
-};
-
-exports.findByIdExt = function(req, res) {
+exports.findUnit = function(req, res) {
     var targetCourse = req.params.id;
     var result = findExtended(targetCourse, JSONHandler('./app/units/extended.json'))
 
     if(result !== false){
       res.send(result);
     } else {
-      res.send('Missing')
+        res.status(404).send('Not found');
     }
 };

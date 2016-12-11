@@ -26,16 +26,14 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 
 | Instruction            | Returns                                                                                                   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| /course                | Returns _every course_ with basic details (Name and Faculty)                                              |
-| /course/(unitCode)     | Returns _Course Name and Faculty of unitCode, otherwise return 'Missing'_                                 |
-| /course/ext            | Returns _every course_ with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions) |
-| /course/ext/(unitCode) | Returns descriptive (same as course/ext details about the course                                          |
+| /units/                | Returns _every course_ with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions) |
+| /units/(unitCode)      | Returns descriptive (same as course/ext details about the course                                          |
 
 
 # License
 MIT License
 
-Copyright (c) 2016 Eric Jiang & monPlan
+Copyright (c) 2016 Monash University (eSolutions)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

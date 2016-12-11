@@ -1,6 +1,8 @@
 # monPlan API
 This is an API Testing Server built on of Node.js for monPlan as an alternative (with server side logic)
 
+API Version: `v0.2.0`
+
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
 

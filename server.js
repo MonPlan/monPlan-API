@@ -6,7 +6,7 @@
 // call the packages we need
 var express    = require('express');        // call express
 var bodyParser = require('body-parser');
-var courses    = require('./app/courses/basic');
+var units    = require('./app/units/unitsRoute');
 var app        = express();                 // define our app using express
 // configure app to use bodyParser()
 // this will let us get the data from a POST
@@ -30,10 +30,10 @@ router.get('/', function(req, res) {
 // all of our routes will be prefixed with /api
 app.use('/api', router);
 
-app.get('/course', courses.allUnits);
-app.get('/course/ext', courses.extended);
-app.get('/course/ext/:id', courses.findByIdExt);
-app.get('/course/:id', courses.findById);
+app.get('/units', units.allUnits);
+app.get('/units/ext', units.extended);
+app.get('/units/ext/:id', units.findByIdExt);
+app.get('/units/:id', units.findById);
 
 // START THE SERVER
 // =============================================================================

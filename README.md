@@ -34,6 +34,7 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 MIT License
 
 Copyright (c) 2016 Monash University (eSolutions)
+Developed by Eric Jiang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

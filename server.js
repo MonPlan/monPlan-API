@@ -12,7 +12,7 @@ var units    = require('./app/units/unitsRoute');
 var spec    = require('./app/specialisations/specialRoute');
 
 var app        = express();                 // define our app using express
-var cors = require('cors')
+var cors = require('cors');
 
 
 // configure app to use bodyParser()
@@ -37,7 +37,7 @@ app.use(cors());
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
-app.disable('etag');
+app.set('etag', false);
 
 // UNITS ROUTES
 app.get('/units/', units.allUnits);

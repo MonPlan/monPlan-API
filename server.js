@@ -37,6 +37,7 @@ app.use(cors());
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
+app.disable('etag');
 
 // UNITS ROUTES
 app.get('/units/', units.allUnits);

@@ -45,7 +45,7 @@ function findExtended(target, array) {
       var descrip = result.Synopsis;
       var unitPreqs = result.Preqs;
       var unitProhib = result.Proh;
-      var unitLocation = result.Location;
+      var unitLocation = result.LocationAndTime;
       var CreditPoints = result.CreditPoints;
       var eftsl = result.EFTSL;
       var sca = result.SCABand;

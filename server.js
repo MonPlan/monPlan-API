@@ -8,11 +8,12 @@ var express    = require('express');        // call express
 var bodyParser = require('body-parser');
 
 //our modules
-var units    = require('./app/units/unitsRoute');
-var spec    = require('./app/specialisations/specialRoute');
+var units      = require('./app/units/unitsRoute');
+var spec       = require('./app/specialisations/specialRoute');
+var test       = require('./app/v0.3/unitsRoute');
 
 var app        = express();                 // define our app using express
-var cors = require('cors');
+var cors       = require('cors');
 
 
 // configure app to use bodyParser()
@@ -31,13 +32,14 @@ var router = express.Router();              // get an instance of the express Ro
 router.get('/', function(req, res) {
     res.json({ message: 'This is the monPlan API v0.2.10. Please read the API documentation at: https://github.com/monashunitplanner/monplan-api' });
 });
+
 app.use(cors());
+app.set('etag', false);
 // more routes for our API will happen here
 
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
-app.set('etag', false);
 
 // UNITS ROUTES
 app.get('/units/', units.allUnits);
@@ -46,6 +48,10 @@ app.get('/units/:id', units.findUnit);
 // SPECIALISATION ROUTES
 app.get('/spec/', spec.allSpec);
 app.get('/spec/:id', spec.findSpec);
+
+
+// SPECIALISATION ROUTES
+app.get('/v0.3/:id', test.findUnit);
 
 // START THE SERVER
 // =============================================================================

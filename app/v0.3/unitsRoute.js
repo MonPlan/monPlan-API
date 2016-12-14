@@ -65,12 +65,12 @@ function findExtended(target, array) {
 
 
 exports.allUnits = function(req, res) {
-    res.send(JSONHandler('./app/units/pha.json'));
+    res.send(JSONHandler('./app/v0.3/pha.json'));
 };
 
 exports.findUnit = function(req, res) {
     var targetCourse = req.params.id;
-    var result = findExtended(targetCourse, JSONHandler('./app/units/pha.json'))
+    var result = findExtended(targetCourse, JSONHandler('./app/v0.3/pha.json'))
 
     if(result !== false){
       res.send(result);

@@ -42,7 +42,7 @@ function findExtended(target, array) {
       result = array[middle]
       var unitName = result.UnitName;
       var unitFac = result.Faculty;
-      var descrip = result.Synopsis;
+      var descrip = result.Sypnosis;
       var unitPreqs = result.Preqs;
       var unitProhib = result.Proh;
       var unitLocation = result.LocationAndTime;

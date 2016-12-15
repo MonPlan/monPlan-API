@@ -50,7 +50,7 @@ function findExtended(target, array) {
       var eftsl = result.EFTSL;
       var sca = result.SCABand;
 
-      var returnObject = {"UnitCode": target, "UnitName": unitName,"Description": descrip, "Location": unitLocation, "CreditPoints": CreditPoints, "Faculty": unitFac, "EFTSL":eftsl, "SCABand": sca, "Prerequisites": unitPreqs, "Prohibitions":unitProhib}
+      var returnObject = {"UnitCode": target, "UnitName": unitName,"Description": descrip, "UnitLocationTP": unitLocation, "CreditPoints": CreditPoints, "Faculty": unitFac, "EFTSL":eftsl, "SCABand": sca, "Prerequisites": unitPreqs, "Prohibitions":unitProhib}
       return returnObject
     } else {
       if(target < array[middle].UnitCode) {

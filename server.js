@@ -10,7 +10,7 @@ var bodyParser = require('body-parser');
 //our modules
 var units      = require('./app/units/unitsRoute');
 var spec       = require('./app/specialisations/specialRoute');
-var test       = require('./app/v0.3/unitsRoute');
+var v02        = require('./app/v0.2/unitsRoute');
 
 var app        = express();                 // define our app using express
 var cors       = require('cors');
@@ -51,7 +51,8 @@ app.get('/spec/:id', spec.findSpec);
 
 
 // SPECIALISATION ROUTES
-app.get('/v0.3/:id', test.findUnit);
+app.get('/v0.2/', v02.allUnits);
+app.get('/v0.2/:id', v02.findUnit);
 
 // START THE SERVER
 // =============================================================================

@@ -39,13 +39,18 @@ function findExtended(target, array) {
   while (lowerBound <= upperBound){
     var middle = Math.floor((lowerBound + upperBound)/2) //integer dicision to find middle
     if(target === array[middle].UnitCode){
-      var unitName = array[middle].UnitName;
-      var unitFac = array[middle].Faculty;
-      var descrip = array[middle].Synopsis;
-      var unitPreqs = array[middle].Preqs;
-      var unitProhib = array[middle].Proh;
+      result = array[middle]
+      var unitName = result.UnitName;
+      var unitFac = result.Faculty;
+      var descrip = result.Sypnosis;
+      var unitPreqs = result.Preqs;
+      var unitProhib = result.Proh;
+      var unitLocation = result.LocationAndTime;
+      var CreditPoints = result.CreditPoints;
+      var eftsl = result.EFTSL;
+      var sca = result.SCABand;
 
-      var returnObject = {"UnitName": unitName,"Description": descrip, "Faculty": unitFac, "Prerequisites": unitPreqs, "Prohibitions":unitProhib}
+      var returnObject = {"UnitCode": target, "UnitName": unitName,"Description": descrip, "UnitLocationTP": unitLocation, "CreditPoints": CreditPoints, "Faculty": unitFac, "EFTSL":eftsl, "SCABand": sca, "Prerequisites": unitPreqs, "Prohibitions":unitProhib}
       return returnObject
     } else {
       if(target < array[middle].UnitCode) {
@@ -58,14 +63,26 @@ function findExtended(target, array) {
   return false
 }
 
+/*
+UnitCode": "AMG5018",
+"UnitName": "Celebrity, fashion, publicity",
+"Faculty": "Faculty of Arts",
+"LocationAndTime": "[[['Malaysia'], ['First semester 2017 (Day)']]]",
+"CreditPoints": 12,
+"EFTSL": 0.25,
+"Preqs": "",
+"Proh": "APG5018, AMG4018",
+"SCABand": 1,
+"Sypnosis": "The unit looks at the \"attention economy\" as found in the media industry, paying particular attention to celebrity and fashion. Students are provided with a theoretical and historical understanding of publicity as a general field, from the emergence of the movie star and the development of magazine journalism to celebrity Twitter feeds and contemporary public relations.",
+*/
 
 exports.allUnits = function(req, res) {
-    res.send(JSONHandler('./app/units/extended.json'));
+    res.send(JSONHandler('./app/units/units.json'));
 };
 
 exports.findUnit = function(req, res) {
     var targetCourse = req.params.id;
-    var result = findExtended(targetCourse, JSONHandler('./app/units/extended.json'))
+    var result = findExtended(targetCourse, JSONHandler('./app/units/units.json'))
 
     if(result !== false){
       res.send(result);

@@ -15,8 +15,6 @@ var v02         = require('./app/v0.2/unitsRoute');
 var app         = express();                 // define our app using express
 var cors        = require('cors');
 
-var oauthserver = require('oauth2-server');
-
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));

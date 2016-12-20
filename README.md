@@ -30,14 +30,14 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 | /units/(unitCode)      | Returns descriptive (same as course/ext details about the course  (uses data from the v0.3 API)           |
 | /spec/(specCode)       | Returns JSON response for specialisations                                                                 |
 | /v0.2/                 | This is the older version of the API designed to respond with more data                                   |
-| /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        | 
+| /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
 
 # License
 MIT License
 
 Copyright (c) 2016 Monash University (eSolutions)
 
-_This is developed by Eric Jiang_
+_This is developed by Eric Jiang and Saurabh Joshi_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

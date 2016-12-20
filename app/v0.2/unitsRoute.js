@@ -1,8 +1,12 @@
 function JSONHandler(file){
   var fs = require('fs');
-  var obj = JSON.parse(fs.readFileSync(file, 'utf8'));
+  try {
+      var obj = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-  return obj
+      return obj;
+  } catch(e) {
+      return false;
+  }
 }
 
 // Find target Course using Binary Search
@@ -65,11 +69,16 @@ exports.allUnits = function(req, res) {
 
 exports.findUnit = function(req, res) {
     var targetCourse = req.params.id;
-    var result = findExtended(targetCourse, JSONHandler('./app/v0.2/extended.json'))
+    var data = JSONHandler('./app/v0.2/extended.json');
+    if(data !== false){
+        var result = findExtended(targetCourse,data)
 
-    if(result !== false){
-      res.send(result);
+        if(result !== false){
+          res.send(result);
+        } else {
+            res.status(404).send('Not found');
+        }
     } else {
-        res.status(404).send('Not found');
+        res.status(404).send('Invalid Code')
     }
 };

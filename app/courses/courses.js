@@ -1,18 +1,27 @@
 function JSONHandler(file){
   var fs = require('fs');
-  var obj = JSON.parse(fs.readFileSync(file, 'utf8'));
+  try {
+      var obj = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-  return obj
+      return obj;
+  } catch(e) {
+      return false;
+  }
 }
 
 exports.findCourseMap = function(req, res) {
     var targetCourse = req.params.id;
-    var targetFile = './app/courses/' + targetCourse + ".json"
-    var result = JSONHandler(targetFile)
+    var targetFile = './app/courses/data/' + targetCourse + ".json"
+    var data = JSONHandler(targetFile);
+    if(data !== false){
+        var result = findExtended(targetCourse,data)
 
-    if(result !== false){
-      res.send(result);
+        if(result !== false){
+          res.send(result);
+        } else {
+            res.status(404).send('Not found');
+        }
     } else {
-        res.status(404).send('Not found');
+        res.status(404).send('Invalid Code')
     }
 };

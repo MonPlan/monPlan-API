@@ -1,0 +1,43 @@
+{
+    "courseCode": "A2000",
+    "courseName": "Arts",
+    "courseType": "Bachelor degree",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2016
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2017
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2018
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2019
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2020
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2021
+        }
+    ]
+}

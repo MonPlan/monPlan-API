@@ -14,13 +14,7 @@ exports.findCourseMap = function(req, res) {
     var targetFile = './app/courses/data/' + targetCourse + ".json"
     var data = JSONHandler(targetFile);
     if(data !== false){
-        var result = findExtended(targetCourse,data)
-
-        if(result !== false){
-          res.send(result);
-        } else {
-            res.status(404).send('Not found');
-        }
+          res.send(data);
     } else {
         res.status(404).send('Invalid Code')
     }

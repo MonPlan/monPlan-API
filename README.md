@@ -1,7 +1,7 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.3.15-rev1`
+API Version: `v0.3.15-rc2`
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
@@ -31,6 +31,12 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 | /spec/(specCode)       | Returns JSON response for specialisations                                                                 |
 | /v0.2/                 | This is the older version of the API designed to respond with more data                                   |
 | /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
+
+# What's Coming
+We are please to announce we are continuing to support and update our API! Here's a list of what's coming in **v0.4.x**
+- oauth authentication layer for server response
+- interaction with a mongodb database to store unit feedback
+- upgrades to our system with better response code system (404, 200, etc.) for better API handling
 
 # License
 MIT License

@@ -32,6 +32,12 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 | /v0.2/                 | This is the older version of the API designed to respond with more data                                   |
 | /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
 
+# What's Coming
+We are please to announce we are continuing to support and update our API! Here's a list of what's coming in **v0.4.x**
+- oauth authentication layer for server response
+- interaction with a mongodb database to store unit feedback
+- upgrades to our system with better response code system (404, 200, etc.) for better API handling
+
 # License
 MIT License
 

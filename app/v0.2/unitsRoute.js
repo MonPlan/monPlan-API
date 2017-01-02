@@ -74,7 +74,7 @@ exports.findUnit = function(req, res) {
         var result = findExtended(targetCourse,data)
 
         if(result !== false){
-          res.send(result);
+          res.status(200).send(result);
         } else {
             res.status(404).send('Not found');
         }

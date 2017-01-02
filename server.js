@@ -12,6 +12,7 @@ var units       = require('./app/units/unitsRoute');
 var spec        = require('./app/specialisations/specialRoute');
 var v02         = require('./app/v0.2/unitsRoute');
 var courses     = require('./app/courses/courses');
+var basic     = require('./app/basic/route');
 
 var app         = express();                 // define our app using express
 var cors        = require('cors');
@@ -55,6 +56,8 @@ app.get('/v0.2/', v02.allUnits);
 app.get('/v0.2/:id', v02.findUnit);
 
 app.get('/courses/:id', courses.findCourseMap)
+
+app.get('/basic/:id', basic.downloadInfo)
 // START THE SERVER
 // =============================================================================
 app.listen(port);

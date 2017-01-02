@@ -31,7 +31,7 @@ var router = express.Router();              // get an instance of the express Ro
 
 // test route to make sure everything is working (accessed at GET http://localhost:8080/api)
 router.get('/', function(req, res) {
-    res.json({ message: 'This is the monPlan API v0.2.10. Please read the API documentation at: https://github.com/monashunitplanner/monplan-api' });
+    res.json({ message: 'This is the monPlan API. Please read the API documentation at: https://github.com/monashunitplanner/monplan-api' });
 });
 
 app.use(cors());

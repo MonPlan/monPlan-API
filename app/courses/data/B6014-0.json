@@ -1,0 +1,151 @@
+{
+    "courseCode": "B6014",
+    "courseName": "Actuarial Studies",
+    "courseType": "Master degree",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Prohibitions": "AFC2340",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2340",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Debt markets and fixed income securities"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ETC2430",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Actuarial statistics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the scope for policy to improve macroeconomic performance. It will cover: the cyclical behaviour of the economy; the role of monetary, fiscal and exchange rate policies in influencing economic activities; the implementation and operation of monetary policy; the relationship of exchange rates to monetary policy; major factors determining movements in interest rates and exchange rates in both the intermediate and long terms.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECF2331",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5923",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Macroeconomics and monetary policy"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Students will develop sound knowledge of the differing views of the firm and industry. Topics include: the firm within a capitalist economic system; the macroeconomic constraints on the firm; the market structural constraints on the firm; differing perspectives of the firm - the conventional economic, technological view, the accounting, management and marketing views, the recent transaction costs and new classical view; how these different areas explain current issues such as downsizing and electronic commerce.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECF2731, ECG2731, ECS2731 and ECW2731",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5927",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Managerial economics"
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "An introduction to probability and statistical inference for use in economics and business. Topics covered include random variables, moments and cumulants generating function, discrete and continuous distributions, independence, jointly distributed random variables, conditional random variables, the central limit theorem, sampling distribution, properties of estimators, confidence intervals, tests of hypotheses.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MTH2222, ETC2520",
+                    "SCABand": 3,
+                    "UnitCode": "ETC5252",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Probability and statistical inference for economics and business"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                }
+            ],
+            "year": 2016
+        },
+        {},
+        {}
+    ]
+}

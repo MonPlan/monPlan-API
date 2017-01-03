@@ -158,8 +158,9 @@
                     "UnitName": "Fundamental interaction design studio 1"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
+        {},
         {
             "code": "S2-01",
             "numberOfUnits": 1,
@@ -187,7 +188,7 @@
                     "UnitName": "Interaction design research project"
                 }
             ],
-            "year": 2019
+            "year": 2017
         }
     ]
 }

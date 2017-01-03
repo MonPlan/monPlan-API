@@ -44,13 +44,13 @@
             "code": "S2-01",
             "numberOfUnits": 0,
             "units": [],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S1-01",
             "numberOfUnits": 0,
             "units": [],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -79,31 +79,31 @@
                     "UnitName": "Scientific practice and communication (advanced)"
                 }
             ],
+            "year": 2017
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2018
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 0,
+            "units": [],
+            "year": 2018
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 0,
+            "units": [],
             "year": 2019
         },
         {
-            "code": "S1-01",
-            "numberOfUnits": 0,
-            "units": [],
-            "year": 2020
-        },
-        {
             "code": "S2-01",
             "numberOfUnits": 0,
             "units": [],
-            "year": 2021
-        },
-        {
-            "code": "S1-01",
-            "numberOfUnits": 0,
-            "units": [],
-            "year": 2022
-        },
-        {
-            "code": "S2-01",
-            "numberOfUnits": 0,
-            "units": [],
-            "year": 2023
+            "year": 2019
         }
     ]
 }

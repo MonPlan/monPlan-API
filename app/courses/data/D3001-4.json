@@ -3,6 +3,7 @@
     "courseName": "Education",
     "courseType": "Bachelor degree (honours)",
     "teachingPeriods": [
+        {},
         {
             "code": "S1-01",
             "numberOfUnits": 4,
@@ -108,7 +109,7 @@
                     "UnitName": "Foundation to inclusive education"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S2-01",
@@ -215,7 +216,7 @@
                     "UnitName": "Using assessment to respond to diversity across the school years"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S1-01",
@@ -322,7 +323,7 @@
                     "UnitName": "Understanding behaviour in classrooms and schools"
                 }
             ],
-            "year": 2019
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -460,7 +461,7 @@
                     "UnitName": "Classroom practice"
                 }
             ],
-            "year": 2020
+            "year": 2018
         },
         {
             "code": "S1-01",
@@ -588,7 +589,7 @@
                     "UnitName": "Secondary pedagogy A"
                 }
             ],
-            "year": 2021
+            "year": 2018
         },
         {
             "code": "S2-01",
@@ -777,7 +778,7 @@
                     "UnitName": "Creative arts education"
                 }
             ],
-            "year": 2022
+            "year": 2019
         },
         {
             "code": "S1-01",
@@ -938,7 +939,7 @@
                     "UnitName": "Health and physical education"
                 }
             ],
-            "year": 2023
+            "year": 2019
         },
         {
             "code": "S2-01",
@@ -1091,7 +1092,7 @@
                     "UnitName": "Secondary pedagogy B"
                 }
             ],
-            "year": 2024
+            "year": 2020
         }
     ]
 }

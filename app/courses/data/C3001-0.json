@@ -199,7 +199,7 @@
                     "UnitName": "Research project 1"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S1-01",
@@ -258,7 +258,7 @@
                     "UnitName": "Research methods in computer science"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -344,7 +344,7 @@
                     "UnitName": "Research project 2"
                 }
             ],
-            "year": 2019
+            "year": 2017
         },
         {
             "code": "S1-01",
@@ -382,7 +382,7 @@
                     "UnitName": "Industry-based learning"
                 }
             ],
-            "year": 2020
+            "year": 2018
         },
         {
             "code": "S2-01",
@@ -442,8 +442,9 @@
                     "UnitName": "Databases"
                 }
             ],
-            "year": 2021
+            "year": 2018
         },
+        {},
         {
             "code": "S1-01",
             "numberOfUnits": 2,
@@ -529,7 +530,7 @@
                     "UnitName": "Honours thesis part 2"
                 }
             ],
-            "year": 2023
+            "year": 2019
         },
         {
             "code": "S2-01",
@@ -616,7 +617,7 @@
                     "UnitName": "Honours thesis final"
                 }
             ],
-            "year": 2024
+            "year": 2020
         }
     ]
 }

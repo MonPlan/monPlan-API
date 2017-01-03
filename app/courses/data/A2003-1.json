@@ -1,0 +1,385 @@
+{
+    "courseCode": "A2003",
+    "courseName": "Music",
+    "courseType": "Bachelor degree",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit draws together students from various levels of musical experience at pre-tertiary level and consolidates fundamental skills in creative music technology. Students develop technical skills by completing tasks that demonstrate a fundamental knowledge of computers, synthesizers and audio recording equipment in a studio setting. Students also begin to formalise conceptual ideas concerning the use of music technology and music programming this prepares them for the next unit in the sequence, ATS1049 Creative music technology 2.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology or Ethnomusicology and musicology specialisations.",
+                    "Prohibitions": "ATS1349",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1048",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is the first of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It introduces students to the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding timbre, intervals, chords, metre, rhythm, tonality, scales, melodies, chord function and part writing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1899",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music theory and ear training 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Through the study of selected representative musical works from the Western art music canon, this unit explores the historical conditions under which music was produced and the purposes it served for composers, performers, patrons and the public. Musical works are studied in terms of their historical, structural and stylistic characteristics.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1345",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music and history"
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consolidates and extends fundamental skills in creative music technology developed in ATS1048 Creative music technology 1. Students further develop technical skills by completing tasks with computers, synthesizers, and audio recording equipment in a live performance and studio settings. Students also apply conceptual ideas concerning the use of music technology to performance or recorded works, and this prepares them for the study of intermediate level creative music technology techniques in the next unit in the sequence, ATS2129 Creative music technology 3.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS1048 OR ATS1349This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology or Ethnomusicology and musicology specialisations.",
+                    "Prohibitions": "ATS1350",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1049",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is the second of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It expands on the skills and knowledge developed in ATS1899 Music theory and ear training 1 through the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding chords and their function, voice leading, melody harmonisation and phrase structure.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS1899",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1900",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music theory and ear training 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Through the study of selected musics from around the world, this unit explores the ways in which culture shapes the philosophies, techniques, organising principles and concepts of musical performance. By analysing performers, audiences, texts and technologies, the unit also investigates specific musical practices in order to generate broader questions about music. How do musicians learn? What does music tell us about culture? What is the musical event? These are some of the questions that will be examined in the unit. The unit is open to all students with an interest in music. No prior musical experience required.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS1346",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music and culture"
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consolidates intermediate skills creative music technology developed in ATS1049 Creative music technology 2. Students further develop technical skills by completing intermediate tasks focusing on production, recording and performance techniques. Students also comprehend how to manipulate live instrument and studio recordings that employ a more complicated signal flow. This prepares students for the study of further intermediate level creative music technology techniques in the next unit in the sequence, ATS2130 Creative music technology 4.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS1049 or ATS1350This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology specialisation.",
+                    "Prohibitions": "ATS2808",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2129",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is the third of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It further expands on the skills and knowledge developed in ATS1900 Music theory and ear training 2 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Students study advanced analytical and compositional procedures of tonal music through critical listening, study and analysis of representative works. Students undertake analysis, harmony and aural exercises to consolidate the understanding of functional harmony.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS1900This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2901",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music theory and ear training 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a series of structured strategies and devices for developing a systematic approach to melodic based improvisation skills. It looks at melodic elements and structures in terms of modes, intonation, microtonal inflections and flavours and draws upon systems and processes for developing improvisatory approaches from jazz, blues, Hindustani music, Arabic music, Latin music, Western art music and other musical sources. The unit involves both practical and theoretical components.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "Twelve credit points of first-year Arts units.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2687",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "The ethnomusicology of improvisation"
+                }
+            ],
+            "year": 2017
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit consolidates and extends the intermediate skills in creative music technology developed in ATS2129 Creative music technology 3. Students further develop intermediate technical skills by combining comprehensive production, composition, recording and performance techniques. By participating in a final performance, students demonstrate their acquired theoretical and creative skills, and this prepares them for the advanced level study of creative music technology in the next unit in the sequence, ATS3142 Creative music technology 5.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS2129 or ATS2808This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology specialisation.",
+                    "Prohibitions": "ATS2809",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2130",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 4"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is the fourth and final of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It consolidates the skills and knowledge developed in ATS2901 Music theory and ear training 3 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Further study of advanced analytical and compositional procedures in representative works incorporates the analysis and recognition of chromatic harmony, voice leading techniques and different structural levels.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS2901This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2902",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music theory and ear training 4"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines research pertaining to jazz history. The unit utilises critical readings of historical and biographical texts in conjunction with analyses of representative audio and score materials to investigate socio-cultural trends, major significant historical events and key figures that have influenced the development of jazz.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "Twelve credit points of first-year Arts units.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS2333",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Jazz history"
+                }
+            ],
+            "year": 2017
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit consolidates advanced skills in creative music technology developed in ATS2130 Creative music technology 4. Students further develop technical skills by conceptualising and articulating a distinctive work (for example, a performance or installation). Students develop new strategies and refine personal 'sound' production values in relation to this task, and this prepares them for the extended focus of the final unit in the sequence, ATS3143 Creative music technology 6.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS2130 or ATS2809This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology specialisation.",
+                    "Prohibitions": "ATS3830",
+                    "SCABand": 1,
+                    "UnitCode": "ATS3142",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 5"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines fundamental concepts and business practices of the Australian music industry, focusing on the practical knowledge and transferable skills required to commence and maintain a professional career in the music industry. It explores the interaction of music and culture mediated through business institutions and includes an introduction to self-management, copyright, record companies and the recording process. Attention is paid to the Australian music industry and some comparison with overseas practices is made.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "Twelve credit points of second-year Arts units.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS3094",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "The music business: How to be successful in the music industry"
+                }
+            ],
+            "year": 2018
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consolidates and extends advanced skills in creative music technology developed in ATS3142 Creative music technology 5. Students further develop technical skills by creating a final work, encompassing recordings, productions and live performance. This final work should consolidate and go beyond the level of skills attained in ATS3142 Creative music technology 5.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "ATS3142 or ATS3830This unit is only available to students enrolled in a Bachelor of Music single or double degree - Creative music technology specialisation.",
+                    "Prohibitions": "ATS3831",
+                    "SCABand": 1,
+                    "UnitCode": "ATS3143",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Creative music technology 6"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores select twentieth- and twenty-first-century musics in Australia. By examining various socio-political perspectives, such as multiculturalism, the unit also investigates the cultural impact of music in the Australia as well as the way in which individuals and groups engage in musical practices.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "Prerequisites": "Twelve credit points of second-year Arts units.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "ATS3061",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Music in Australia"
+                }
+            ],
+            "year": 2018
+        }
+    ]
+}

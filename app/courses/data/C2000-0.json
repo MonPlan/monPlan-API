@@ -125,7 +125,7 @@
                     "UnitName": "IT professional practice"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": false,
@@ -208,7 +208,7 @@
                     "UnitName": "Databases"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": false,
@@ -253,19 +253,19 @@
                     "UnitName": "IT project management"
                 }
             ],
-            "year": 2019
+            "year": 2017
         },
         {
             "code": false,
             "numberOfUnits": 0,
             "units": [],
-            "year": 2020
+            "year": 2018
         },
         {
             "code": false,
             "numberOfUnits": 0,
             "units": [],
-            "year": 2021
+            "year": 2018
         }
     ]
 }

@@ -2,5 +2,12 @@
     "courseCode": "F2001",
     "courseName": "Architectural Design",
     "courseType": "Bachelor degree",
-    "teachingPeriods": []
+    "teachingPeriods": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
 }

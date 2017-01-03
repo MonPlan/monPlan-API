@@ -163,7 +163,7 @@
                     "UnitName": "Web design"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S1-01",
@@ -203,7 +203,7 @@
                     "UnitName": "Contemporary international art"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -256,8 +256,9 @@
                     "UnitName": "Feature writing"
                 }
             ],
-            "year": 2019
+            "year": 2017
         },
+        {},
         {
             "code": "S1-01",
             "numberOfUnits": 2,
@@ -287,7 +288,8 @@
                     "UnitName": "Contemporary international art"
                 }
             ],
-            "year": 2021
-        }
+            "year": 2018
+        },
+        {}
     ]
 }

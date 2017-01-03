@@ -1,0 +1,502 @@
+{
+    "courseCode": "B6015",
+    "courseName": "Professional Accounting and Business Law",
+    "courseType": "Master degree/Master degree",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an introduction to accounting and an understanding of the preparation, presentation and interpretation of financial statements. In particular, emphasis is placed on accounting processes, practices and policies that enable the financial performance and financial position of an entity, as displayed by the balance sheet, income statement and statement of cash flows, to be measured, analysed and interpreted.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF9500, AFG9071, ACG5971, AFX9500",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5950",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory accounting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Microeconomics: scarcity; economic choice; economic systems; economic ideology; demand and supply analysis; consumer behaviour and elasticity; costs of production and profit maximisation; perfect competition and monopoly. Macroeconomics: aggregate demand and aggregate supply; Keynesian versus Neoclassical approaches; the money market and monetary policy; the government budget deficit and fiscal policy; the foreign exchange market and exchange rate policy; unemployment and inflation; the current and capital accounts.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECG9101, ECG5901, ECF9530",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5953",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Economics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing, and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Applications to critical analysis of business and economic data will be emphasised. Excel software will be used.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFX9510, ETC1000, ETG1102, ETW1000, ETW1102, ETX1100 and ETC9000.",
+                    "SCABand": 3,
+                    "UnitCode": "ETF5900",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business statistics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The overall aim of this unit is to introduce pre-experience students to the range of activities associated with the management of individuals, groups and the organisation. In order to achieve this aim the content will cover several key areas of management. For example, the current challenges facing managers in a turbulent environment, the role of the individual, the importance of teamwork, managing conflict and effective decision making. Finally the role of corporate culture and ethics. Students undertaking this unit should expect to experience a variety of activities in order to challenge the content as prescribed above. These activities will include interactive case studies and application of the theory to 'real' world examples through group presentations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MGX5962, MGX9600, MGX5960, MGG9600, MGG5960, MGX9602 and students enrolled in course 0105, 2099, 2778, 1065 or 0028.",
+                    "SCABand": 3,
+                    "UnitCode": "MGF5962",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of management"
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "An overview of the Australian financial reporting and regulatory framework for reporting entities, including an analysis of the relevant significant accounting standards, benchmarking against the conceptual framework, professional reporting requirements and stock exchange requirements. Financial reporting for corporate groups (including the impact of control, joint control and significant influence) and selected issues in financial reporting are also explored and benchmarked against the conceptual framework.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. If students are enrolled in course 0748, 0790, 0826, 3843 or 4402 the prerequisite is AFX9500 or ACF5950.",
+                    "Prohibitions": "AFF9601, AFG9073, AFX4601, AFX9530",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5953",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Financial accounting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit aims to develop students' understanding of the concepts and techniques of management accounting, and skills in the use of management accounting techniques to communicate decision-useful information to management. The unit content includes costing terminology, cost accumulation and recording systems, costing methods for both manufacturing and service-based organisations, how management accounting information informs key product decisions such as pricing and product mix, and the design of budget systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFX9500 or ACF5950",
+                    "Prohibitions": "AFF9611, AFG9072, ACG5972, AFX5611, AFX9550",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5955",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Management accounting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is designed to introduce the concept of risk as a business philosophy and to introduce students to the Australian Risk Management Standard, AS/NZS/ISO31000:2009. It will look at the evolution of risk, the requirements for risk management, the risk management process and steps, and the application of risk management.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF9020",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5902",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to risk principles"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines business law in practice, including: negotiation techniques, applying contract law legal risk management techniques, applying the law of negligence, statutory consumer law protections and occupational health and safety choosing the most appropriate business form and complying with requirements, applying corporations law, the law of partnerships, agency and sole traders.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "BTG9270, BTX9020, MBA9002, BTX5140, BTX9030, BTF5904, BTM5903",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5903",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Law and business decisions"
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Because most accounting systems are computerised, accountants must understand software and information systems to turn data into financial information and to develop and evaluate controls. This unit builds an understanding of the way accounting information systems work so that students may use, analyse and contribute to the design of accounting information systems and subsystems. Accordingly, the unit provides students with an understanding of critical information technologies that drive information systems; core business processes that allow an organisation to operate efficiently and effectively; common documentation tools used to diagram and assess business processes and databases; and internal control concepts that can be applied to mitigate risks.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Either ACF5950 or AFX9500",
+                    "Prohibitions": "AFF2851, AFC2851, AFX9520, AFX9521, AFX9580 and ACF5958",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5904",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Accounting information systems"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics include nature and objectives of auditing; auditing standards; audit reporting; audit expectation gap and legal liability; professional ethics and quality control; audit evidence; audit planning, strategic business risk analysis, materiality, analytical review procedures and audit risk model; study and evaluation of internal control and model; assessing control risk CIS audit techniques, test of transactions and tests of balances, completing the audit and post audit responsibilities; internal auditing and performance auditing, other assurance services and current issues in auditing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. If students are enrolled in course 0748, 0790, 0826, 3843 or 4402 prerequisite is ACF5953 or AFX5930.",
+                    "Prohibitions": "AFG9041, ACG5941, AFF9621, AFX5621, AFX9570",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5957",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Auditing and assurance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The management of risk is a multi-dimensional activity that entails a range of disciplines and thought processes to ensure that resilience is created and maintained within the firm. There needs to be an understanding by business students of the range of activities and events that can be exposed by the application of risk management techniques and processes. This unit includes detailed analysis of a series of case studies drawn from real life events that encompass the holistic nature of risk within a firm and/or society. If appropriate, they may be presented and discussed by an industry practitioner. The unit is designed to bring all facets of the specialisation together.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFF9020 or BFF5902",
+                    "Prohibitions": "AFF5021",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5021",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Case studies in risk management"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an understanding of the general law of corporations within the Australian regulatory context. The focus of this unit is on the nature of a corporation and its governance structure as a means of carrying out business. The unit examines the role of the corporation in society, its relationship to shareholders, creditors, the regulator and the community and includes topics which address the concept of limited liability, director's duties, shareholder remedies and corporate insolvency.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "BTF5903 or BTX5140 or MBA9002 unless enrolled in course 0503.",
+                    "Prohibitions": "BTG9220, BTX9020, BTF5950",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5501",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporations law"
+                }
+            ],
+            "year": 2017
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit covers the concepts of income taxation and the taxation of capital gains in their underlying historical, social and constitutional contexts. It includes discussion and learning of the policy and constitutional matrices of taxation, the legal definition of income, taxation of income from personal services and business, taxation of fringe benefits, indirect taxation of goods and services, taxation of capital gains, taxation of companies and allowable deductions from gross income in personal and business contexts.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "BTG9270 and BTX9651",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5965",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Taxation law"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Regulatory oversight and control are increasingly shaping the development of economies and business. Managing business regulation and compliance is a fundamental component of every business operation whether these regulations are by law or self-regulatory. This unit will provide a framework for understanding regulation, government and industry regulators and the range of regulatory methods employed to achieve law enforcement and compliance with business regulation.Adopting a case study approach, students will explore the meanings and limitations of regulation in different economic and business contexts such as corporations, environment and sustainability, corporate social responsibility, financial services, taxation and workplaces in Australia and regulation practice in the Asia Pacific region.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business regulation and compliance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is one of the final core units in the Master of Professional Accounting, and builds on knowledge and skills gained in earlier units in financial accounting. One of its primary purposes is to introduce students to theories currently being used to assist in understanding the role of financial accounting and reporting in the decision making process of both preparers and users of information. These theories include positive accounting theory, capital markets and systems theories. It also addresses how regulation might influence the production of accounting information.The unit addresses a number of contemporary accounting topics, from both a practical and theoretical perspective. These include intangible assets, social and environmental reporting, financial instruments and foreign currency transactions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. If students are enrolled in course 0748, 0790, 0826, 3843 or 4402 prerequisite is ACF5953 or AFX9530.",
+                    "Prohibitions": "AFF9631, AFG9040, ACG5940, AFX5631, AFX9560",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5956",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced financial accounting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "In today's business environment the accountant engages with the organisation's senior managers and contributes to strategy formulation and implementation. This unit focuses on the concepts and techniques of business strategy formulation and how management accounting information systems act as a corporate control system providing information for strategic decisions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. If students are enrolled in course 0748, 0790, 0826, 3843 or 4402 prerequisite is ACF5955.",
+                    "Prohibitions": "AFF5100, ACC5100",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Strategic management accounting"
+                }
+            ],
+            "year": 2017
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit requires students to formulate a research topic on a business law related area of study and complete an approximately 8,000 word research project. Seminars will be conducted at which students will present progress and final reports on their research projects. The seminars will also include practical research and academic skills sessions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "It is recommended that this unit be undertaken in the last semester of study for the Master of Business Law.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5801",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Masters research paper"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an appreciation of best corporate governance practices from a global perspective. It considers the reasons for the interest in corporate governance and compares and contrasts the various international corporate governance systems and best practice models; roles and functions of the board of directors, board committees and the board's relationship with management are explored from both a legal and management perspective; empirical studies of the relationship between corporate governance and corporate performance, and the role and legal duties of directors in takeover and insolvency contexts. Corporate governance issues in Asia are also analysed.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MGX5320, BTX5000",
+                    "SCABand": 3,
+                    "UnitCode": "BTF5000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporate governance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers corporate finance concepts and theories at an introductory level. Students will be expected to be able to master basic calculations involving share and bond valuations, NPV and IRR, company cost of capital, etc. and to use them in determining whether investment projects should proceed as well as the value of companies. They will also expected to be able to interpret the results and to discuss basic issues and theories appropriate to an introductory level unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must be enrolled in 0503 or have passed ETF5900.",
+                    "Prohibitions": "AFF9250, BFF5925, AFF9641, AFG9044, BFG5944, AFX9641, AFX9540",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5954",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business finance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Accounting is concerned with the provision, analysis and communication of information to stakeholders. Accountants record, summarise, classify, interpret and communicate both financial and non-financial information. In this capstone unit, students will consolidate their previous learning gained throughout the Master of Professional Accounting course and apply their skills and knowledge directly in a team-based environment. The unit aims to prepare students for an accounting and finance career path. Using a virtual integrated business environment, the unit showcases a thematic approach that allows the interaction of regulatory, economic, social, ethical and global perspectives.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ACF5904 or ACF5958, plus ACF5955.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5510",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Integrated accounting"
+                }
+            ],
+            "year": 2018
+        }
+    ]
+}

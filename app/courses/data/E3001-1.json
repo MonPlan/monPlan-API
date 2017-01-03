@@ -2,5 +2,16 @@
     "courseCode": "E3001",
     "courseName": "Engineering",
     "courseType": "Bachelor degree (honours)",
-    "teachingPeriods": []
+    "teachingPeriods": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
 }

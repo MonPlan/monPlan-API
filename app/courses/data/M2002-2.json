@@ -141,7 +141,7 @@
                     "UnitName": "The Australian healthcare system"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S1-01",
@@ -211,7 +211,7 @@
                     "UnitName": "Health promotion and disease prevention"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -281,7 +281,9 @@
                     "UnitName": "Culture, society and health"
                 }
             ],
-            "year": 2019
-        }
+            "year": 2017
+        },
+        {},
+        {}
     ]
 }

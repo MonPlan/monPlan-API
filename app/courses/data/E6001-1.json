@@ -73,13 +73,14 @@
                     "UnitName": "Engineering entrepreneurship"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
+        {},
         {
             "code": "S2-01",
             "numberOfUnits": 0,
             "units": [],
-            "year": 2019
+            "year": 2017
         }
     ]
 }

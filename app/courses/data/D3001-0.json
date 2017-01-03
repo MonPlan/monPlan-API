@@ -3,6 +3,7 @@
     "courseName": "Education",
     "courseType": "Bachelor degree (honours)",
     "teachingPeriods": [
+        {},
         {
             "code": "S1-01",
             "numberOfUnits": 5,
@@ -121,7 +122,7 @@
                     "UnitName": "Introduction to the early childhood education field"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S2-01",
@@ -241,7 +242,7 @@
                     "UnitName": "Inclusivity and partnerships in early childhood education"
                 }
             ],
-            "year": 2018
+            "year": 2017
         },
         {
             "code": "S1-01",
@@ -443,7 +444,7 @@
                     "UnitName": "Curriculum, assessment and documentation in education"
                 }
             ],
-            "year": 2019
+            "year": 2017
         },
         {
             "code": "S2-01",
@@ -659,7 +660,7 @@
                     "UnitName": "Children and childhood across time: Policies and practices"
                 }
             ],
-            "year": 2020
+            "year": 2018
         },
         {
             "code": "S1-01",
@@ -920,7 +921,7 @@
                     "UnitName": "Professional studies"
                 }
             ],
-            "year": 2021
+            "year": 2018
         },
         {
             "code": "S2-01",
@@ -1189,7 +1190,7 @@
                     "UnitName": "Art, environment and community"
                 }
             ],
-            "year": 2022
+            "year": 2019
         },
         {
             "code": "S1-01",
@@ -1374,7 +1375,7 @@
                     "UnitName": "Researching teaching and learning"
                 }
             ],
-            "year": 2023
+            "year": 2019
         },
         {
             "code": "S2-01",
@@ -1567,7 +1568,7 @@
                     "UnitName": "Research project in education"
                 }
             ],
-            "year": 2024
+            "year": 2020
         }
     ]
 }

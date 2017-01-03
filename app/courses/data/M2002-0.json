@@ -183,7 +183,7 @@
                     "UnitName": "Clinical concepts of paramedic practice 1"
                 }
             ],
-            "year": 2017
+            "year": 2016
         },
         {
             "code": "S1-01",
@@ -274,7 +274,10 @@
                     "UnitName": "Clinical concepts of paramedic practice 2"
                 }
             ],
-            "year": 2018
-        }
+            "year": 2017
+        },
+        {},
+        {},
+        {}
     ]
 }

@@ -19,6 +19,9 @@ exports.downloadInfo = function(req, res) {
     } else if(target === "units.json"){
         var result = JSONHandler(targetFile)
         res.status(200).send(result);
+    } else if(target === "courses.json"){
+        var result = JSONHandler(targetFile)
+        res.status(200).send(result);
     } else {
     res.status(404).send('Invalid or Missing File')
     }

@@ -234,12 +234,14 @@
                 {
                   "UnitName": "Major Unit 4",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Information Technology"
                 },
                 {
                   "UnitName": "Major Unit 5",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Information Technology"
                 },
                 {
                   "UnitName": "Free Elective",
@@ -256,7 +258,8 @@
               {
                 "UnitName": "Capstone Unit 1",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of Information Technology"
               },
               {
                 "UnitName": "Free Elective",
@@ -266,12 +269,14 @@
               {
                 "UnitName": "Major Unit 6",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of Information Technology"
               },
               {
                 "UnitName": "Major Unit 7",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of Information Technology"
               }
             ],
             "year": 2018
@@ -286,7 +291,10 @@
                 "CreditPoints": 0
               },
               {
-                "UnitName": "Major Unit 8"
+                "UnitName": "Major Unit 8",
+                "SCABand": 0,
+                "CreditPoints": 0,
+                "Faculty": "Faculty of Information Technology"
               },
               {
                 "UnitName": "Free Elective",

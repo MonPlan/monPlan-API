@@ -8,36 +8,11 @@
             "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit introduces programming fundamentals and the Python language to students. The unit provides a foundational understanding of program design and implementation of algorithms to solve simple problems. Fundamental programming control structures, built in and complex datatypes and mechanisms for modularity will be presented in Python.Topics covered will include basic input and output, program control structures, basic data structures and modular program structure. Problem-solving strategies and techniques for algorithm development, iteration and recursion, algorithm efficiency and the limitations of algorithms will be introduced.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Information Technology",
-                    "Prerequisites": "VCE Mathematics Methods or Specialist Mathematics units 3 & 4 with a study score of 25 or MTH1010.Note: For 2016 Further Mathematics with a study score of 35 will be accepted.",
-                    "Prohibitions": "FIT1029",
-                    "SCABand": 2,
-                    "UnitCode": "FIT1045",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)",
-                                "October intake 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Algorithms and programming fundamentals in python"
+                  "UnitCode": "Choose One",
+                  "UnitName": "FIT1045, FIT1048, FIT1051",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Information Technology"
                 },
                 {
                     "CreditPoints": 6,
@@ -157,42 +132,11 @@
             "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "The unit introduces students to systems analysis and design as a problem solving activity, within the framework of a selected methodology. It will focus on contemporary industry practice; investigating understanding and documenting system requirements; a range of design and implementation activities; and professional skills required for systems development.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Information Technology",
-                    "Prerequisites": "24 points of FIT units",
-                    "Prohibitions": "BUS2021, CPE2003, CSE1204, CSE1205, GCO1813, GCO2601, GCO2852, GCO2826, IMS1001, IMS1002, IMS1805, IMS2071, IMS9001",
-                    "SCABand": 2,
-                    "UnitCode": "FIT2001",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "South Africa"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Systems development"
+                  "UnitCode": "Choose One",
+                  "UnitName": "FIT2001, FIT2099",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Information Technology",
                 },
                 {
                     "CreditPoints": 6,
@@ -334,7 +278,7 @@
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 0,
+            "numberOfUnits": 4,
             "units": [
               {
                 "UnitName": "Capstone Unit 2",

@@ -1,7 +1,7 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.3.20-rc3`
+API Version: `v0.3.22`
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.

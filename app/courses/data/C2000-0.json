@@ -5,7 +5,7 @@
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -77,13 +77,23 @@
                         ]
                     ],
                     "UnitName": "Introduction to computer systems, networks and security"
+                },
+                {
+                  "UnitName": "Major Unit 1",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0
                 }
             ],
             "year": 2016
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -123,13 +133,28 @@
                         ]
                     ],
                     "UnitName": "IT professional practice"
+                },
+                {
+                  "UnitName": "Major Unit 2",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0
                 }
             ],
             "year": 2016
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -206,13 +231,23 @@
                         ]
                     ],
                     "UnitName": "Databases"
+                },
+                {
+                  "UnitName": "Major Unit 3",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0
                 }
             ],
             "year": 2017
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -251,22 +286,48 @@
                         ]
                     ],
                     "UnitName": "IT project management"
+                },
+                {
+                  "UnitName": "Major Unit 4",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Major Unit 5",
+                  "SCABand": 0,
+                  "CreditPoints": 0
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0
                 }
             ],
             "year": 2017
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
               {
-                "UnitName": "Free Elective"
+                "UnitName": "Capstone Unit 1",
+                "SCABand": 0,
+                "CreditPoints": 0
               },
               {
-                "UnitName": "Major Unit 6"
+                "UnitName": "Free Elective",
+                "SCABand": 0,
+                "CreditPoints": 0
               },
               {
-                "UnitName": "Major Unit 7"
+                "UnitName": "Major Unit 6",
+                "SCABand": 0,
+                "CreditPoints": 0
+              },
+              {
+                "UnitName": "Major Unit 7",
+                "SCABand": 0,
+                "CreditPoints": 0
               }
             ],
             "year": 2018
@@ -274,7 +335,26 @@
         {
             "code": "S2-01",
             "numberOfUnits": 0,
-            "units": [],
+            "units": [
+              {
+                "UnitName": "Capstone Unit 2",
+                "SCABand": 0,
+                "CreditPoints": 0
+              },
+              {
+                "UnitName": "Major Unit 8"
+              },
+              {
+                "UnitName": "Free Elective",
+                "SCABand": 0,
+                "CreditPoints": 0
+              },
+              {
+                "UnitName": "Free Elective",
+                "SCABand": 0,
+                "CreditPoints": 0
+              }
+            ],
             "year": 2018
         }
     ]

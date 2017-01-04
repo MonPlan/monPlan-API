@@ -29,7 +29,6 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 | /units/                | Returns _every course_ with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions) |
 | /units/(unitCode)      | Returns descriptive (same as course/ext details about the course  (uses data from the v0.3 API)           |
 | /spec/(specCode)       | Returns JSON response for specialisations                                                                 |
-| /v0.2/                 | This is the older version of the API designed to respond with more data                                   |
 | /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
 
 # What's Coming

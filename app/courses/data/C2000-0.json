@@ -4,7 +4,7 @@
     "courseType": "Bachelor degree",
     "teachingPeriods": [
         {
-            "code": false,
+            "code": "S1-01",
             "numberOfUnits": 2,
             "units": [
                 {
@@ -82,7 +82,7 @@
             "year": 2016
         },
         {
-            "code": false,
+            "code": "S2-01",
             "numberOfUnits": 1,
             "units": [
                 {
@@ -128,7 +128,7 @@
             "year": 2016
         },
         {
-            "code": false,
+            "code": "S1-01",
             "numberOfUnits": 2,
             "units": [
                 {
@@ -211,7 +211,7 @@
             "year": 2017
         },
         {
-            "code": false,
+            "code": "S2-01",
             "numberOfUnits": 1,
             "units": [
                 {
@@ -256,13 +256,23 @@
             "year": 2017
         },
         {
-            "code": false,
-            "numberOfUnits": 0,
-            "units": [],
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+              {
+                "UnitName": "Free Elective"
+              },,
+              {
+                "UnitName": "Major Unit 6"
+              }
+              {
+                "UnitName": "Major Unit 7"
+              }
+            ],
             "year": 2018
         },
         {
-            "code": false,
+            "code": "S2-01",
             "numberOfUnits": 0,
             "units": [],
             "year": 2018

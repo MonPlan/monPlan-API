@@ -1,0 +1,1482 @@
+[
+    {
+        "courseCode": "S2003-1",
+        "courseName": "Science and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2008-0",
+        "courseName": "Commerce and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "M2002-1",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2013-0",
+        "courseName": "Business and Business Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B6014-0",
+        "courseName": "Actuarial Studies",
+        "courseType": "Master degree"
+    },
+    {
+        "courseCode": "M3002-0",
+        "courseName": "Physiotherapy",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B6009-0",
+        "courseName": "Management",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "E3003-12",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "P6001-0",
+        "courseName": "Pharmacy",
+        "courseType": "Bachelor degree/Master degree"
+    },
+    {
+        "courseCode": "E3003-2",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-24",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3005-1",
+        "courseName": "Education and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-1",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2014-3",
+        "courseName": "Commerce and Commerce Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3004-2",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-9",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "F2004-0",
+        "courseName": "Design and Business",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3009-0",
+        "courseName": "Education and Information Technology",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "L3006-0",
+        "courseName": "Laws and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S6001-0",
+        "courseName": "Financial Mathematics",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "P3002-2",
+        "courseName": "Pharmaceutical Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2012-0",
+        "courseName": "Business Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2013-3",
+        "courseName": "Business and Business Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2012-1",
+        "courseName": "Business Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-4",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "F2003-1",
+        "courseName": "Fine Art",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2014-2",
+        "courseName": "Commerce and Commerce Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2025-0",
+        "courseName": "Commerce and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3004-2",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-29",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2005-0",
+        "courseName": "Science and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B6003-0",
+        "courseName": "Applied Finance",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "S2003-1",
+        "courseName": "Science and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "C2002-0",
+        "courseName": "Information Technology and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3002-1",
+        "courseName": "Education and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-0",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2004-0",
+        "courseName": "Commerce Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "M2002-2",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-3",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2024-1",
+        "courseName": "Commerce Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2022-0",
+        "courseName": "Commerce and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "A2003-3",
+        "courseName": "Music",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "F2003-1",
+        "courseName": "Fine Art",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "P6001-0",
+        "courseName": "Pharmacy",
+        "courseType": "Bachelor degree/Master degree"
+    },
+    {
+        "courseCode": "B2020-0",
+        "courseName": "Commerce and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-9",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2022-1",
+        "courseName": "Commerce and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-6",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "D3001-0",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-25",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3004-3",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2000-0",
+        "courseName": "Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-4",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M2001-0",
+        "courseName": "Nutrition Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-3",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-12",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2018-2",
+        "courseName": "Business Specialist and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F2007-0",
+        "courseName": "Fine Art and Business",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F6001-0",
+        "courseName": "Architecture",
+        "courseType": "Professional entry master degree"
+    },
+    {
+        "courseCode": "E3001-6",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2013-2",
+        "courseName": "Business and Business Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2014-0",
+        "courseName": "Commerce and Commerce Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-0",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-1",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M2002-2",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2018-1",
+        "courseName": "Business Specialist and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2014-1",
+        "courseName": "Commerce and Commerce Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B6015-0",
+        "courseName": "Professional Accounting and Business Law",
+        "courseType": "Master degree/Master degree"
+    },
+    {
+        "courseCode": "B2012-3",
+        "courseName": "Business Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "S2005-1",
+        "courseName": "Science and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "L3007-0",
+        "courseName": "Laws and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-21",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "C2000-0",
+        "courseName": "Information Technology",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2021-0",
+        "courseName": "Commerce and Biomedical Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-2",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "P2001-1",
+        "courseName": "Pharmaceutical Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2008-1",
+        "courseName": "Commerce and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-1",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2003-0",
+        "courseName": "Science and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F2005-1",
+        "courseName": "Design and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-8",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3004-1",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "C2002-0",
+        "courseName": "Information Technology and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3009-0",
+        "courseName": "Education and Information Technology",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-7",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-30",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "L3005-0",
+        "courseName": "Laws and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2018-0",
+        "courseName": "Business Specialist and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "S3002-0",
+        "courseName": "Science Advanced - Research",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3002-5",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2001-0",
+        "courseName": "Commerce",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "P2001-0",
+        "courseName": "Pharmaceutical Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-0",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-18",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2016-2",
+        "courseName": "Commerce Specialist and Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-5",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3004-0",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-1",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-4",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3009-1",
+        "courseName": "Education and Information Technology",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-10",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3002-1",
+        "courseName": "Education and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-5",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "F2001-0",
+        "courseName": "Architectural Design",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-5",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2024-0",
+        "courseName": "Commerce Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-2",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-3",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "F6002-0",
+        "courseName": "Design",
+        "courseType": "Master degree"
+    },
+    {
+        "courseCode": "B6011-0",
+        "courseName": "Professional Accounting",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "F2005-0",
+        "courseName": "Design and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F2003-0",
+        "courseName": "Fine Art",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-7",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2003-2",
+        "courseName": "Science and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "S6001-0",
+        "courseName": "Financial Mathematics",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "D3007-1",
+        "courseName": "Education and Business",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "C3001-0",
+        "courseName": "Computer Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "D3001-1",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "A2003-1",
+        "courseName": "Music",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-7",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-28",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2003-0",
+        "courseName": "Business Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2007-0",
+        "courseName": "Business Administration",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "D3004-3",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E6001-0",
+        "courseName": "Advanced Engineering",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "L3003-0",
+        "courseName": "Laws and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-0",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-5",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-7",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-27",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-4",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M2002-3",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "S2000-0",
+        "courseName": "Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "S3001-0",
+        "courseName": "Science Advanced - Global Challenges",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3001-0",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2016-1",
+        "courseName": "Commerce Specialist and Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3008-1",
+        "courseName": "Education and Computer Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E6001-1",
+        "courseName": "Advanced Engineering",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "B2007-2",
+        "courseName": "Business Administration",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-13",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3008-0",
+        "courseName": "Education and Computer Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2013-1",
+        "courseName": "Business and Business Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F3001-0",
+        "courseName": "Interior Architecture",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-3",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-5",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-2",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-29",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-24",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2006-1",
+        "courseName": "Commerce and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-4",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3009-0",
+        "courseName": "Engineering and Architectural Design",
+        "courseType": "Bachelor degree/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "A2001-1",
+        "courseName": "Global Studies",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-7",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "3971-0",
+        "courseName": "Health Science",
+        "courseType": "Bachelor degree (honours) - 1 year"
+    },
+    {
+        "courseCode": "E3001-9",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M2002-0",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-19",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2022-1",
+        "courseName": "Commerce and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "A2001-0",
+        "courseName": "Global Studies",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B6014-0",
+        "courseName": "Actuarial Studies",
+        "courseType": "Master degree"
+    },
+    {
+        "courseCode": "B6005-0",
+        "courseName": "Business",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "B2025-0",
+        "courseName": "Commerce and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2020-0",
+        "courseName": "Commerce and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F2005-2",
+        "courseName": "Design and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-9",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "L3006-1",
+        "courseName": "Laws and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "P2001-2",
+        "courseName": "Pharmaceutical Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "D3007-0",
+        "courseName": "Education and Business",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-6",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-4",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "4520-0",
+        "courseName": "Health Science",
+        "courseType": "Bachelor degree (honours) - 1 year"
+    },
+    {
+        "courseCode": "D3003-0",
+        "courseName": "Education and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2004-1",
+        "courseName": "Science and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2012-2",
+        "courseName": "Business Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-15",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-6",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-35",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "F2006-1",
+        "courseName": "Fine Art and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "L3009-0",
+        "courseName": "Laws and Global Studies",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-5",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "L3006-0",
+        "courseName": "Laws and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "4530-0",
+        "courseName": "Nutrition and Dietetics",
+        "courseType": ""
+    },
+    {
+        "courseCode": "E3003-31",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-22",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "P3002-2",
+        "courseName": "Pharmaceutical Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-32",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3006-0",
+        "courseName": "Education and Fine Art",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-2",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3007-8",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-1",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2007-0",
+        "courseName": "Science and Biomedical Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "M3005-0",
+        "courseName": "Psychology",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "P3002-0",
+        "courseName": "Pharmaceutical Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-23",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2022-0",
+        "courseName": "Commerce and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-14",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "M3006-0",
+        "courseName": "Radiography and Medical Imaging",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "P3001-1",
+        "courseName": "Pharmacy",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-16",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "F6001-0",
+        "courseName": "Architecture",
+        "courseType": "Professional entry master degree"
+    },
+    {
+        "courseCode": "B2003-2",
+        "courseName": "Business Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B6004-0",
+        "courseName": "Banking and Finance",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "B2006-2",
+        "courseName": "Commerce and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3002-0",
+        "courseName": "Education and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3004-3",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B6012-0",
+        "courseName": "Public Policy and Management",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "E3003-20",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2016-0",
+        "courseName": "Commerce Specialist and Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "M3002-0",
+        "courseName": "Physiotherapy",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2000-0",
+        "courseName": "Business",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "C2001-1",
+        "courseName": "Computer Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-3",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-33",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-8",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3001-3",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3002-2",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-25",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "M2006-0",
+        "courseName": "Nursing",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B6009-0",
+        "courseName": "Management",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "B2024-2",
+        "courseName": "Commerce Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3001-1",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3001-2",
+        "courseName": "Engineering",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2019-0",
+        "courseName": "Business and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "A2004-1",
+        "courseName": "Arts and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2023-0",
+        "courseName": "Commerce and Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-0",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2004-0",
+        "courseName": "Science and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "P3002-1",
+        "courseName": "Pharmaceutical Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M3004-0",
+        "courseName": "Biomedical Science Advanced",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B2003-1",
+        "courseName": "Business Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "M2002-1",
+        "courseName": "Health Sciences",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2006-0",
+        "courseName": "Commerce and Global Studies",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "F2004-0",
+        "courseName": "Design and Business",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-8",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2006-0",
+        "courseName": "Science and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3003-1",
+        "courseName": "Education and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "A2000-0",
+        "courseName": "Arts",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-5",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3007-3",
+        "courseName": "Engineering and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-3",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S6002-0",
+        "courseName": "Environment and Sustainability",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "E3005-1",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2003-3",
+        "courseName": "Business Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "D3006-1",
+        "courseName": "Education and Fine Art",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "M2001-0",
+        "courseName": "Nutrition Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-6",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3004-2",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "F2007-0",
+        "courseName": "Fine Art and Business",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-0",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2018-1",
+        "courseName": "Business Specialist and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "M2003-0",
+        "courseName": "Biomedical Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2007-1",
+        "courseName": "Business Administration",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2009-4",
+        "courseName": "Commerce Specialist and Computer Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-0",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B6002-0",
+        "courseName": "Accounting",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "E3004-0",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2013-4",
+        "courseName": "Business and Business Specialist",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "C2003-0",
+        "courseName": "Information Technology and Science",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2004-1",
+        "courseName": "Commerce Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-4",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "A2005-0",
+        "courseName": "Arts and Fine Art",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-3",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-26",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3006-0",
+        "courseName": "Engineering and Design",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B6003-0",
+        "courseName": "Applied Finance",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "A2003-0",
+        "courseName": "Music",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "C2001-0",
+        "courseName": "Computer Science",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "E3005-2",
+        "courseName": "Engineering and Commerce",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "A2003-2",
+        "courseName": "Music",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2018-2",
+        "courseName": "Business Specialist and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-11",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "S2005-0",
+        "courseName": "Science and Music",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "B2017-0",
+        "courseName": "Business and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-2",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3003-17",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2024-1",
+        "courseName": "Commerce Specialist and Arts",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "L3002-0",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3004-4",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-8",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "P3001-0",
+        "courseName": "Pharmacy",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "B6013-0",
+        "courseName": "Business Law",
+        "courseType": "Expert master degree"
+    },
+    {
+        "courseCode": "D3004-2",
+        "courseName": "Education and Music",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "B2004-2",
+        "courseName": "Commerce Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "B2004-3",
+        "courseName": "Commerce Specialist",
+        "courseType": "Bachelor degree"
+    },
+    {
+        "courseCode": "L3004-0",
+        "courseName": "Laws and Biomedical Science",
+        "courseType": "Bachelor degree/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "M3001-0",
+        "courseName": "Occupational Therapy",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3002-4",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3001-6",
+        "courseName": "Education",
+        "courseType": "Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "E3004-1",
+        "courseName": "Engineering and Biomedical Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3005-1",
+        "courseName": "Education and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "D3005-0",
+        "courseName": "Education and Science",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "E3002-6",
+        "courseName": "Engineering and Arts",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    },
+    {
+        "courseCode": "M6018-0",
+        "courseName": "Medical Science and Medicine",
+        "courseType": "Bachelor degree/Master degree"
+    },
+    {
+        "courseCode": "L3002-1",
+        "courseName": "Laws and Engineering",
+        "courseType": "Bachelor degree (honours)/Bachelor degree (honours)"
+    },
+    {
+        "courseCode": "F2006-0",
+        "courseName": "Fine Art and Information Technology",
+        "courseType": "Bachelor degree/Bachelor degree"
+    },
+    {
+        "courseCode": "E3003-34",
+        "courseName": "Engineering and Commerce Specialist",
+        "courseType": "Bachelor degree (honours)/Bachelor degree"
+    }
+]

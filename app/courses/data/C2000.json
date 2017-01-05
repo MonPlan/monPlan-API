@@ -54,7 +54,8 @@
                     "UnitName": "Introduction to computer systems, networks and security"
                 },
                 {
-                  "UnitName": "Major Unit 1",
+                  "UnitCode": "Major Unit",
+                  "UnitName": "Select a unit from your relevant major",
                   "SCABand": 0,
                   "CreditPoints": 0,
                   "Faculty": "Faculty of Information Technology"
@@ -111,7 +112,8 @@
                     "UnitName": "IT professional practice"
                 },
                 {
-                  "UnitName": "Major Unit 2",
+                  "UnitCode": "Major Unit",
+                  "UnitName": "Select a unit from your relevant major",
                   "SCABand": 0,
                   "CreditPoints": 0,
                   "Faculty": "Faculty of Information Technology"
@@ -179,7 +181,8 @@
                     "UnitName": "Databases"
                 },
                 {
-                  "UnitName": "Major Unit 3",
+                  "UnitCode": "Major Unit",
+                  "UnitName": "Select a unit from your relevant major",
                   "SCABand": 0,
                   "CreditPoints": 0,
                   "Faculty": "Faculty of Information Technology"
@@ -235,13 +238,15 @@
                     "UnitName": "IT project management"
                 },
                 {
-                  "UnitName": "Major Unit 4",
+                  "UnitCode": "Major Unit",
+                  "UnitName": "Select a unit from your relevant major",
                   "SCABand": 0,
                   "CreditPoints": 0,
                   "Faculty": "Faculty of Information Technology"
                 },
                 {
-                  "UnitName": "Major Unit 5",
+                  "UnitCode": "Major Unit",
+                  "UnitName": "Select a unit from your relevant major",
                   "SCABand": 0,
                   "CreditPoints": 0,
                   "Faculty": "Faculty of Information Technology"
@@ -265,13 +270,15 @@
                 "Faculty": "Faculty of Information Technology"
               },
               {
-                "UnitName": "Major Unit 6",
+                "UnitCode": "Major Unit",
+                "UnitName": "Select a unit from your relevant major",
                 "SCABand": 0,
                 "CreditPoints": 0,
                 "Faculty": "Faculty of Information Technology"
               },
               {
-                "UnitName": "Major Unit 7",
+                "UnitCode": "Major Unit",
+                "UnitName": "Select a unit from your relevant major",
                 "SCABand": 0,
                 "CreditPoints": 0,
                 "Faculty": "Faculty of Information Technology"
@@ -291,10 +298,12 @@
               {
                 "UnitName": "Capstone Unit 2",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of Information Technology"
               },
               {
-                "UnitName": "Major Unit 8",
+                "UnitCode": "Major Unit",
+                "UnitName": "Select a unit from your relevant major",
                 "SCABand": 0,
                 "CreditPoints": 0,
                 "Faculty": "Faculty of Information Technology"

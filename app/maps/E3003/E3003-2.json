@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Aerospace Engineering/Actuarial Science",
+    "courseAOS": "Aerospace Engineering/Finance",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
         {
@@ -24,7 +24,7 @@
               "type": "Faculty Elective",
               "faculty": "Faculty of Engineering"
             },
-            "ETC2410"
+            "ECC1000"
           ]
         },
         {
@@ -33,8 +33,8 @@
           "units": [
             "ENG2005",
             "MCE2401",
-            "ETC2430",
-            "ETC1100"
+            "BFC1001",
+            "ECC1100"
           ]
         },
         {
@@ -43,8 +43,8 @@
           "units": [
             "MAE2402",
             "MAE2404",
-            "BFC2140",
-            "ETC2420"
+            "ETC2410",
+            "BFC2140"
           ]
         },
         {
@@ -53,8 +53,8 @@
           "units": [
             "MAE2401",
             "MAE3401",
-            "BFC2000",
-            "ETC2440"
+            ["ACC100", "ACC1200"],
+            "BFC3140"
           ]
         },
         {
@@ -63,46 +63,48 @@
           "units": [
             "MAE2405",
             "MAE3405",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
-            "ACC1100"
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
-            "BFC2340",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "MAE3456",
+            "MAE3404",
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE3166",
-            "CHE3164",
-            "ETC2520",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "MAE3426",
+            "MAE3408",
+            "BFC3240",
+            "BFC3340"
           ]
         },
         {
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4161",
-            "CHE4180",
-            "ECC1000"
+            "MEC4401",
+            "MAE4410",
+            "MAE4411",
+            "BFC2240"
           ]
         },
         {
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
-            "ETC3530"
+            "MEC4402",
+            "CHE4404",
+            "MAE4408",
+            "BFC3999"
           ]
         }
     ]

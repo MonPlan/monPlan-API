@@ -16,6 +16,9 @@ var basic     = require('./app/basic/route');
 var app         = express();                 // define our app using express
 var cors        = require('cors');
 
+var unitRating = require('./app/v0.4/main');
+
+
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -53,6 +56,8 @@ app.get('/spec/:id', spec.findSpec);
 app.get('/courses/:id', courses.findCourseMap)
 
 app.get('/basic/:id', basic.downloadInfo)
+
+app.get('/rating/:id', unitRating.getUnitRating)
 // START THE SERVER
 // =============================================================================
 app.listen(port);

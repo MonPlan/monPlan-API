@@ -32,8 +32,8 @@
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CHM1011",
-            "CHE2161",
+            "CIV2225",
+            "CIV2206",
             "ECC2000",
             "ECC1100"
           ]
@@ -42,7 +42,7 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CHE2162",
+            "CIV2242",
             "ENG2005",
             "ECC2010",
             ["ECC2300", "ECC2360", "ECC2450","ECC2600","ECC2610","ECC2800"]
@@ -52,8 +52,8 @@
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CHE2164",
-            "CHE3167",
+            "CIV3221",
+            "CIV2263",
             ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
             {
               "type": "Faculty Elective",
@@ -65,8 +65,8 @@
           "code": "S2-01",
           "year": 2,
           "units": [
-            "CHE3161",
-            "CHE3162",
+            "CIV3204",
+            "CIV2282",
             ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
             "ETC2410"
           ]
@@ -75,8 +75,8 @@
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
+            "CIV3285",
+            "CIV3248",
             ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
             {
               "type": "Faculty Elective",
@@ -88,8 +88,8 @@
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE4161",
-            "CHE4180",
+            "CIV3247",
+            "CIV3284",
             "ECC3690",
             {
               "type": "Faculty Elective",
@@ -101,8 +101,9 @@
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
+            "CIV4285",
+            "CIV4210",
+            "CIV4286",
             {
               "type": "Faculty Elective",
               "faculty": "Faculty of Business and Economics"
@@ -113,9 +114,9 @@
           "code": "S2-01",
           "year": 4,
           "units": [
-            "MEC4402",
-            "CHE4404",
-            "MAE4408",
+            "CIV4285",
+            "CIV4212",
+            "CIV4287",
             {
               "type": "Faculty Elective",
               "faculty": "Faculty of Business and Economics"

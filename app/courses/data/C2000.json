@@ -63,7 +63,8 @@
                 {
                   "UnitName": "Free Elective",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
@@ -121,12 +122,14 @@
                 {
                   "UnitName": "Free Elective",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 },
                 {
                   "UnitName": "Free Elective",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
@@ -190,7 +193,8 @@
                 {
                   "UnitName": "Free Elective",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2017
@@ -254,7 +258,8 @@
                 {
                   "UnitName": "Free Elective",
                   "SCABand": 0,
-                  "CreditPoints": 0
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2017
@@ -286,7 +291,8 @@
               {
                 "UnitName": "Free Elective",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of All"
               }
             ],
             "year": 2018
@@ -311,12 +317,14 @@
               {
                 "UnitName": "Free Elective",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of All"
               },
               {
                 "UnitName": "Free Elective",
                 "SCABand": 0,
-                "CreditPoints": 0
+                "CreditPoints": 0,
+                "Faculty": "Faculty of All"
               }
             ],
             "year": 2018

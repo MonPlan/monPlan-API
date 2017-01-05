@@ -5,7 +5,7 @@
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -56,13 +56,25 @@
                         ]
                     ],
                     "UnitName": "Terrorism and political violence: An introduction"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -92,13 +104,31 @@
                         ]
                     ],
                     "UnitName": "Introduction to international relations"
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -141,13 +171,25 @@
                         ]
                     ],
                     "UnitName": "Foreign policy analysis"
-                }
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
+                },
             ],
             "year": 2017
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -169,6 +211,24 @@
                         ]
                     ],
                     "UnitName": "Global governance"
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
                 }
             ],
             "year": 2017
@@ -181,7 +241,7 @@
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 2,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -203,6 +263,18 @@
                         ]
                     ],
                     "UnitName": "Leadership for social change 3"
+                },
+                {
+                  "UnitName": "Specialisation Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2018

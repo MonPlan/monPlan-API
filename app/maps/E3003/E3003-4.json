@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Aerospace Engineering/Actuarial Science",
+    "courseAOS": "Chemical Engineering/Actuarial Science",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
         {
@@ -31,8 +31,8 @@
           "code": "S1-01",
           "year": 1,
           "units": [
-            "ENG2005",
-            "MCE2401",
+            "CHM1011",
+            "CHE2161",
             "ETC2430",
             "ETC1100"
           ]
@@ -41,8 +41,8 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "MAE2402",
-            "MAE2404",
+            "CHE2162",
+            "ENG2005",
             "BFC2140",
             "ETC2420"
           ]
@@ -51,7 +51,7 @@
           "code": "S1-01",
           "year": 2,
           "units": [
-            "MAE2401",
+            "CHE2164",
             "MAE3401",
             "BFC2000",
             "ETC2440"

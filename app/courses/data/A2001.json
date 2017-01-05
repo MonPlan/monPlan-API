@@ -211,12 +211,13 @@
 	}, {
 		"code": "S1-01",
 		"numberOfUnits": 4,
-		"units": [{
+		"units": [
+			{
 			"UnitName": "3rd Year Capstone Elective",
 			"SCABand": 0,
 			"CreditPoints": 0,
 			"Faculty": "Faculty of Arts"
-		}, {
+			}, {
 			"UnitName": "Specialisation Elective",
 			"SCABand": 0,
 			"CreditPoints": 0,
@@ -261,6 +262,11 @@
 			"SCABand": 0,
 			"CreditPoints": 0,
 			"Faculty": "Faculty of Arts"
+		}, {
+			"UnitName": "Elective",
+			"SCABand": 0,
+			"CreditPoints": 0,
+			"Faculty": "Faculty of All"
 		}, {
 			"UnitName": "Elective",
 			"SCABand": 0,

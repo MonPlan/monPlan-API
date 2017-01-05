@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Electrical and Computer Systems Engineering/Finance",
+    "courseAOS": "Electrical and Computer Systems Engineering/Economics and Economic Policy",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -34,7 +34,7 @@
           "units": [
             "ENG2005",
             "ECE2071",
-            "BFC1001",
+            "ECC2000",
             "ECC1100"
           ]
         },
@@ -44,8 +44,8 @@
           "units": [
             "ECE2191",
             "ECE2072",
-            "ETC2410",
-            "BFC2140"
+            "ECC2010",
+            ["ECC2300", "ECC2360", "ECC2450","ECC2600","ECC2610","ECC2800"]
           ]
         },
         {
@@ -54,8 +54,11 @@
           "units": [
             "ECE3073",
             "ECE2131",
-            ["ACC100", "ACC1200"],
-            "BFC3140"
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -64,8 +67,8 @@
           "units": [
             "ECE2111",
             "ECE3161",
-            "BFC3540",
-            "BFC2751"
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            "ETC2410"
           ]
         },
         {
@@ -74,8 +77,11 @@
           "units": [
             "ECE2132",
             "ECE3141",
-            "BFC3540",
-            "BFC2751"
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -84,8 +90,11 @@
           "units": [
             "ECE3121",
             "ECE3091",
-            "BFC3240",
-            "BFC3340"
+            "ECC3690",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -98,7 +107,10 @@
             },
             "ECE4094",
             "ECE4099",
-            "BFC2240"
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -111,7 +123,10 @@
             },
             "ECE4095",
             "ECE4151",
-            "BFC3999"
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         }
     ]

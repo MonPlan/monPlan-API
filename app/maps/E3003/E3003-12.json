@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Civil Engineering/Mathematical Economics and Econometrics",
+    "courseAOS": "Electrical and Computer Systems Engineering/Actuarial Science",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -25,16 +25,16 @@
               "type": "Faculty Elective",
               "faculty": "Faculty of Engineering"
             },
-            "ECC1000"
+            "ETC2410"
           ]
         },
         {
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CIV2225",
-            "CIV2206",
-            "ECC2000",
+            "ENG2005",
+            "ECE2071",
+            "ETC2430",
             "ECC1100"
           ]
         },
@@ -42,79 +42,76 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CIV2242",
-            "ENG2005",
-            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
-            "ETC2410"
+            "ECE2191",
+            "ECE2072",
+            "BFC2140",
+            "ETC2420"
           ]
         },
         {
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CIV3221",
-            "CIV2263",
-            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
-            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+            "ECE3073",
+            "ECE2131",
+            "BFC2000",
+            "ETC2440"
           ]
         },
         {
           "code": "S2-01",
           "year": 2,
           "units": [
-            "CIV3204",
-            "CIV2282",
-            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
-            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+            "ECE2111",
+            "ECE3161",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
+            "ACC1100"
           ]
         },
         {
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CIV3285",
-            "CIV3248",
-            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
-            {
-              "type": "Faculty Elective",
-              "faculty": "Faculty of Business and Economics"
-            }
+            "ECE2132",
+            "ECE3141",
+            "BFC2340",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
           ]
         },
         {
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CIV3247",
-            "CIV3284",
-            "ECC3840",
-            {
-              "type": "Faculty Elective",
-              "faculty": "Faculty of Business and Economics"
-            }
+            "ECE3121",
+            "ECE3091",
+            "ETC2520",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
           ]
         },
         {
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CIV4285",
-            "CIV4210",
-            "CIV4286",
             {
-              "type": "Faculty Elective",
-              "faculty": "Faculty of Business and Economics"
-            }
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4094",
+            "ECE4099",
+            "ECC1000"
           ]
         },
         {
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CIV4285",
-            "CIV4212",
-            "CIV4287",
-            "ETC3400"
+            {
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4095",
+            "ECE4151",
+            "ETC3530"
           ]
         }
     ]

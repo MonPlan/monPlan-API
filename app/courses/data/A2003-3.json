@@ -5,7 +5,7 @@
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -70,13 +70,19 @@
                         ]
                     ],
                     "UnitName": "Music and history"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -141,13 +147,19 @@
                         ]
                     ],
                     "UnitName": "Music and culture"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2016
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -193,32 +205,24 @@
                     "UnitName": "Music theory and ear training 3"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit provides a series of structured strategies and devices for developing a systematic approach to melodic based improvisation skills. It looks at melodic elements and structures in terms of modes, intonation, microtonal inflections and flavours and draws upon systems and processes for developing improvisatory approaches from jazz, blues, Hindustani music, Arabic music, Latin music, Western art music and other musical sources. The unit involves both practical and theoretical components.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Arts",
-                    "Prerequisites": "Twelve credit points of first-year Arts units.",
-                    "Prohibitions": "",
-                    "SCABand": 1,
-                    "UnitCode": "ATS2687",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "The ethnomusicology of improvisation"
+                  "UnitCode": "Choose One",
+                  "UnitName": "ATS2687, ATS2060",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2017
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -264,32 +268,24 @@
                     "UnitName": "Music theory and ear training 4"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit examines research pertaining to jazz history. The unit utilises critical readings of historical and biographical texts in conjunction with analyses of representative audio and score materials to investigate socio-cultural trends, major significant historical events and key figures that have influenced the development of jazz.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Arts",
-                    "Prerequisites": "Twelve credit points of first-year Arts units.",
-                    "Prohibitions": "",
-                    "SCABand": 1,
-                    "UnitCode": "ATS2333",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Jazz history"
+                  "UnitCode": "Choose One",
+                  "UnitName": "ATS2633, ATS2900, ATS2331/ATS2332",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of Arts"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2017
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -333,13 +329,25 @@
                         ]
                     ],
                     "UnitName": "The music business: How to be successful in the music industry"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2018
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -383,6 +391,18 @@
                         ]
                     ],
                     "UnitName": "Music in Australia"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
+                },
+                {
+                  "UnitName": "Free Elective",
+                  "SCABand": 0,
+                  "CreditPoints": 0,
+                  "Faculty": "Faculty of All"
                 }
             ],
             "year": 2018

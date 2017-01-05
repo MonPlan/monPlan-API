@@ -236,7 +236,7 @@
 		"year": 2018
 	}, {
 		"code": "S2-01",
-		"numberOfUnits": 4,
+		"numberOfUnits": 3,
 		"units": [{
 			"CreditPoints": 12,
 			"Description": "This unit builds on the foundations of the Leadership for Social Change 1 and 2. Working through problem-based learning scenarios, students will be expected to demonstrate their knowledge of forms of leadership and their link to addressing questions of global challenges and the drivers of social change. The unit will provide a forum in which students will bring together both discipline-specific and interdisciplinary skills that they have acquired over their study. Students will build on the synthesising of this knowledge to formulate practical and innovative approaches to global challenges.",
@@ -262,11 +262,6 @@
 			"SCABand": 0,
 			"CreditPoints": 0,
 			"Faculty": "Faculty of Arts"
-		}, {
-			"UnitName": "Elective",
-			"SCABand": 0,
-			"CreditPoints": 0,
-			"Faculty": "Faculty of All"
 		}, {
 			"UnitName": "Elective",
 			"SCABand": 0,

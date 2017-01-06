@@ -1,7 +1,8 @@
 {
 	"courseCode": "A2001",
-	"courseName": "Global Studies",
-	"courseType": "Bachelor degree",
+	"courseName": "Bachelor of Global Studies",
+	"courseType": "Undergraduate",
+	"faculty": "Faculty of Arts",
 	"teachingPeriods": [{
 		"code": "S1-01",
 		"numberOfUnits": 4,

@@ -1,70 +1,149 @@
 {
+    "courseAOS": "",
     "courseCode": "B6005",
-    "courseName": "Business",
-    "courseType": "Expert master degree",
+    "courseName": "Master of Business",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 0,
-            "units": [],
-            "year": 2016
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "Professional Development for Career Dynamics is designed to build students' capacity (knowledge, skills, and abilities) to achieve their career goals and aspirations. The unit helps students to  identify their professional skills and values,  develop capability to perform effectively on-the-job, and  prepare and evaluate opportunities for career transition. Professional Development for Career Dynamics more specifically develops students' ability to market themselves, communicate and collaborate effectively at work, develop profitable professional networks, and create career plans. The unit will enhance the value of students to potential employers, help them become successful employees or leaders, and assist with their long-term career goals and aspirations.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "MBA9053, GSB9001, MGX9001, MGX5991",
-                    "SCABand": 3,
-                    "UnitCode": "MGF5991",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "First semester 2017 (Evening)",
-                                "Second semester 2017 (Day)",
-                                "Second semester 2017 (Evening)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Professional development - career dynamics"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "MGF5991,MGF5992"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit is designed to develop students moral reasoning about the conduct of business in the global context. They will achieve this by exploring theories of ethics and justice in business and in its relationships with society, across different cultural and religious traditions; and reflecting on their own moral development through analysis of ethical and unethical behaviours in business.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "MGX5020",
-                    "SCABand": 3,
-                    "UnitCode": "MGF5020",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "First semester 2017 (Evening)",
-                                "Second semester 2017 (Day)",
-                                "Second semester 2017 (Evening)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Business ethics in a global environment"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "MGF5020,MGF5030"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
                 }
             ],
-            "year": 2016
+            "year": 0
         },
-        {},
-        {}
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
     ]
 }

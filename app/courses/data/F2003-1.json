@@ -1,7 +1,9 @@
 {
+    "courseAOS": "Fine Art",
     "courseCode": "F2003",
-    "courseName": "Fine Art",
-    "courseType": "Bachelor degree",
+    "courseName": "Bachelor of Fine Arts",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
     "teachingPeriods": [
         {
             "code": "S1-01",
@@ -93,11 +95,11 @@
                     "UnitName": "Introduction to art and design health and safety"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 3,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -140,13 +142,20 @@
                         ]
                     ],
                     "UnitName": "Modernism and the avant-garde"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -170,32 +179,32 @@
                     "UnitName": "Contemporary Practices 3"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
-                    "Prohibitions": "TAD2112, TAD3102, TAD3112",
-                    "SCABand": 1,
-                    "UnitCode": "AHT2102",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "International art 1945-1990"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "AHT2101",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -225,13 +234,34 @@
                         ]
                     ],
                     "UnitName": "Contemporary Practices 4"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -253,13 +283,34 @@
                         ]
                     ],
                     "UnitName": "Contemporary Practices 5"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2018
+            "year": 2
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 1,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -281,9 +332,30 @@
                         ]
                     ],
                     "UnitName": "Contemporary Practices 6"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2018
+            "year": 2
         }
     ]
 }

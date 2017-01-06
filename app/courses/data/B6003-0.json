@@ -1,7 +1,9 @@
 {
+    "courseAOS": "",
     "courseCode": "B6003",
-    "courseName": "Applied Finance",
-    "courseType": "Expert master degree",
+    "courseName": "Master of Applied Finance",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
             "code": "S1-01",
@@ -9,13 +11,13 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit examines the concept of mergers and acquisitions from two perspectives - the relevant areas of finance and the basic taxation, accounting and legal issues.  The aim is to provide students with a practical understanding of this major corporate strategy. The finance issues will involve an examination of basic theory and empirical findings associated with mergers and acquisitions, the valuation of firms under a range of techniques, the structuring of bids from a financing perspective and defensive strategies. The taxation, accounting and legal issues include a review of the taxation effects from the position of both the bidder and the target's shareholders, the legal responsibilities of the Board and senior management of both target and bidder companies, the role of the Takeover Panel in relation to both defensive and negotiating strategies, the use of independent experts, the application of the Trade Practices Act and the effect of the accounting asset impairment tests.",
+                    "Description": "This unit evaluates and applies contemporary approaches used to analyse and price financial assets including: security and market performance measures multifactor asset pricing fundamental valuation technical analysis fixed income and hybrid securities forward interest rates and swaps investing and hedging with futures, options and other derivatives pricing risk credit derivatives",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "AFF5580",
+                    "Prerequisites": "Students must have passed AFF9350 or BFF5935, or be enrolled in course 3818, 3850 or 4412 before undertaking this unit.",
+                    "Prohibitions": "AFF5040",
                     "SCABand": 3,
-                    "UnitCode": "BFF5580",
+                    "UnitCode": "BFF5040",
                     "UnitLocationTP": [
                         [
                             [
@@ -27,7 +29,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Mergers and acquisitions"
+                    "UnitName": "Advanced security analysis"
                 },
                 {
                     "CreditPoints": 6,
@@ -96,21 +98,21 @@
                     "UnitName": "Financial econometrics"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit evaluates and applies contemporary approaches used to analyse and price financial assets including: security and market performance measures multifactor asset pricing fundamental valuation technical analysis fixed income and hybrid securities forward interest rates and swaps investing and hedging with futures, options and other derivatives pricing risk credit derivatives",
+                    "Description": "This unit examines the concept of mergers and acquisitions from two perspectives - the relevant areas of finance and the basic taxation, accounting and legal issues.  The aim is to provide students with a practical understanding of this major corporate strategy. The finance issues will involve an examination of basic theory and empirical findings associated with mergers and acquisitions, the valuation of firms under a range of techniques, the structuring of bids from a financing perspective and defensive strategies. The taxation, accounting and legal issues include a review of the taxation effects from the position of both the bidder and the target's shareholders, the legal responsibilities of the Board and senior management of both target and bidder companies, the role of the Takeover Panel in relation to both defensive and negotiating strategies, the use of independent experts, the application of the Trade Practices Act and the effect of the accounting asset impairment tests.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed AFF9350 or BFF5935, or be enrolled in course 3818, 3850 or 4412 before undertaking this unit.",
-                    "Prohibitions": "AFF5040",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5580",
                     "SCABand": 3,
-                    "UnitCode": "BFF5040",
+                    "UnitCode": "BFF5580",
                     "UnitLocationTP": [
                         [
                             [
@@ -122,7 +124,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Advanced security analysis"
+                    "UnitName": "Mergers and acquisitions"
                 },
                 {
                     "CreditPoints": 6,
@@ -177,10 +179,66 @@
                         ]
                     ],
                     "UnitName": "Options, futures and risk management"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
                 }
             ],
-            "year": 2016
+            "year": 0
         },
-        {}
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is intended to consolidate and apply the technical learning achieved in the core units of the Master of Applied Finance, to attain real industry experiences. This will be achieved by using a selection of targeted case studies that highlight the issues likely to be encountered in industry.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFF5040 or BFF5040",
+                    "Prohibitions": "AFF5300",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5300",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Case studies in finance"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
     ]
 }

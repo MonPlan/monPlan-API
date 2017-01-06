@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Chemical Engineering/Actuarial Science",
+    "courseAOS": "Software Engineering/Actuarial Science",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -32,8 +32,8 @@
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CHM1011",
-            "CHE2161",
+            "FIT2085",
+            "MAT1840",
             "ETC2430",
             "ECC1100"
           ]
@@ -42,8 +42,8 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CHE2162",
-            "ENG2005",
+            "FIT2004",
+            "FIT2101",
             "BFC2140",
             "ETC2420"
           ]
@@ -52,8 +52,8 @@
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CHE2164",
-            "MAE3401",
+            "FIT3159",
+            "FIT2099",
             "BFC2000",
             "ETC2440"
           ]
@@ -62,8 +62,8 @@
           "code": "S2-01",
           "year": 2,
           "units": [
-            "MAE2405",
-            "MAE3405",
+            "FIT2100",
+            "FIT3077",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
             "ACC1100"
           ]
@@ -72,8 +72,7 @@
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
+            "FIT3077",
             "BFC2340",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
           ]
@@ -82,18 +81,31 @@
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE3166",
-            "CHE3164",
+            "FIT3171",
             "ETC2520",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "FY-01",
+          "year": 3,
+          "units": [
+            "FIT3170"
+          ]
+        },
+        {
+          "code": "FY-01",
+          "year": 4,
+          "units": [
+            "FIT4002",
+            "FIT4003"
           ]
         },
         {
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4161",
-            "CHE4180",
+            "FIT3165",
             "ECC1000"
           ]
         },
@@ -101,8 +113,10 @@
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
+            {
+              "type": "Software Engineering Elective",
+              "faculty": "Faculty of Engineering"
+            },
             "ETC3530"
           ]
         }

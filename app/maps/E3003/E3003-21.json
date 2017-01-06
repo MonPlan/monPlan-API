@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Chemical Engineering/Actuarial Science",
+    "courseAOS": "Materials Engineering/Finance",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -25,16 +25,16 @@
               "type": "Faculty Elective",
               "faculty": "Faculty of Engineering"
             },
-            "ETC2410"
+            "ECC1000"
           ]
         },
         {
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CHM1011",
-            "CHE2161",
-            "ETC2430",
+            "MTE2541",
+            "MTE2544",
+            "BFC1001",
             "ECC1100"
           ]
         },
@@ -42,68 +42,73 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CHE2162",
+            "MTE2542",
             "ENG2005",
-            "BFC2140",
-            "ETC2420"
+            "ETC2410",
+            "BFC2140"
           ]
         },
         {
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CHE2164",
-            "MAE3401",
-            "BFC2000",
-            "ETC2440"
+            "MTE3541",
+            "MTE2546",
+            ["ACC100", "ACC1200"],
+            "BFC3140"
           ]
         },
         {
           "code": "S2-01",
           "year": 2,
           "units": [
-            "MAE2405",
-            "MAE3405",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
-            "ACC1100"
+            "MTE3545",
+            "MTE2545",
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
-            "BFC2340",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "MTE3543",
+            "MTE3542",
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE3166",
-            "CHE3164",
-            "ETC2520",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "MTE3547",
+            "MTE3546",
+            "BFC3240",
+            "BFC3340"
           ]
         },
         {
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4161",
-            "CHE4180",
-            "ECC1000"
+            "MTE4571",
+            "MTE4525",
+            "MTE4572",
+            "BFC2240"
           ]
         },
         {
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
-            "ETC3530"
+            {
+              "type": "Material Engineering Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "MTE4526",
+            "MTE4573",
+            "BFC3999"
           ]
         }
     ]

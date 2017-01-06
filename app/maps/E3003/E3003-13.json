@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Chemical Engineering/Actuarial Science",
+    "courseAOS": "Electrical and Computer Systems Engineering/Finance",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -25,16 +25,16 @@
               "type": "Faculty Elective",
               "faculty": "Faculty of Engineering"
             },
-            "ETC2410"
+            "ECC1000"
           ]
         },
         {
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CHM1011",
-            "CHE2161",
-            "ETC2430",
+            "ENG2005",
+            "ECE2071",
+            "BFC1001",
             "ECC1100"
           ]
         },
@@ -42,68 +42,76 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CHE2162",
-            "ENG2005",
-            "BFC2140",
-            "ETC2420"
+            "ECE2191",
+            "ECE2072",
+            "ETC2410",
+            "BFC2140"
           ]
         },
         {
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CHE2164",
-            "MAE3401",
-            "BFC2000",
-            "ETC2440"
+            "ECE3073",
+            "ECE2131",
+            ["ACC100", "ACC1200"],
+            "BFC3140"
           ]
         },
         {
           "code": "S2-01",
           "year": 2,
           "units": [
-            "MAE2405",
-            "MAE3405",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
-            "ACC1100"
+            "ECE2111",
+            "ECE3161",
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
-            "BFC2340",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "ECE2132",
+            "ECE3141",
+            "BFC3540",
+            "BFC2751"
           ]
         },
         {
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE3166",
-            "CHE3164",
-            "ETC2520",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "ECE3121",
+            "ECE3091",
+            "BFC3240",
+            "BFC3340"
           ]
         },
         {
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4161",
-            "CHE4180",
-            "ECC1000"
+            {
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4094",
+            "ECE4099",
+            "BFC2240"
           ]
         },
         {
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
-            "ETC3530"
+            {
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4095",
+            "ECE4151",
+            "BFC3999"
           ]
         }
     ]

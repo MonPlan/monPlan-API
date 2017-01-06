@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Chemical Engineering/Actuarial Science",
+    "courseAOS": "Civil Engineering/Actuarial Science",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -32,8 +32,8 @@
           "code": "S1-01",
           "year": 1,
           "units": [
-            "CHM1011",
-            "CHE2161",
+            "CIV2225",
+            "CIV2206",
             "ETC2430",
             "ECC1100"
           ]
@@ -42,7 +42,7 @@
           "code": "S2-01",
           "year": 1,
           "units": [
-            "CHE2162",
+            "CIV2242",
             "ENG2005",
             "BFC2140",
             "ETC2420"
@@ -52,8 +52,8 @@
           "code": "S1-01",
           "year": 2,
           "units": [
-            "CHE2164",
-            "MAE3401",
+            "CIV3221",
+            "CIV2263",
             "BFC2000",
             "ETC2440"
           ]
@@ -62,8 +62,8 @@
           "code": "S2-01",
           "year": 2,
           "units": [
-            "MAE2405",
-            "MAE3405",
+            "CIV3204",
+            "CIV2282",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
             "ACC1100"
           ]
@@ -72,8 +72,8 @@
           "code": "S1-01",
           "year": 3,
           "units": [
-            "CHE3161",
-            "CHE3165",
+            "CIV3285",
+            "CIV3248",
             "BFC2340",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
           ]
@@ -82,8 +82,8 @@
           "code": "S2-01",
           "year": 3,
           "units": [
-            "CHE3166",
-            "CHE3164",
+            "CIV3247",
+            "CIV3284",
             "ETC2520",
             ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
           ]
@@ -92,8 +92,9 @@
           "code": "S1-01",
           "year": 4,
           "units": [
-            "CHE4161",
-            "CHE4180",
+            "CIV4285",
+            "CIV4210",
+            "CIV4286",
             "ECC1000"
           ]
         },
@@ -101,8 +102,9 @@
           "code": "S2-01",
           "year": 4,
           "units": [
-            "CHE4162",
-            "CHE4170",
+            "CIV4285",
+            "CIV4212",
+            "CIV4287",
             "ETC3530"
           ]
         }

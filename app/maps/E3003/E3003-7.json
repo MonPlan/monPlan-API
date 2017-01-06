@@ -1,7 +1,7 @@
 {
     "courseCode": "E3003",
     "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseAOS": "Chemical Engineering/Actuarial Science",
+    "courseAOS": "Aerospace Engineering/Mathematical Economics and Econometrics",
     "faculty": "Faculty of Engineering",
     "courseType": "Double Undergraduate",
     "teachingPeriods": [
@@ -25,7 +25,7 @@
               "type": "Faculty Elective",
               "faculty": "Faculty of Engineering"
             },
-            "ETC2410"
+            "ECC1000"
           ]
         },
         {
@@ -34,7 +34,7 @@
           "units": [
             "CHM1011",
             "CHE2161",
-            "ETC2430",
+            "ECC2000",
             "ECC1100"
           ]
         },
@@ -44,8 +44,8 @@
           "units": [
             "CHE2162",
             "ENG2005",
-            "BFC2140",
-            "ETC2420"
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            "ETC2410"
           ]
         },
         {
@@ -53,19 +53,19 @@
           "year": 2,
           "units": [
             "CHE2164",
-            "MAE3401",
-            "BFC2000",
-            "ETC2440"
+            "CHE3167",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
           ]
         },
         {
           "code": "S2-01",
           "year": 2,
           "units": [
-            "MAE2405",
-            "MAE3405",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
-            "ACC1100"
+            "CHE3161",
+            "CHE3162",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
           ]
         },
         {
@@ -74,8 +74,11 @@
           "units": [
             "CHE3161",
             "CHE3165",
-            "BFC2340",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -84,8 +87,11 @@
           "units": [
             "CHE3166",
             "CHE3164",
-            "ETC2520",
-            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+            "ECC3840",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -94,7 +100,10 @@
           "units": [
             "CHE4161",
             "CHE4180",
-            "ECC1000"
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
           ]
         },
         {
@@ -103,7 +112,7 @@
           "units": [
             "CHE4162",
             "CHE4170",
-            "ETC3530"
+            "ETC3400"
           ]
         }
     ]

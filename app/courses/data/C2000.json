@@ -1,7 +1,8 @@
 {
     "courseCode": "C2000",
-    "courseName": "Information Technology",
-    "courseType": "Bachelor degree",
+    "courseName": "Bachelor of Information Technology",
+    "faculty": "Faculty of Information Technology",
+    "courseType": "Undergraduate",
     "teachingPeriods": [
         {
             "code": "S1-01",

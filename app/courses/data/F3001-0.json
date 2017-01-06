@@ -1,7 +1,9 @@
 {
+    "courseAOS": "",
     "courseCode": "F3001",
-    "courseName": "Interior Architecture",
-    "courseType": "Bachelor degree (honours)",
+    "courseName": "Bachelor of Interior Architecture",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
     "teachingPeriods": [
         {
             "code": "S1-01",
@@ -50,25 +52,11 @@
                     "UnitName": "Drawing 1"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "",
-                    "Prohibitions": "TAD1101",
-                    "SCABand": 1,
-                    "UnitCode": "AHT1101",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Introduction to visual culture in Art Design & Architecture"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "AHT1011",
+                    "UnitName": "Cannot Fetch Data"
                 },
                 {
                     "CreditPoints": 0,
@@ -93,7 +81,7 @@
                     "UnitName": "Introduction to art and design health and safety"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S2-01",
@@ -121,25 +109,11 @@
                     "UnitName": "Interior architecture studio 2"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit introduces basic techniques of visualisation for the exploration and communication of interior architecture. These techniques are examined, and then applied to the communication of interior architectural experiences throughout the design process. The student will use a range of media including digital modelling, and develop proposals in two and three dimensions.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "IAR1113, DWG1201 or DWG1301, OHS1000",
-                    "Prohibitions": "DIS1912, IAR1402, IAR1410, DIS2908",
-                    "SCABand": 2,
-                    "UnitCode": "IAR1411",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Communication and media"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IAR1141",
+                    "UnitName": "Cannot Fetch Data"
                 },
                 {
                     "CreditPoints": 6,
@@ -163,7 +137,7 @@
                     "UnitName": "Constructions and environments 1"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S1-01",
@@ -233,11 +207,11 @@
                     "UnitName": "Contemporary interior architecture"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 3,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -280,9 +254,16 @@
                         ]
                     ],
                     "UnitName": "Constructions and environments 3"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
         {
             "code": "S1-01",
@@ -310,25 +291,11 @@
                     "UnitName": "Interior architecture studio 5"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit introduces students to the range of practical, fiscal, operational and legislated requirements for operation as a competent professional practitioner of interior architecture. Site visits relevant to the projects are undertaken.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "IAR2113 or IAR2115",
-                    "Prohibitions": "PPR2110,PPR3108",
-                    "SCABand": 2,
-                    "UnitCode": "PPR3102",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Professional practice for interior architecture"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PRR3102",
+                    "UnitName": "Cannot Fetch Data"
                 },
                 {
                     "CreditPoints": 6,
@@ -352,11 +319,11 @@
                     "UnitName": "Interior architecture history and theory"
                 }
             ],
-            "year": 2018
+            "year": 2
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -402,6 +369,13 @@
                 },
                 {
                     "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
                     "Description": "A period of approved industrial placement (normally six weeks) in an interior architecture or design practice normally taken no earlier than the end of the third year and preferably before the commencement of the fourth year. In many instances students will use the contacts they develop in this unit to help identify an honours project topic.",
                     "EFTSL": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
@@ -423,11 +397,11 @@
                     "UnitName": "Industrial experience"
                 }
             ],
-            "year": 2018
+            "year": 2
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 3,
             "units": [
                 {
                     "CreditPoints": 12,
@@ -470,9 +444,16 @@
                         ]
                     ],
                     "UnitName": "Research: questions and processes"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2019
+            "year": 3
         },
         {
             "code": "S2-01",
@@ -521,7 +502,7 @@
                     "UnitName": "Interior architecture design research documentation"
                 }
             ],
-            "year": 2019
+            "year": 2
         }
     ]
 }

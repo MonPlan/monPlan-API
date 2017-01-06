@@ -1,11 +1,13 @@
 {
+    "courseAOS": "Art History",
     "courseCode": "F2003",
-    "courseName": "Fine Art",
-    "courseType": "Bachelor degree",
+    "courseName": "Bachelor of Fine Arts",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 4,
+            "numberOfUnits": 5,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -50,25 +52,18 @@
                     "UnitName": "Drawing 1"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit introduces students to principles of web design. File formats, colour modes, image resolution and bit depth, and preparation of images for on-line delivery. The development, status and potential of delivering information and graphics over digital networks using computers. Variations on network types including Internet and Intranets. Protocols, set-up and file formats commonly used. Motion graphics and on-line delivery of multimedia documents are also covered.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "",
-                    "Prohibitions": "MMS1402, FIT1012",
-                    "SCABand": 1,
-                    "UnitCode": "DIS1704",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Web design"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "DIS1704,MKF1120,ATS1279,ATS1298,ATS1903,ATS1305,ATS1254,ATS1089,ATS1090"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 },
                 {
                     "CreditPoints": 0,
@@ -93,11 +88,11 @@
                     "UnitName": "Introduction to art and design health and safety"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
@@ -142,33 +137,33 @@
                     "UnitName": "Digital Imaging for Contemporary Art"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit introduces students to principles of web design. File formats, colour modes, image resolution and bit depth, and preparation of images for on-line delivery. The development, status and potential of delivering information and graphics over digital networks using computers. Variations on network types including Internet and Intranets. Protocols, set-up and file formats commonly used. Motion graphics and on-line delivery of multimedia documents are also covered.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "",
-                    "Prohibitions": "MMS1402, FIT1012",
-                    "SCABand": 1,
-                    "UnitCode": "DIS1704",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Web design"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "DIS1704,MKF1120,ATS1279,ATS1298,ATS1903,ATS1305,ATS1254,ATS1089,ATS1090"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2016
+            "year": 0
         },
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 4,
             "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2001,AHT2712"
+                },
                 {
                     "CreditPoints": 6,
                     "Description": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
@@ -191,105 +186,145 @@
                     "UnitName": "International art 1945-1990"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit considers contemporary international art from a variety of perspectives, with each week aligned to a relevant, local exhibition. The unit covers a range of material concerns: sculptural, painterly, filmic, performative, durational, conceptual and so on. Themes may change in different years, but include such questions as \"What is contemporary art?\", \"How do we define aesthetics after conceptualism?\" and \"How can art be political today?\" The course also covers institutional concerns, such as methods of dissemination, global reach, biennales, gallery contexts and curatorial implications. With help from teaching staff, students are encouraged to focus the assessment tasks on the concerns of their studio practice or art writing and art history interests.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
-                    "Prohibitions": "Must not have passed unit TAD3105",
-                    "SCABand": 1,
-                    "UnitCode": "AHT2105",
-                    "UnitLocationTP": "Not Offered in 2017",
-                    "UnitName": "Contemporary international art"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
         {
             "code": "S2-01",
-            "numberOfUnits": 3,
+            "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit examines the medium and its materiality across a range of visual art practices including: painting, sculpture, installation, photography, video, multi-media, social practices and performance art. It focuses on a historical lineage of art's mediums and disciplines and how they are framed, constituted and judged in a diverse range of academic fields. Concepts and traditions of modern aesthetics, the effect of late-capitalism, socio-economic critiques of art and technology are pivotal to any understanding of how art's form moves between modes of medium-specificity to trans-disciplinary realms. The unit introduces key theoretical tenets to analyse late modernist and contemporary art practices as case studies. It introduces students to the critical dialogue around the medium and artists' material processes.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at first year level in Art History and Theory, or Theory of Art and Design, or Visual Culture,  or permission from Unit Coordinator",
-                    "Prohibitions": "TAD2801, TAD3801, AHT3801",
-                    "SCABand": 1,
-                    "UnitCode": "AHT2801",
-                    "UnitLocationTP": "Not Offered in 2017",
-                    "UnitName": "The medium in contemporary art"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit examines the medium and its materiality across a range of visual art practices including: painting, sculpture, installation, photography, video, multi-media, social practices and performance art. It focuses on a historical lineage of art's mediums and disciplines and how they are framed, constituted and judged in a diverse range of academic fields. Concepts and traditions of modern aesthetics, the effect of late-capitalism, socio-economic critiques of art and technology are pivotal to any understanding of how art's form moves between modes of medium-specificity to trans-disciplinary realms. The unit introduces key theoretical tenets to analyse late modernist and contemporary art practices as case studies. It introduces students to the critical dialogue around the medium and artists' material processes.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at first year level in Art History and Theory, or Theory of Art and Design, or Visual Culture,  or permission from Unit Coordinator",
-                    "Prohibitions": "TAD2801, TAD3801, AHT3801",
-                    "SCABand": 1,
-                    "UnitCode": "AHT2801",
-                    "UnitLocationTP": "Not Offered in 2017",
-                    "UnitName": "The medium in contemporary art"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2790,ATS3113,ATS2517,ATS2163,ATS2436,ATS3437,ATS3763,ATS2983,ATS2962,ATS3969,ATS3405 ,ATS3419 ,ATS2355 , ATS2612/3612 , ATS2957/3957"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "The unit provides the essential tools and learnings required to research and write in a variety of feature styles. Students will be taught to identify and use multiple literary devices to produce compelling print and online feature journalism.The unit critically considers the implications for journalists of ethical and legal issues and different modes of audience engagement and authorial positioning. Contact the unit coordinator for details.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Arts",
-                    "Prerequisites": "Twelve credit points of first-year Arts units. It is highly recommended that students only take this unit after they have completed two first-year level units in Journalism.",
-                    "Prohibitions": "ATS1331",
-                    "SCABand": 1,
-                    "UnitCode": "ATS2790",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Caulfield"
-                            ],
-                            [
-                                "Second semester 2017 (Day)",
-                                "Second semester 2017 (Online)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Feature writing"
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2017
+            "year": 1
         },
-        {},
         {
             "code": "S1-01",
-            "numberOfUnits": 2,
+            "numberOfUnits": 1,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit examines the medium and its materiality across a range of visual art practices including: painting, sculpture, installation, photography, video, multi-media, social practices and performance art. It focuses on a historical lineage of art's mediums and disciplines and how they are framed, constituted and judged in a diverse range of academic fields. Concepts and traditions of modern aesthetics, the effect of late-capitalism, socio-economic critiques of art and technology are pivotal to any understanding of how art's form moves between modes of medium-specificity to trans-disciplinary realms. The unit introduces key theoretical tenets to analyse late modernist and contemporary art practices as case studies. It introduces students to the critical dialogue around the medium and artists' material processes.",
-                    "EFTSL": 0.125,
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts",
+                    "SCABand": 0,
+                    "UnitCode": "custom",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at second year level in Art History and Theory, or Theory of Art and Design, or Visual Culture,  or permission from Unit Coordinator",
-                    "Prohibitions": "TAD2801, TAD3801, AHT2801",
-                    "SCABand": 1,
-                    "UnitCode": "AHT3801",
-                    "UnitLocationTP": "Not Offered in 2017",
-                    "UnitName": "The medium in contemporary art"
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AH3001,AHT3712"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2790,ATS3113,ATS2517,ATS2163,ATS2436,ATS3437,ATS3763,ATS2983,ATS2962,ATS3969,ATS3405 ,ATS3419 ,ATS2355 , ATS2612/3612 , ATS2957/3957"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit considers contemporary international art from a variety of perspectives, with each week aligned to a relevant, local exhibition. The unit covers a range of material concerns: sculptural, painterly, filmic, performative, durational, conceptual and so on. Themes may change in different years, but include such questions as \"What is contemporary art?\", \"How do we define aesthetics after conceptualism?\" and \"How can art be political today?\" The course also covers institutional concerns, such as methods of dissemination, global reach, biennales, gallery contexts and curatorial implications. With help from teaching staff, students are encouraged to focus the assessment tasks on the concerns of their studio practice or art writing and art history interests.",
+                    "Description": "This unit is designed to assist students specialising in art history and curating to extend their field of study with practical art writing and curatorial experience. A program of directed reading and critical writing, facilitated by regular meetings with staff, will underpin a research project designed to allow students to apply the knowledge they have learnt throughout the degree. Typically, this project will include an exhibition catalogue essay and the curating of an exhibition.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Art, Design and Architecture",
-                    "Prerequisites": "12 credit points at second year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
-                    "Prohibitions": "TAD2105, TAD3105, AHT2105",
+                    "Prerequisites": "Must have passed 96 credit points towards the BFA Art History and Curating",
+                    "Prohibitions": "",
                     "SCABand": 1,
-                    "UnitCode": "AHT3105",
+                    "UnitCode": "AHT3150",
                     "UnitLocationTP": "Not Offered in 2017",
-                    "UnitName": "Contemporary international art"
+                    "UnitName": "Project studies"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
                 }
             ],
-            "year": 2018
-        },
-        {}
+            "year": 2
+        }
     ]
 }

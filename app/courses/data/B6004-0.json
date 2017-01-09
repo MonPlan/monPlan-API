@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Banking and Finance",
     "courseCode": "B6004",
-    "courseName": "Master of Banking and Finance",
-    "courseType": "Postgrad",
+    "courseName": "Banking and Finance",
+    "courseType": "Expert master degree",
     "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
@@ -11,21 +11,20 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit examines accounting as an information system. It will introduce students to accounting principles and reporting practices from a user's perspective. The information requirements of two main groups are examined - external users such as owners, shareholders, investors, potential investors, and internal users such as managers. This unit provides students with an introduction to accounting and an understanding of the preparation, presentation and interpretation of financial statements. In particular, emphasis is placed on an understanding of various business structures including control and reporting aspects of new businesses, processes, practices and policies that enable the financial performance and financial position of an entity, as displayed by the balance sheet, income statement and statement of cash flows, to be measured, analysed and interpreted. Managerial accounting issues are also presented, with particular emphasis on cost management, cost behaviour, budgeting and performance measurement.",
+                    "Description": "This unit examines accounting as an information system.  It will introduce students to accounting principles and reporting practices from a users perspective. The information requirements of two main groups are examined - external users such as owners, shareholders, investors, potential investors, and internal users such as managers. This unit provides students with an introduction to accounting and an understanding of the preparation, presentation and interpretation of financial statements.  In particular, emphasis is placed on an understanding of various business structures including control and reporting aspects of new businesses, processes, practices and policies that enable the financial performance and financial position of an entity, as displayed by the balance sheet, income statement and statement of cash flows, to be measured, analysed and interpreted.  Managerial accounting issues are also presented, with particular emphasis on cost management, cost behaviour, budgeting and performance measurement.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "ACF5903, AFX9003 AND students enrolled in any of the following courses are prohibited: 0790, 0826, 3843, 4402, 0503, 3850, 4401, B6011, B6015",
+                    "Prohibitions": "AFX9003, GSB9004, MBA9004 AND students enrolled in any of the following courses are prohibited: 0790, 0826, 3843, 4402, 0503, 3850, 4401.",
                     "SCABand": 3,
-                    "UnitCode": "ACC5903",
+                    "UnitCode": "ACF5903",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
-                                "First semester 2017 (Evening)",
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)"
                             ]
@@ -39,13 +38,13 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "ECF5953, ECG9101, ECG5901, ECF9530",
+                    "Prohibitions": "ECG9101, ECG5901, ECF9530",
                     "SCABand": 3,
-                    "UnitCode": "ECC5953",
+                    "UnitCode": "ECF5953",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Evening)",
@@ -61,13 +60,13 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "AFX9510, ETC1000, ETG1102, ETW1000, ETW1102, ETX1100, ETC9000, ETF5900",
+                    "Prohibitions": "AFX9510, ETC1000, ETG1102, ETW1000, ETW1102, ETX1100 and ETC9000.",
                     "SCABand": 3,
-                    "UnitCode": "ETC5900",
+                    "UnitCode": "ETF5900",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
@@ -83,13 +82,13 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5925",
+                    "Prohibitions": "AFG9070, BFG5970, AFX9540, BFF5954, AFX9590, BFM5959, BFS5959, BFZ5959, AFF9250",
                     "SCABand": 3,
-                    "UnitCode": "BFC5925",
+                    "UnitCode": "BFF5925",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
@@ -110,9 +109,9 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Advanced Preparatory Knowledge Unit ",
+                    "UnitCode": "Preparatory studies unit selected from list",
                     "UnitName": ""
                 },
                 {
@@ -121,16 +120,17 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5935, AFF9350",
+                    "Prohibitions": "AFF9350",
                     "SCABand": 3,
-                    "UnitCode": "BFC5935",
+                    "UnitCode": "BFF5935",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)"
                             ]
@@ -144,15 +144,17 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5916, AFF9160",
+                    "Prohibitions": "AFF9160",
                     "SCABand": 3,
-                    "UnitCode": "BFC5916",
+                    "UnitCode": "BFF5916",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)"
                             ]
@@ -166,16 +168,16 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5280, AFF5280",
+                    "Prohibitions": "AFF5280",
                     "SCABand": 3,
-                    "UnitCode": "BFC5280",
+                    "UnitCode": "BFF5280",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
-                                "Second semester 2017 (Day)",
+                                "First semester 2017 (Day)",
                                 "Second semester 2017 (Evening)"
                             ]
                         ]
@@ -195,35 +197,13 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5926, AFF9260",
+                    "Prohibitions": "AFF9260",
                     "SCABand": 3,
-                    "UnitCode": "BFC5926",
+                    "UnitCode": "BFF5926",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)",
-                                "Second semester 2017 (Evening)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Australian capital markets"
-                },
-                {
-                    "CreditPoints": 6,
-                    "Description": "This unit will combine classroom teaching and direct observance experience of the money markets covering background to the money markets, participants, interest rate and exchange rate determination, instruments traded in the money and currency markets, strategies and money and currency market trading operations. The simulated treasury dealing room (STARLab) will be used extensively in this course. This is a specialist, practically oriented unit where attendance is compulsory as assessment is based on classroom activities. An understanding of commercial banking and treasury management is required.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed one of the following units: AFF5280, BFF5280 or BFF5926 before undertaking this unit.",
-                    "Prohibitions": "BFF5260, AFF5260",
-                    "SCABand": 3,
-                    "UnitCode": "BFC5260",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
@@ -233,7 +213,14 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Money market dealing"
+                    "UnitName": "Australian capital markets"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BFF5914,BFF5260"
                 },
                 {
                     "CreditPoints": 6,
@@ -241,17 +228,27 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "",
-                    "Prohibitions": "BFF5915",
+                    "Prohibitions": "AFF5290, AFF3751, BFF3751, AFF9150",
                     "SCABand": 3,
-                    "UnitCode": "BFC5915",
+                    "UnitCode": "BFF5915",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
                             ]
                         ]
                     ],
@@ -259,9 +256,9 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit ",
+                    "UnitCode": "Application studies unit 1",
                     "UnitName": ""
                 }
             ],
@@ -277,13 +274,13 @@
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
                     "Prerequisites": "Students must have completed 72 credit points.",
-                    "Prohibitions": "BFF5130",
+                    "Prohibitions": "",
                     "SCABand": 3,
-                    "UnitCode": "BFC5130",
+                    "UnitCode": "BFF5130",
                     "UnitLocationTP": [
                         [
                             [
-                                "Clayton"
+                                "Caulfield"
                             ],
                             [
                                 "First semester 2017 (Day)",
@@ -297,23 +294,23 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit ",
+                    "UnitCode": "Application studies unit 2",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit ",
+                    "UnitCode": "Application studies unit 3",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit ",
+                    "UnitCode": "Application studies unit 4",
                     "UnitName": ""
                 }
             ],

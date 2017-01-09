@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Business Law",
     "courseCode": "B6013",
-    "courseName": "Master of Business Law",
-    "courseType": "Postgrad",
+    "courseName": "Business Law",
+    "courseType": "Expert master degree",
     "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
@@ -204,9 +204,9 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitCode": "Mastery knowledge unit choice 1",
                     "UnitName": ""
                 },
                 {
@@ -235,16 +235,16 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 1",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 2",
                     "UnitName": ""
                 }
             ],
@@ -278,23 +278,23 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitCode": "Mastery knowledge unit choice 2",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 3",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 4",
                     "UnitName": ""
                 }
             ],

@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Business",
     "courseCode": "B6005",
-    "courseName": "Master of Business",
-    "courseType": "Postgrad",
+    "courseName": "Business",
+    "courseType": "Expert master degree",
     "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
@@ -11,30 +11,30 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitCode": "Advanced preparatory unit 1 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitCode": "Advanced preparatory unit 2 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitCode": "Advanced preparatory unit 3 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Advanced Preparatory Unit",
+                    "UnitCode": "Advanced preparatory unit 4 selected from a list",
                     "UnitName": ""
                 }
             ],
@@ -60,16 +60,16 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge - Specialisation unit 1 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge - Specialisation unit 2 selected from a list",
                     "UnitName": ""
                 }
             ],
@@ -81,30 +81,30 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge - Specialisation unit 3 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge- Specialisation unit 4 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Free elective",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Free elective",
                     "UnitName": ""
                 }
             ],
@@ -116,30 +116,30 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge - Specialisation unit 5 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Specialisation Unit",
+                    "UnitCode": "Mastery knowledge - Specialisation unit 6 selected from a list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Free elective",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Free elective",
                     "UnitName": ""
                 }
             ],

@@ -1,0 +1,899 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3003",
+    "courseName": "Education and Commerce",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Enrolment in a Faculty of Education course",
+                    "Prohibitions": "EDF1301",
+                    "SCABand": 1,
+                    "UnitCode": "EDF1303",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Understanding learning and learners"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF1055",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 1A"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MGB1010, MGF1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "UnitCode": "MGC1010",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to management"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF1303",
+                    "Prohibitions": "EDF1302",
+                    "SCABand": 1,
+                    "UnitCode": "EDF1304",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Understanding teaching for learning"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Have you ever wondered what marketing is all about? This unit is designed to introduce students to the essential elements of marketing. It encompasses marketing's role in a dynamic business environment and leads students to understand how organisations use the principles of marketing to meet the needs of their customers and achieve their objectives. This unit provides a foundation for those students seeking to pursue further study of specialist marketing units; however it covers the broad scope of marketing sufficient for those students undertaking only one marketing unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MKB1200, MKF1120, MKG1120, MKW1120",
+                    "SCABand": 3,
+                    "UnitCode": "MKC1200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of marketing"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF1055",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF1056",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 1B"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 1",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds on students' initial education studies to further develop and practise their knowledge and skills in planning for teaching, collaborating with peers and building positive and productive classroom environments. One focus is on understanding the professional responsibilities teachers have with respect to developing their practice, and building and sustaining educational relationships with students, professional colleagues, administrators, parents and members of the community in diverse educational settings. Another focus is developing and applying the practical teaching knowledge and skills students are acquiring in their course and during professional experience. Unit learning and assessment tasks require students to engage with contemporary issues in teaching, to develop a critical position on these issues, and to consider the practical applications of this position in their teaching practice now and into the future.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF1303EDF1304",
+                    "Prohibitions": "EDF2002",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional responsibilities, practice and relationships"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "In this unit students develop their knowledge and understanding of key priorities in education connected to their various education contexts, the Australian Curriculum and expectations of the Australian Professional Standards for Teachers. The unit includes exploration of cross-curriculum priorities including Asia and Australia's engagement with Asia, education for sustainability, and Aboriginal and Torres Strait Islander peoples, histories and cultures. Through a range of research and inquiry-based methodologies, and through investigations of exemplars of teaching and learning in schools in local and global contexts, students build their understanding of professional practice and education priorities. Students learn how to develop strategies for teaching diverse learners including Aboriginal and Torres Strait Islander students. The unit also focuses on how to implement the critical areas of literacy, numeracy and the use of information and communication technologies (ICTs) in schools.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of at least 12 credit points of education units",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2006",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Education priorities"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF1056",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2055",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 2A"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 2",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BTC1010",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit focuses on significant aspects of adolescent development and the implications for teachers. Students further their understanding of psychological research into adolescent development and are encouraged to develop critical perspectives in this field. The unit considers psychological, motivational, social, cognitive, biological and sociocultural perspectives of adolescent development and learning. Students inquire into interpersonal and teaching strategies for teaching and learning with adolescents based on contemporary knowledge of adolescent development.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF2005",
+                    "Prohibitions": "EDF3006",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2007",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Adolescent development and learning"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the concept and process of becoming a specialist teacher. It focuses on the identity, knowledge, practices and professional learning of a teacher with expertise grounded in a particular disciplinary tradition. Using different frameworks to explore the nature of disciplinary knowledge, the unit enables students to think critically and creatively about the relationship between their developing disciplinary knowledge and their emerging work as specialist teachers. Students examine how the curriculum organises and represents knowledge in ways that are both specialised and interdisciplinary. They explore how teachers help students develop knowledge, capabilities and skills both within and beyond subject specialism boundaries in ways that meet the needs of a diverse range of students in an ever-changing world. Students develop broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disabilities. The unit provides a range of conceptual and practical ideas and resources from which students can build further understandings and capacities in their ongoing professional learning as specialist teachers.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of at least 12 credit points of education units",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2008",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Becoming a specialist teacher"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF2055",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF2056",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 2B"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 4",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 5",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit inquires into the challenges of achieving equity in schooling and education in diverse social and cultural contexts. It critically engages with a combination of sociological theory, contemporary policy documents and accounts of innovative practice in schools and communities to explore the ways in which curriculum and teaching and learning strategies can be ethically responsive to centralised government policy and local and community needs. International policy developments and trends in multicultural education are examined, as well as local, state and national responses. Cultural, linguistic, religious, socioeconomic, intellectual and physical differences among all students are studied in relation to creating equitable and inclusive learning environments. The unit builds understanding of the histories, cultures and identities of Aboriginal and Torres Strait Islander people and explores how this understanding in educators can productively contribute to experiences of schooling for all young Australians.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Course commenced prior to 2014:Must have passed 3 units in EDF1303, EDF1304, EDF2003, EDF2004, EDF2005, EDF3002Course commenced in or after 2014:EDF2005 and EDF2007",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF3009",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Schooling, education and equity: Local and global perspectives"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines a range of curriculum theories and uses this knowledge as a framework for exploring the work that teachers do to develop responsive curriculum and innovative practice. Through an examination of a range of innovative practices that engage diverse student populations, the unit explores the ways in which teachers in schools transform centralised curriculum documents and bring curriculum 'to life'. In association with this exploration, students investigate a range of issues that include maximising learner motivation in schools, engagement through curriculum development and innovative practice, developing community-based curriculas and practices, and teachers seeing themselves as 'curriculum workers' and the implication of this for their professional identity. Students draw on their emerging understandings of curriculum policies, issues and innovation to develop practices that are inclusive, exciting and educational.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of at least 24 credit points of education units.",
+                    "Prohibitions": "EDF2004",
+                    "SCABand": 1,
+                    "UnitCode": "EDF3010",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Curriculum development and innovative practice"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF2056",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF3055",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 3A"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 6",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 7",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit enables students to develop knowledge, skills and understandings of how to engage with young and adolescent learners across discipline areas through their language and literacy practices. Drawing on a range of Australian and international research literature, and linking theory and practice, students work collaboratively and individually to develop deep understandings of language and literacy (including numerical literacy) as complex social, cultural, political and technological practices that develop in multiple contexts, in and out of schools and classrooms. They apply their emerging knowledge and skills in these areas to creatively and critically inquire into a range of educational scenarios involving literacy development and learning. Students learn about and undertake ethnographic research into their own literacy practices, and those of students and teachers in diverse educational contexts. In learning from research and through conducting their own inquiries, students develop an appreciation of how language and literacy practices play key roles in mediating diverse learners' identities, relationships and understandings of the world.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF2007",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF3007",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Developing multiple literacies in education"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Education elective (6 pts)",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF3055",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF3056",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 3B"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 8 or Commerce elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Researching teaching and learning"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds upon students' existing knowledge of curriculum, through an exploration of recent developments in curriculum, assessment, evaluation and education policy in local and national contexts. Students critically engage with various theoretical views relating to curriculum and assessment and their relationship to policy. A key focus of this unit is investigating what makes particular curricula and assessment approaches have greater or lesser educative value and the impacts of policy in these areas. Consequently, the political and ethical dimensions inherent in all curricula are explored, as are the linkages between curricula, assessment, reporting, evaluation and the quality of student learning. This unit promotes the importance of developing the professional capacity of educators to make critical judgments in terms of curriculum planning, action and evaluation, and the development of assessment that promotes high quality student learning.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "EDF3001EDF5422",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4004",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Curriculum, assessment and education policy"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF3056",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4055",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 4A"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 1A (6 pts)",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 2A (6 pts)",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research project in education"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit prepares students for their transition from initial teacher education to their professional practice as teachers. Drawing on a range of research literature and the knowledge, skills and professional experiences developed during all years of their course, students are inducted into the notion of what it means to be engaged in the teaching profession through consideration of the nature of teachers' work and of leadership in education. This includes the ethical, professional, industrial, legal, emotional, intellectual and personal dimensions of the work of teachers and educational leaders. Students gather evidence of and critically reflect on their emerging professional identity as practitioners, and on the Graduate Teaching Standards and graduate attributes they have developed that enable them to be skilled teachers and potential education leaders. They explore the ways in which they can engage with and initiate professional communities of educators in and beyond their immediate professional settings. Students develop understanding of the process of applying for positions and transitioning to the profession in ways that enhance and improve their employability. They continue to develop their literacy, numeracy and information and communication technology (ICT) skills and knowledge through synthesising a variety of theoretical and practical perspectives they have encountered throughout their course.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4006",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Transition and professional engagement"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "For Primary and Secondary Health and Physical Education: EDF4053For Secondary Health and Physical Education: EDF4055For Secondary Education (double degrees): EDF4055",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4056",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Secondary professional experience 4B"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 1B (6 pts)",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 2B (6 pts)",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,473 @@
+{
+    "courseAOS": "Bachelor of Marketing ",
+    "courseCode": "B2003",
+    "courseName": "Business Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an introduction to the discipline of marketing. It encompasses marketing's role in a dynamic organisational environment and introduces students to the concepts and strategies employed by marketers to create value for organisations and their stakeholders. The unit provides a foundation for those students seeking to pursue further study in marketing, however it also provides an insight into the interrelationship between marketing and other disciplines.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MKB1200, MKC1200, MKG1120, MKP1120, MKW1120",
+                    "SCABand": 3,
+                    "UnitCode": "MKF1120",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing theory and practice"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces basic accounting concepts to non-accountants. The information requirements of two main groups of information users are examined - external users such as current and potential investors and internal users such as managers. This unit provides an introduction to the structure, meaning, analysis and interpretation of financial statements, in addition to exploring financial issues confronting managers, such as cost and performance measurement and budgeting.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "Students enrolled in the Bachelor of Business specialist (B20031 Bachelor of Accounting)ACB1000, ACC1000, ACF1000, ACP1000, ACG1000, ACW1000, ACC1200, ACP1200, ACC1100, ACF1100, ACP1100 and ACW1100",
+                    "SCABand": 3,
+                    "UnitCode": "ACF1200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Accounting for managers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Economics as an area of knowledge. Economics in a business degree. Understanding economic policy. An analysis of markets: supply and demand; consumer behaviour; firm behaviour; cost of production and profit maximisation; behaviour of firms in different market structures; evaluation of market capitalist economic systems, economic efficiency, market failure, government failure; current economic policies, competition policy, privatisation and the funding of education.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECB1101, ECC1000, ECG1101, ECP1100, ECS1101, ECW1101, PMM2020",
+                    "SCABand": 3,
+                    "UnitCode": "ECF1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Excel software will be used.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETX1100, BUS1100, ETB1100, ETC1000, ETG1102, ETW1000, ETW1102, PMM2020, SCI1020, ETP1100, ETX9000, AFX9510, ETC9000, ETX9000 and students enrolled in course codes 1941, 2224, 3381 or 4423 cannot undertake this unit.",
+                    "SCABand": 2,
+                    "UnitCode": "ETF1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business statistics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "MGB1010, MGC1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "UnitCode": "MGF1010",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to management"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit draws upon the concepts and theories developed in the social sciences to provide students with insight into the drivers of consumer behaviour. The knowledge obtained in this unit can be of significant benefit to both individual consumers, who can use it to make better consumption decisions, and to organisations who can apply it to develop more effective marketing strategies.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF1120, MKW1120 or MKP1120",
+                    "Prohibitions": "MKC2110, MKG2402, MKP2700, MKP2701, MKW2111, MKW2402",
+                    "SCABand": 3,
+                    "UnitCode": "MKF2111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Buyer behaviour"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit bridges the market research process and strategy development by introducing students to industry and competitor analysis, as well as trend and consumer insight techniques, through the synthesis of secondary data. Understanding these macro insights is a fundamental part of the marketing landscape. By forecasting trends, managers can better understand what drives and motivates consumers. The synthesis of such secondary data can greatly assist in the development of successful marketing strategies.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF1120",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MKF2801",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing insights"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The process of marketing research. Role of research in the marketing decision process. Developing key outputs -- brief, proposal, report. Planning and managing a research project. Qualitative and quantitative research techniques. Statistical analysis, marketing interpretation and reporting.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF1120",
+                    "Prohibitions": "ETC2500, MKB2420, MKW2420, MKC2500, MKG2420",
+                    "SCABand": 3,
+                    "UnitCode": "MKF2121",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing research methods"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "With increasing availability of data and computing power, more and more companies are using data driven decision making, and data is becoming the heart of the corporate decision making process. In this unit, you will learn the power of marketing analytics and its effectiveness in making better decisions. Working with multiple marketing metrics and models, you will develop skills to identify problems, analyse data and develop optimal decisions for various marketing issues.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF2121",
+                    "Prohibitions": "MKC2130, MKW2131",
+                    "SCABand": 3,
+                    "UnitCode": "MKF2131",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing decision analysis"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Marketing elective unit from specified list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The development of corporate marketing strategies; marketing planning procedure; evaluation and control in marketing planning; Australian case studies in corporate marketing planning and strategy. Concepts of product management; designing a product strategy; monitoring planning/marketing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "For students in B2003, B20033, B2012, B2013, B2018 must have passed MKF1120 and MKF2111 and MKF2801 and one more (any) Marketing unit.For students in any other courses (pre 2016)  must have passed MKF1120, MKF2111 and any two other Marketing units.",
+                    "Prohibitions": "MKG3121, MKW3121",
+                    "SCABand": 3,
+                    "UnitCode": "MKF3121",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing planning and implementation"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The primary aim of this unit is to explore the use of marketing communication to build and sustain brands, based on knowledge of how communication works, the institutions which participate in the process and the practical business processes necessary to achieve and measure defined communication goals.  In particular, students will be able to understand the integrated nature of communication and develop a full appreciation of advertising, sales promotion, public relations, publicity and direct marketing in a digital and contemporary environment.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF2111 or MKP2700.",
+                    "Prohibitions": "MKC3460, MKG2460, MKP2702, MKW2211, MKW2460",
+                    "SCABand": 3,
+                    "UnitCode": "MKF3461",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing communication"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Marketing elective unit from specified list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Using the case study method this unit provides an analytical framework from which students can explore how marketing strategy is applied throughout a variety of industries. Students will be taught how to analyse, evaluate and implement marketing strategy. A theoretical grounding in introductory marketing, marketing research, buyer behaviour and communications is essential to students undertaking this unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MKF2111 and MKF3121",
+                    "Prohibitions": "MKC3130, MKG3440, MKW3131, MKW3440",
+                    "SCABand": 3,
+                    "UnitCode": "MKF3131",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Strategic marketing"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The legal framework which operates in relation to marketing decisions and practice. Topics discussed include unfair trading practices, intellectual property rights (patents, trade marks, copyright and designs), anti-competitive conduct and new marketing practices. The unit places the laws  controlling unfair and anti-competitive practices within the wider economic context.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "BTF1010 or BTP1010. No prerequisite for students enrolled in B2012 Bachelor of Business Specialist and Bachelor of Arts or B2018 Bachelor of Business Specialist and Bachelor of Information Technology.",
+                    "Prohibitions": "BTB3281, BTC3300, BTW3281, MKC3300",
+                    "SCABand": 3,
+                    "UnitCode": "BTF3181",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Marketing law"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Marketing elective unit from specified list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

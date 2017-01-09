@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Accounting ",
     "courseCode": "B6002",
-    "courseName": "Master of Accounting",
-    "courseType": "Postgrad",
+    "courseName": "Accounting",
+    "courseType": "Expert master degree",
     "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
@@ -57,16 +57,16 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitCode": "Unit from specified list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 1",
                     "UnitName": ""
                 }
             ],
@@ -124,16 +124,16 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitCode": "Unit from specified list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 2",
                     "UnitName": ""
                 }
             ],
@@ -168,23 +168,23 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Capstone Experience",
+                    "UnitCode": "Capstone unit from specified list",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 3",
                     "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studiesunit 4",
                     "UnitName": ""
                 }
             ],

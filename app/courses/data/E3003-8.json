@@ -1,37 +1,23 @@
 {
-    "courseAOS": "Civil Engineering/Actuarial Science",
+    "courseAOS": "Civil Engineering and Actuarial Science specialisations",
     "courseCode": "E3003",
-    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseType": "Double Undergraduate",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
     "faculty": "Faculty of Engineering",
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 4,
+            "numberOfUnits": 5,
             "units": [
                 {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1001,ENG1002"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1003,ENG1005"
-                },
-                {
                     "CreditPoints": 6,
-                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "Description": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "Mathematical methods (CAS) recommended.",
-                    "Prohibitions": "ENG1602",
+                    "Prerequisites": "None",
+                    "Prohibitions": "ENG1020, ENG1040, ENG1050",
                     "SCABand": 2,
-                    "UnitCode": "ENG1060",
+                    "UnitCode": "ENG1001",
                     "UnitLocationTP": [
                         [
                             [
@@ -53,7 +39,14 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Computing for engineers"
+                    "UnitName": "Engineering design: lighter, faster, stronger"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005"
                 },
                 {
                     "CreditPoints": 6,
@@ -76,44 +69,16 @@
                         ]
                     ],
                     "UnitName": "Business and economic statistics"
-                }
-            ],
-            "year": 0
-        },
-        {
-            "code": "S2-01",
-            "numberOfUnits": 4,
-            "units": [
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1002,ENG1001"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1003,ENG1005"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Faculty Elective",
-                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
-                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
                     "SCABand": 3,
-                    "UnitCode": "ETC2410",
+                    "UnitCode": "ECC1000",
                     "UnitLocationTP": [
                         [
                             [
@@ -125,7 +90,128 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Introductory econometrics"
+                    "UnitName": "Principles of microeconomics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "ENG1010, ENG1030",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering design: cleaner, safer, smarter"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Prohibitions": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering mathematics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACF1100, ACP1100.",
+                    "SCABand": 3,
+                    "UnitCode": "ACC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to financial accounting"
                 }
             ],
             "year": 0
@@ -136,20 +222,21 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit introduces the design of steel and timber framed structures in accordance with the design codes. It enables the students to understand the process for the design of steel and timber structures and the background knowledge which leads to the development of the current steel and timber design codes. Students will understand the behaviour of steel and timber structural components under realistic design conditions and relate the knowledge of design to practical design problems in a project-based learning environment.",
+                    "Description": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
                     "Prerequisites": "",
                     "Prohibitions": "",
                     "SCABand": 2,
-                    "UnitCode": "CIV2225",
+                    "UnitCode": "ENG1003",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
-                                "First semester 2017 (Day)"
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
                             ]
                         ],
                         [
@@ -157,11 +244,12 @@
                                 "Malaysia"
                             ],
                             [
-                                "First semester 2017 (Day)"
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Design of steel and timber structures"
+                    "UnitName": "Engineering mobile apps"
                 },
                 {
                     "CreditPoints": 6,
@@ -194,13 +282,13 @@
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "Description": "This unit introduces mathematical techniques that are invaluable tools for econometrics, economics, finance, and business. Topics covered include matrix algebra, linear simultaneous equations and the LU decomposition, eigenvalues and the Schur decomposition, random vectors; optimisation, including the Lagrange multiplier method, partial differentiation, multiple integration, difference and differential equations. Some emphasis will be given to the use of computer programs for performing matrix calculations.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed ETC1000, or be enrolled in course 4439.",
-                    "Prohibitions": "",
-                    "SCABand": 2,
-                    "UnitCode": "ETC2430",
+                    "Prerequisites": "Students must have passed ETC1000 or must be enrolled in course 3822 or 4412.",
+                    "Prohibitions": "ETF2700, ECC2440. Students are also prohibited from enrolling in ETC2440 if they have passed both MTH2010 and MTH2021.",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2440",
                     "UnitLocationTP": [
                         [
                             [
@@ -211,17 +299,17 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Actuarial statistics"
+                    "UnitName": "Mathematics for economics and business"
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ECC1000 is recommended",
-                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
                     "SCABand": 3,
-                    "UnitCode": "ECC1100",
+                    "UnitCode": "ETC2410",
                     "UnitLocationTP": [
                         [
                             [
@@ -233,7 +321,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Principles of macroeconomics"
+                    "UnitName": "Introductory econometrics"
                 }
             ],
             "year": 1
@@ -244,19 +332,20 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "The unit covers all aspects of geomechanics at an elementary level, as well as basic engineering geology, formation and weathering processes, sedimentary, igneous and metamorphic rocks, soil and rock forming minerals, geological mapping and modelling, site investigations, in-situ testing, engineering classification of soil and rock, weight-volume relationship, and the two/three phase model. It also includes effective stress theory, stresses in a soil mass and shear strength. The unit includes elementary level application of geomechanics knowledge in the analysis and design of shallow and deep foundations.",
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "",
-                    "Prohibitions": "",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
                     "SCABand": 2,
-                    "UnitCode": "CIV2242",
+                    "UnitCode": "ENG1060",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
+                                "First semester 2017 (Day)",
                                 "Second semester 2017 (Day)"
                             ]
                         ],
@@ -265,11 +354,13 @@
                                 "Malaysia"
                             ],
                             [
-                                "Second semester 2017 (Day)"
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Geomechanics I"
+                    "UnitName": "Computing for engineers"
                 },
                 {
                     "CreditPoints": 6,
@@ -354,13 +445,13 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "Loads and load paths for multi-storey structures, including the action of core walls. Design of composite steel-concrete floor systems, beam columns and footings. Matrix structural analysis for the determination of forces and displacements in structures. Relationship between frame analysis software and the technique of matrix analysis. Emphasis on performance issues for buildings which are not related to strength and deflection.",
+                    "Description": "This unit introduces the design of steel and timber framed structures in accordance with the design codes. It enables the students to understand the process for the design of steel and timber structures and the background knowledge which leads to the development of the current steel and timber design codes. Students will understand the behaviour of steel and timber structural components under realistic design conditions and relate the knowledge of design to practical design problems in a project-based learning environment.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "CIV2206,CIV2225 and CIV2226",
+                    "Prerequisites": "",
                     "Prohibitions": "",
                     "SCABand": 2,
-                    "UnitCode": "CIV3221",
+                    "UnitCode": "CIV2225",
                     "UnitLocationTP": [
                         [
                             [
@@ -379,7 +470,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Building structures and technology"
+                    "UnitName": "Design of steel and timber structures"
                 },
                 {
                     "CreditPoints": 6,
@@ -419,24 +510,25 @@
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit introduces mathematical techniques that are invaluable tools for econometrics, economics, finance, and business. Topics covered include matrix algebra, linear simultaneous equations and the LU decomposition, eigenvalues and the Schur decomposition, random vectors; optimisation, including the Lagrange multiplier method, partial differentiation, multiple integration, difference and differential equations. Some emphasis will be given to the use of computer programs for performing matrix calculations.",
+                    "Description": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed ETC1000 or must be enrolled in course 3822 or 4412.",
-                    "Prohibitions": "ETF2700, ECC2440. Students are also prohibited from enrolling in ETC2440 if they have passed both MTH2010 and MTH2021.",
+                    "Prerequisites": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Prohibitions": "AFC2340",
                     "SCABand": 3,
-                    "UnitCode": "ETC2440",
+                    "UnitCode": "BFC2340",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
-                                "First semester 2017 (Day)"
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Mathematics for economics and business"
+                    "UnitName": "Debt markets and fixed income securities"
                 }
             ],
             "year": 2
@@ -447,13 +539,13 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "Systematic approaches to engineering data collection, analysis and interpretation. The Scope covers data description and presentation, randomness, discrete probability, continuous probability, conditional probability, Bayes' Theorem, normal distribution, sampling distributions, point estimation, interval estimation, hypothesis testing, linear regression.",
+                    "Description": "The unit covers all aspects of geomechanics at an elementary level, as well as basic engineering geology, formation and weathering processes, sedimentary, igneous and metamorphic rocks, soil and rock forming minerals, geological mapping and modelling, site investigations, in-situ testing, engineering classification of soil and rock, weight-volume relationship, and the two/three phase model. It also includes effective stress theory, stresses in a soil mass and shear strength. The unit includes elementary level application of geomechanics knowledge in the analysis and design of shallow and deep foundations.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "ENG1091 or MTH1030 or MTH1031 or ENG1005",
+                    "Prerequisites": "",
                     "Prohibitions": "",
                     "SCABand": 2,
-                    "UnitCode": "CIV3204",
+                    "UnitCode": "CIV2242",
                     "UnitLocationTP": [
                         [
                             [
@@ -472,7 +564,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Engineering investigation"
+                    "UnitName": "Geomechanics I"
                 },
                 {
                     "CreditPoints": 6,
@@ -504,33 +596,32 @@
                     "UnitName": "Transport and traffic engineering"
                 },
                 {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
-                },
-                {
                     "CreditPoints": 6,
-                    "Description": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "Description": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACF1100, ACP1100.",
-                    "SCABand": 3,
-                    "UnitCode": "ACC1100",
+                    "Prerequisites": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ETC2430",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
+                                "First semester 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Introduction to financial accounting"
+                    "UnitName": "Actuarial statistics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 1 from a list",
+                    "UnitName": ""
                 }
             ],
             "year": 2
@@ -543,18 +634,18 @@
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "CIV3285",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "CIV3xxx Engineering Hydrology S1",
+                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "Overview of concepts relating to groundwater resources and seepage, with emphasis on seepage containment in reservoirs, ponds, soil pollution and its avoidance, focusing on soil behaviour and its effect on seepage, groundwater percolation and migration of contaminant in the nearfield of waste containment facilities.  Focus will also be on the function, design and construction of engineered soil barriers to prevent leakage from water reservoirs, ponds or to isolate different types of waste.",
+                    "Description": "Loads and load paths for multi-storey structures, including the action of core walls. Design of composite steel-concrete floor systems, beam columns and footings. Matrix structural analysis for the determination of forces and displacements in structures. Relationship between frame analysis software and the technique of matrix analysis. Emphasis on performance issues for buildings which are not related to strength and deflection.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "",
+                    "Prerequisites": "CIV2206,CIV2225 and CIV2226",
                     "Prohibitions": "",
                     "SCABand": 2,
-                    "UnitCode": "CIV3248",
+                    "UnitCode": "CIV3221",
                     "UnitLocationTP": [
                         [
                             [
@@ -573,36 +664,21 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Groundwater and environmental geomechanics"
-                },
-                {
-                    "CreditPoints": 6,
-                    "Description": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
-                    "Prohibitions": "AFC2340",
-                    "SCABand": 3,
-                    "UnitCode": "BFC2340",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Debt markets and fixed income securities"
+                    "UnitName": "Building structures and technology"
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
+                    "UnitCode": "Specialisation unit 2 from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 from a list",
+                    "UnitName": ""
                 }
             ],
             "year": 3
@@ -641,21 +717,50 @@
                     "UnitName": "Geomechanics II"
                 },
                 {
+                    "CreditPoints": 6,
+                    "Description": "Systematic approaches to engineering data collection, analysis and interpretation. The Scope covers data description and presentation, randomness, discrete probability, continuous probability, conditional probability, Bayes' Theorem, normal distribution, sampling distributions, point estimation, interval estimation, hypothesis testing, linear regression.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1091 or MTH1030 or MTH1031 or ENG1005",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV3204",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering investigation"
+                },
+                {
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "CIV3284",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "Specialisation unit 4 from a list",
+                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "An introduction to probability and statistical inference for use in economics and business. Topics covered include random variables, moments and cumulants generating function, discrete and continuous distributions, independence, jointly distributed random variables, conditional random variables, the central limit theorem, sampling distribution, properties of estimators, confidence intervals, tests of hypotheses.",
+                    "Description": "The modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC1000 or equivalent",
+                    "Prerequisites": "AFC2340 or ETC2430 or BFC2340 or by permission.",
                     "Prohibitions": "",
                     "SCABand": 3,
-                    "UnitCode": "ETC2520",
+                    "UnitCode": "ETC3530",
                     "UnitLocationTP": [
                         [
                             [
@@ -666,14 +771,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Probability and statistical inference for economics and business"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
+                    "UnitName": "Contingencies in insurance and pensions"
                 }
             ],
             "year": 3
@@ -683,11 +781,33 @@
             "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 0,
-                    "Faculty": "",
-                    "SCABand": 0,
-                    "UnitCode": "CIV4285",
-                    "UnitName": "Cannot Fetch Data"
+                    "CreditPoints": 6,
+                    "Description": "Overview of concepts relating to groundwater resources and seepage, with emphasis on seepage containment in reservoirs, ponds, soil pollution and its avoidance, focusing on soil behaviour and its effect on seepage, groundwater percolation and migration of contaminant in the nearfield of waste containment facilities.  Focus will also be on the function, design and construction of engineered soil barriers to prevent leakage from water reservoirs, ponds or to isolate different types of waste.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV3248",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Groundwater and environmental geomechanics"
                 },
                 {
                     "CreditPoints": 6,
@@ -724,30 +844,15 @@
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "CIV4286",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "CIV4xxx Project management for civil engineers",
+                    "UnitName": ""
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "",
-                    "SCABand": 3,
-                    "UnitCode": "ECC1000",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Principles of microeconomics"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Water Treatment",
+                    "UnitName": ""
                 }
             ],
             "year": 4
@@ -760,8 +865,8 @@
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "CIV4285",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "CIV3xxx Design of concrete & masonry structures",
+                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 6,
@@ -796,29 +901,15 @@
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "CIV4287",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "CIV4xxx Road engineering",
+                    "UnitName": ""
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "The modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "AFC2340 or ETC2430 or BFC2340 or by permission.",
-                    "Prohibitions": "",
-                    "SCABand": 3,
-                    "UnitCode": "ETC3530",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Contingencies in insurance and pensions"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Bridge design and assessment",
+                    "UnitName": ""
                 }
             ],
             "year": 4

@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Architecture",
     "courseCode": "F6001",
-    "courseName": "Master of Architecture",
-    "courseType": "Postgrad",
+    "courseName": "Architecture",
+    "courseType": "Professional entry master degree",
     "faculty": "Faculty of Art, Design and Architecture",
     "teachingPeriods": [
         {
@@ -48,7 +48,7 @@
                             [
                                 "First semester 2017 (Day)",
                                 "First semester 2017 (Evening)",
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ],
                         [
@@ -56,7 +56,7 @@
                                 "Prato"
                             ],
                             [
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ]
                     ],
@@ -129,7 +129,7 @@
                             [
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)",
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ],
                         [
@@ -137,7 +137,7 @@
                                 "Prato"
                             ],
                             [
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ]
                     ],
@@ -145,9 +145,9 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Open Elective",
+                    "UnitCode": "Open elective",
                     "UnitName": ""
                 }
             ],
@@ -196,7 +196,7 @@
                             [
                                 "First semester 2017 (Day)",
                                 "First semester 2017 (Evening)",
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ],
                         [
@@ -204,7 +204,7 @@
                                 "Prato"
                             ],
                             [
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ]
                     ],
@@ -277,7 +277,7 @@
                             [
                                 "Second semester 2017 (Day)",
                                 "Second semester 2017 (Evening)",
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ],
                         [
@@ -285,7 +285,7 @@
                                 "Prato"
                             ],
                             [
-                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                                "Trimester 2 2017 (Off-campus block of classes)"
                             ]
                         ]
                     ],

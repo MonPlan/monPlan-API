@@ -4,7 +4,7 @@ var bodyParser = require("body-parser");
 var mongodb = require("mongodb");
 var ObjectID = mongodb.ObjectID;
 
-var collection = "ratings"
+var collection = "units"
 
 var app = express();
 
@@ -40,7 +40,6 @@ function handleError(res, reason, message, code) {
 
 /*  "/units"
  *    GET: finds all units
- *    POST: creates a new contact
  */
 
 app.get("/units", function(req, res) {
@@ -53,22 +52,8 @@ app.get("/units", function(req, res) {
   });
 });
 
-app.post("/units", function(req, res) {
-  var newContact = req.body;
-  newContact.createDate = new Date();
-
-  if (!(req.body.firstName || req.body.lastName)) {
-    handleError(res, "Invalid user input", "Must provide a first or last name.", 400);
-  }
-
-  db.collection(collection).insertOne(newContact, function(err, doc) {
-    if (err) {
-      handleError(res, err.message, "Failed to create new contact.");
-    } else {
-      res.status(201).json(doc.ops[0]);
-    }
-  });
-});
+/*
+*/
 
 /*  "/units/:id"
  *    GET: find contact by id
@@ -77,12 +62,12 @@ app.post("/units", function(req, res) {
  */
 
 app.get("/units/:id", function(req, res) {
-  db.collection(collection).findOne({ _id: new ObjectID(req.params.id) }, function(err, doc) {
+  db.collection(collection).findOne({ unitCode: (req.params.id) }, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get contact");
     } else {
-      res.status(200).json(doc);
-    }
+        res.status(200).json(doc);
+      }
   });
 });
 

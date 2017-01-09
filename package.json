@@ -2,10 +2,14 @@
   "name": "monPlan-API",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "~1.0.1",
+    "body-parser": "^1.0.2",
     "cors": "^2.8.0",
     "express": "~4.0.0",
+    "mongodb": "^2.2.19",
     "mongoose": "^3.6.20",
     "node-oauth2-server": "^2.4.0"
+  },
+  "scripts": {
+    "start": "npm start"
   }
 }

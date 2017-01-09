@@ -6,26 +6,45 @@
 // call the packages we need
 var express    = require('express');        // call express
 var bodyParser = require('body-parser');
+var mongodb = require("mongodb");
+var ObjectID = mongodb.ObjectID;
 
-//our modules
+// MODULES
 var units       = require('./app/units/unitsRoute');
 var spec        = require('./app/specialisations/specialRoute');
 var courses     = require('./app/courses/courses');
 var basic     = require('./app/basic/route');
 
+// VARIABLES
+var db;
 var app         = express();                 // define our app using express
 var cors        = require('cors');
-
-var unitRating = require('./app/v0.4/main');
-
+var collection = "units";
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// Set port to 3000 to help better distinguish our API from port 8080
-var port = process.env.PORT || 3000;
+// MUST HAVE MONGODB ON LOCALHOST
+var address = "mongodb://localhost:27017/unitRating"
+// Connect to the database before starting the application server.
+mongodb.MongoClient.connect(address, function (err, database) {
+  if (err) {
+    console.log(err);
+    process.exit(1);
+  }
+
+  // Save database object from the callback for reuse.
+  db = database;
+  console.log("Database connection ready");
+
+  // Initialize the app.
+  var server = app.listen(process.env.PORT || 3000, function () {
+    var port = server.address().port;
+    console.log("App now running on port", port);
+  });
+});
 
 // ROUTES FOR OUR API
 // =============================================================================
@@ -57,8 +76,27 @@ app.get('/courses/:id', courses.findCourseMap)
 
 app.get('/basic/:id', basic.downloadInfo)
 
-app.get('/rating/:id', unitRating.getUnitRating)
-// START THE SERVER
-// =============================================================================
-app.listen(port);
-console.log('monPlan API has loaded'); //log onto console that server is successfully running
+
+/*  "/units"
+ *    GET: finds all units
+ */
+
+app.get("/unitRatings", function(req, res) {
+  db.collection(collection).find({}).toArray(function(err, docs) {
+    if (err) {
+      handleError(res, err.message, "Failed to get units.");
+    } else {
+      res.status(200).json(docs);
+    }
+  });
+});
+
+app.get("/unitRatings/:id", function(req, res) {
+  db.collection(collection).findOne({ unitCode: (req.params.id) }, function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get contact");
+    } else {
+        res.status(200).json(doc);
+      }
+  });
+});

@@ -1,7 +1,7 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.4.0-rc1`
+API Version: `v0.4.20-rc1`
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
@@ -26,16 +26,13 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 
 | Instruction            | Returns                                                                                                   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| /units/                | Returns _every course_ with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions) |
+| /basic/(types)         | Returns basic type maps, based off (types), types include: units, teachingperiods, etc.                   |
+| /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
+| /unitRatings/          | Returns _every unit with unitRating scores from Mongo database_                                           |
+| /unitRatings/(unitCode)| Returns _unit with unitRating scores from Mongo database_                                                 |
+| /units/                | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions)    |
 | /units/(unitCode)      | Returns descriptive (same as course/ext details about the course  (uses data from the v0.3 API)           |
 | /spec/(specCode)       | Returns JSON response for specialisations                                                                 |
-| /courses/(courseCode)  | Returns course maps based off study.monash courses                                                        |
-
-# What's Coming
-We are please to announce we are continuing to support and update our API! Here's a list of what's coming in **v0.4.x**
-- oauth authentication layer for server response
-- interaction with a mongodb database to store unit feedback
-- upgrades to our system with better response code system (404, 200, etc.) for better API handling
 
 # License
 MIT License

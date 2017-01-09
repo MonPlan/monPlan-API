@@ -1,8 +1,8 @@
 {
-    "courseAOS": "",
+    "courseAOS": "Master of Actuarial Studies",
     "courseCode": "B6014",
-    "courseName": "Master of Actuarial Studies",
-    "courseType": "Postgrad",
+    "courseName": "Actuarial Studies",
+    "courseType": "Master degree",
     "faculty": "Faculty of Business and Economics",
     "teachingPeriods": [
         {
@@ -10,11 +10,26 @@
             "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 0,
-                    "Faculty": "",
-                    "SCABand": 0,
-                    "UnitCode": "BFC2430",
-                    "UnitName": "Cannot Fetch Data"
+                    "CreditPoints": 6,
+                    "Description": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Prohibitions": "AFC2340",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2340",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Debt markets and fixed income securities"
                 },
                 {
                     "CreditPoints": 6,
@@ -88,28 +103,6 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
-                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
-                    "SCABand": 3,
-                    "UnitCode": "ETC2410",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Introductory econometrics"
-                },
-                {
-                    "CreditPoints": 6,
                     "Description": "An introduction to probability and statistical inference for use in economics and business. Topics covered include random variables, moments and cumulants generating function, discrete and continuous distributions, independence, jointly distributed random variables, conditional random variables, the central limit theorem, sampling distribution, properties of estimators, confidence intervals, tests of hypotheses.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
@@ -131,30 +124,38 @@
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit focuses on the modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "AFC2340 or ETC2430 or BFC2340 or by permission.",
-                    "Prohibitions": "",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
                     "SCABand": 3,
-                    "UnitCode": "ETC5353",
+                    "UnitCode": "ETC2410",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
+                                "First semester 2017 (Day)",
                                 "Second semester 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Insurance and pensions"
+                    "UnitName": "Introductory econometrics"
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
+                    "UnitCode": "Application studies unit 1",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 2",
                     "UnitName": ""
                 }
             ],
@@ -187,13 +188,13 @@
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "Financial mathematics under uncertainty will apply the ideas of interest rates, present values, cash flow modelling and profit testing in the context of certain payments and payments dependent on individual deaths or other uncertain risk. We will also introduce stochastic modelling techniques applied to actuarial and financial contexts.Students will cover the topics of present values and accumulated values, equations of value, Markov modelling, survival models, life tables and contingent products.",
+                    "Description": "Mathematical definition of options and other financial derivatives; probability models; mathematical models of random processes; applications; numerical methods; Monte Carlo methods.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC2430",
+                    "Prerequisites": "ETC2520 or ETC2440 or equivalent.",
                     "Prohibitions": "",
-                    "SCABand": 3,
-                    "UnitCode": "ETC5343",
+                    "SCABand": 2,
+                    "UnitCode": "ETC5351",
                     "UnitLocationTP": [
                         [
                             [
@@ -204,7 +205,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Financial mathematics under uncertainty"
+                    "UnitName": "Modelling in finance and insurance"
                 },
                 {
                     "CreditPoints": 6,
@@ -229,13 +230,13 @@
                 },
                 {
                     "CreditPoints": 6,
-                    "Description": "Mathematical definition of options and other financial derivatives; probability models; mathematical models of random processes; applications; numerical methods; Monte Carlo methods.",
+                    "Description": "Financial mathematics under uncertainty will apply the ideas of interest rates, present values, cash flow modelling and profit testing in the context of certain payments and payments dependent on individual deaths or other uncertain risk. We will also introduce stochastic modelling techniques applied to actuarial and financial contexts.Students will cover the topics of present values and accumulated values, equations of value, Markov modelling, survival models, life tables and contingent products.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC2520 or ETC2440 or equivalent.",
+                    "Prerequisites": "ETC2430",
                     "Prohibitions": "",
-                    "SCABand": 2,
-                    "UnitCode": "ETC5351",
+                    "SCABand": 3,
+                    "UnitCode": "ETC5343",
                     "UnitLocationTP": [
                         [
                             [
@@ -246,7 +247,7 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Modelling in finance and insurance"
+                    "UnitName": "Financial mathematics under uncertainty"
                 }
             ],
             "year": 1
@@ -299,6 +300,27 @@
                 },
                 {
                     "CreditPoints": 6,
+                    "Description": "This unit focuses on the modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFC2340 or ETC2430 or BFC2340 or by permission.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETC5353",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Insurance and pensions"
+                },
+                {
+                    "CreditPoints": 6,
                     "Description": "To provide a further grounding in the mathematics and statistics of short term insurance risk.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
@@ -317,13 +339,6 @@
                         ]
                     ],
                     "UnitName": "Applied insurance methods"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
-                    "SCABand": 0,
-                    "UnitCode": "Application Studies Unit",
-                    "UnitName": ""
                 }
             ],
             "year": 1

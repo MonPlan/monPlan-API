@@ -1,0 +1,622 @@
+{
+    "courseAOS": "Electrical and Computer Systems Engineering specialisation",
+    "courseCode": "E3007",
+    "courseName": "Engineering and Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 1",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 1",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Prohibitions": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering mathematics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 2",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 2",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering mobile apps"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides an introduction to computers and CPU organisation, assemblers and compilers, and algorithm design for engineering problems. It covers the language C and its implementation on a typical computer, including standard data types, arrays, control statements, functions, including ways of parameter passing, C library functions, pointers, strings, arrays of pointers, structures, linked lists and binary tree data structures, dynamic memory allocations, and calls to assembly language programs. Object-oriented programming is introduced. Software engineering is covered as the methodology of software development and lifecycle models. Operating system concepts are introduced. The unit also includes an introduction to programmable logic controllers (PLCs).",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "CSE1301, TEC2041, TEC2042, TEC2171, TRC2400",
+                    "SCABand": 2,
+                    "UnitCode": "ECE2071",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computer organisation and programming"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 2",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computing for engineers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the student to modern logic design techniques, hardware used and common representations. Topics include two and multi-level combinational logic, decoders, multiplexers, arithmetic circuits, programmable and steering logic, flip-flops, registers, counters, RAM and ROM. Using this hardware the design component will include finite state machine design and applications to computer data path control. This will incorporate simple analogue and digital I/O interfacing. Programmable logic devices will be covered, and the use of a hardware description language for describing, synthesizing and testing digital logic. Laboratories cover logic design, implementation, and testing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECE2701, TEC2172, TRC2300",
+                    "SCABand": 2,
+                    "UnitCode": "ECE2072",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Digital systems"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 2",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "SCI2010,SCI2015"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1005 or ENG1091 or equivalent",
+                    "Prohibitions": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "UnitCode": "ENG2005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering mathematics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Electrical circuits",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Signals and systems",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Probability models in engineering",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides an introduction to computer architecture using a modern microprocessor as an example. Practical considerations involved in interconnecting logic element are explored, along with software and hardware techniques for interfacing computers to peripheral devices. An introduction to communication protocols used to connect local peripheral devices to a microprocessor, including RS232/RS422/RS485, CAN bus and i2C is provided. Real time systems including concurrency, inter-process communications and scheduling are introduced.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ECE2072 and one of:+ ECE2071+ FIT1008+ FIT1029 and FIT1040",
+                    "Prohibitions": "ECE3703, GSE2303, GSE3802, TEC3174, TRC3300",
+                    "SCABand": 2,
+                    "UnitCode": "ECE3073",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computer systems"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Analogue electronics",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Control system design",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit extends the level of complexity of electronic design by integrating and applying knowledge from a number of second year units. Students will use knowledge from linear and non-linear electronics, computer engineering and communications engineering, to tackle a group project, applying project management skills, and extending their experience of working in groups. The project will extend the design processes introduced in the earlier units to a larger, more complex, and less constrained situation. The project will be complemented by lectures in project management, including working with teams, project management tools and techniques, and written and verbal communication. Frameworks for analysing the life cycles of systems are introduced. Tools and techniques to aid decision-making are provided.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ECE2071 or (FIT1029 and FIT1040) and ECE2041 and ECE2061 and ECE2031 and ECE2072",
+                    "Prohibitions": "ECE3905, TEC3191, TRC3000",
+                    "SCABand": 2,
+                    "UnitCode": "ECE3091",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering design"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Information and networks",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ECE4095 Project B, this unit is a challenging opportunity to pursue independently an individual project and is likely to require extended effort. The two units together normally include a preparatory literature survey and developmental work such as design, construction and programming. Students choose a project that interests them, and are assigned to a team of two supervising staff members.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ECE3091 or completion of 132 credit points",
+                    "Prohibitions": "ECE4911, ECE5094",
+                    "SCABand": 2,
+                    "UnitCode": "ECE4094",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Project A"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will cover topics relevant to engineers working in a business environment, particularly in management, focusing on recent case studies. Areas covered include management of individuals, teams and organisations, management philosophy and practical techniques. Financial management will be discussed, including company objectives, accounting fundamentals, and financial planning and control. Marketing will follow, including business planning, quality and quality control. Relevant legal issues will be covered, including intellectual property, contract and negligence. This will be drawn together in discussing the role of the professional engineer, ethical behaviour and decision making.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECE4908, TEC3193 and TRC4002",
+                    "SCABand": 2,
+                    "UnitCode": "ECE4099",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional practice"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Engineering electromagnetics",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ECE4094 Project A this unit is a challenging opportunity to pursue independently an individual project and is likely to require extended effort. The two units together normally include a preparatory literature survey and developmental work such as design, construction and programming. Students choose a project that interests them, and are assigned to a team of two supervising staff members.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ECE4094 or ECE4911",
+                    "Prohibitions": "ECE4912",
+                    "SCABand": 2,
+                    "UnitCode": "ECE4095",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Project B"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE4xxx Electrical energy systems",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "courseAOS": "Architectural Design",
+    "courseCode": "F2001",
+    "courseName": "Architectural Design",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Foundation Studio introduces architectural design as a process of investigation, critical observation, and experiment. The unit focuses on design as a process engaged with the three-dimensional and material testing of ideas. Projects will be formulated to introduce issues such as scale in relation to the human body, site and environmental contexts, basic techniques of three-dimensional composition and the correct use of architectural drawing conventions.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC1001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Foundation studio 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1101",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Explores the principles, history and methods of perspective and orthographic projection, and engages in the practice of descriptive geometry through the use of contemporary computer technology and computer aided drafting (CAD). Basic techniques of visualisation and the translation of traditional analogue modes of representation into the digital will be introduced, along with technical CAD modelling and drawing skills in both two and three-dimensions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC1301",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture communications 1"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to any Art Design and Architecture course",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "OHS1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to art and design health and safety"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Building on the basic architectural knowledge and skills attained in Architecture Foundation studio 1, this unit introduces students to a further level of complexity in the processes of investigation, critical observation, and experiment. The synthesis of a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation is further investigated in relationship to the production of architectural form.Architecture Foundation studio 2 further emphasises the development of architectural designs through the three-dimensional and material testing of ideas. Students will continue the development of two and three-dimensional modes of representation. Studies will focus on developing a more nuanced understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC1001 and OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC1002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Foundation studio 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Delivered in conjunction with ARC1002. Explores materials, component systems, products and fabrication systems as they apply to building construction. This includes the study of materials in terms of their physical and chemical properties, environmental sustainability and impact, and involves physical testing and assessment of materials and their application in architecture.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC1102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Technologies and environments 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit focuses on the development of communication skills and understanding of conceptual, historical and ideological concerns which relate to 2 and 3 dimensional modes of representation. Examining the relationship between 2 dimensional modes of representation and 3 dimensional material and physical outcomes is a primary focus.  Two related themes are explored: methods of digital image production, including visualisation and rendering; and processes of material production and fabrication.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC1301, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2301",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture communications 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Architecture Design Studio 3 further refines the process of investigation, critical observation, and experiment integral to architectural practice. Continuing the emphasis on perceptive synthesis of the range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation will be investigated in their relationship to the production of architectural form.Design Studio 3 continues to emphasise the development of architectural designs through the three-dimensional and material testing of ideas. Students will continue the development of two and three-dimensional modes of representation. Studies will focus on developing an increasingly sophisticated understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC1002, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture Design Studio 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the history and theory of selected Australian and international architecture since 1968.The unit will also introduce methods for the written, spoken and visual analysis of buildings including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the buildings studied the unit will investigate their contribution to architectural design.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "OHS1000, and AHT1101, or ARC1401, or TAD1101 and enrolled in the Bachelor of Architectural Design or Bachelor of Interior Architecture, or permission from Unit Coordinator",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2401",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contemporary architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores structure as it relates to architectural design and construction. This includes study of structural principles and the implications of these in relation to architectural design and construction processes and outcomes. Direct physical testing and manipulation of materials and structural systems will be used to understand and assess their application in architecture. A range of structural behaviors will be addressed in response to optimisation and material efficiencies as well as their relationship to design intent. Projects will be introduced to promote dialogue between this unit and design studio project processes and outcomes. Integral to the subject matter is the engagement with strategies for environmental sustainability in relation to structure design and construction.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC1102, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Technologies and environments 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Architecture Design Studio 4 continues to expand on the conceptual understanding and skill base of preceding design studios.  The unit elaborates on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation are investigated in their relationship to the production of architectural form.Architecture Design Studio 4 continues to enhance the development of architectural designs through the three-dimensional and material testing of ideas. Studies in the unit will maintain their focus on developing an understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC2001, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture Design Studio 4"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the history and theory of 19th and 20th century Australian and international architecture. The subject will also develop methods for the written, discursive and visual analysis of buildings including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the buildings studied the subject will investigate their contribution to architectural design.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Must have passed ARC2401, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC2402",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "19th and 20th century architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores environmental systems as they relate to architectural design and construction. This includes study of environmental design principles and the implications of these in relation to architectural design and construction processes and outcomes. Analysis of environmental systems will be conducted with a focus on the relationship to design intent. A range of environmental behaviors will be addressed in response to performance optimisation. Integral to the subject matter is the engagement with strategies for environmental sustainability in relation to architectural design and construction. Projects will be introduced to promote dialogue between this unit and Architecture Design Studio 6 project processes and outcomes.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC2101, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC3101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Technologies and environments 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Architecture Design Studio 5 continues to expand and consolidate the conceptual understanding and skill base of preceding design studios.  It continues to elaborate on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation are investigated in their relationship to the production of architectural form.Architecture Design Studio 5 continues the development of architectural designs through the consolidation of three-dimensional and material testing of ideas. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC2002, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC3001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture Design Studio 5"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit culminates the Technologies and Environments sequence with further integration of professional practices. It explores integrated building systems as they relate to architectural design, construction and project delivery. This includes study of principles of integrated design and the implications of these in relation to architectural design, pan-disciplinary collaboration and construction processes and outcomes. Students will be exposed to the multiple requirements and determinants that shape the stages of the professional project cycle. Through project-based exercises, students engage with the professional ethics and practices required for project development and the performative integration of building systems and design intent. Students will understand buildings as a site of collaboration of pan-disciplinary teams of experts and clients, whose input contributes to realisation within technical, legal and economic constraints. The unit also addresses strategies for environmental sustainability and optimisation in design, construction and delivery.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC3101 or permission, OHS1000",
+                    "Prohibitions": "ARC4101",
+                    "SCABand": 2,
+                    "UnitCode": "ARC3102",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Integrated technologies, environments and professional studies"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Architecture Design Studio 6 aims to consolidate the conceptual understanding and skill base of preceding design studios.  It continues to elaborate on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation are investigated in their relationship to the production of architectural form.Architecture Design Studio 6 continues the development of architectural designs through the further consolidation of three-dimensional and material testing of ideas. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC3001, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC3002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture Design Studio 6"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the history and theory of contemporary urbanism. The subject will also develop methods for the written, spoken and visual analysis of urban settings and their associated architecture including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the urban settings and associated architecture the subject will investigate their contribution to architectural design knowledge.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC2402, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC3401",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Architecture and the City"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

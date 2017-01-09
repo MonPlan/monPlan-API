@@ -1,0 +1,322 @@
+{
+    "courseAOS": "Bachelor of Economics degree with the Mathematical Economics and Econometrics stream ",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BusEco elective 1",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Maths units or Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BusEco elective 2",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Maths units or Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Theory of consumer choice, including applications to income-leisure choice and intertemporal consumption; isoquant theory of production; allocative efficiency and competition and monopoly; models of monopolistic competition and oligopoly; input pricing; microeconomic policies to address problems of market failure.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 or permission",
+                    "Prohibitions": "ECC5900, ECX9000",
+                    "SCABand": 3,
+                    "UnitCode": "ECC2000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Intermediate microeconomics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Maths units or Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 1 selected from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BusEco elective 3",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Maths units or Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit2 selected from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BusEco elective 4",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 selected from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit will cover, in mathematical terms, many of the areas treated more intuitively in first-year microeconomics, eg: consumer demand, the theory of the firm, equilibrium and Pareto optimum. However, a significant portion of the lectures will deal with topics not covered earlier, such as non-linear programming, game theory, and dynamic optimisation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC2000 or equivalent",
+                    "Prohibitions": "ECC4384",
+                    "SCABand": 2,
+                    "UnitCode": "ECC3840",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mathematical economics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a formal treatment of the core principles underlying econometric and statistical analysis, with particular focus given to likelihood-based inference. Topics covered include the likelihood principle and maximum likelihood estimation; minimum variance unbiased estimation; maximum likelihood asymptotic distribution theory; likelihood-based hypothesis testing; and quasi-maximum likelihood inference. The theoretical developments are supplemented by numerical results produced using computer simulation. Consideration is also given to the numerical optimisation techniques used to implement likelihood-based procedures in practice.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ETC2410, ETC3440 or MTH2232 or must be enrolled in course 3822 or 4412 before undertaking this unit.",
+                    "Prohibitions": "ETC4340",
+                    "SCABand": 3,
+                    "UnitCode": "ETC3400",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of econometrics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

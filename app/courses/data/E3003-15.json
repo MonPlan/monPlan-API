@@ -1,37 +1,23 @@
 {
-    "courseAOS": "Electrical and Computer Systems  Engineering/Mathematical Economics and Econometrics",
+    "courseAOS": "Electrical and Computer Systems Engineering and Mathematical Economics and Econometrics specialisations",
     "courseCode": "E3003",
-    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
-    "courseType": "Double Undergraduate",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
     "faculty": "Faculty of Engineering",
     "teachingPeriods": [
         {
             "code": "S1-01",
-            "numberOfUnits": 4,
+            "numberOfUnits": 5,
             "units": [
                 {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1001,ENG1002"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1003,ENG1005"
-                },
-                {
                     "CreditPoints": 6,
-                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "Description": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "Mathematical methods (CAS) recommended.",
-                    "Prohibitions": "ENG1602",
+                    "Prerequisites": "None",
+                    "Prohibitions": "ENG1020, ENG1040, ENG1050",
                     "SCABand": 2,
-                    "UnitCode": "ENG1060",
+                    "UnitCode": "ENG1001",
                     "UnitLocationTP": [
                         [
                             [
@@ -53,57 +39,14 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Computing for engineers"
-                },
-                {
-                    "CreditPoints": 6,
-                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "",
-                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
-                    "SCABand": 2,
-                    "UnitCode": "ETC1000",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Business and economic statistics"
-                }
-            ],
-            "year": 0
-        },
-        {
-            "code": "S2-01",
-            "numberOfUnits": 4,
-            "units": [
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ENG1002,ENG1001"
+                    "UnitName": "Engineering design: lighter, faster, stronger"
                 },
                 {
                     "CreditPoints": 0,
                     "Faculty": "Faculty of Engineering",
                     "SCABand": 0,
                     "UnitCode": "Choose One",
-                    "UnitName": "ENG1003,ENG1005"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Faculty Elective",
-                    "UnitName": ""
+                    "UnitName": "ENG1090,PHS1080,ENG1005"
                 },
                 {
                     "CreditPoints": 6,
@@ -126,23 +69,52 @@
                         ]
                     ],
                     "UnitName": "Principles of microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080"
                 }
             ],
             "year": 0
         },
         {
-            "code": "S1-01",
+            "code": "S2-01",
             "numberOfUnits": 4,
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "Description": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "ENG1005 or ENG1091 or equivalent",
-                    "Prohibitions": "ENG2091, MTH2010, MTH2015",
+                    "Prerequisites": "None",
+                    "Prohibitions": "ENG1010, ENG1030",
                     "SCABand": 2,
-                    "UnitCode": "ENG2005",
+                    "UnitCode": "ENG1002",
                     "UnitLocationTP": [
                         [
                             [
@@ -163,7 +135,121 @@
                             ]
                         ]
                     ],
-                    "UnitName": "Advanced engineering mathematics"
+                    "UnitName": "Engineering design: cleaner, safer, smarter"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Prohibitions": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering mathematics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering mobile apps"
                 },
                 {
                     "CreditPoints": 6,
@@ -217,26 +303,11 @@
                     "UnitName": "Intermediate microeconomics"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ECC1000 is recommended",
-                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
-                    "SCABand": 3,
-                    "UnitCode": "ECC1100",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)",
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Principles of macroeconomics"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mathematics unit",
+                    "UnitName": ""
                 }
             ],
             "year": 1
@@ -247,19 +318,20 @@
             "units": [
                 {
                     "CreditPoints": 6,
-                    "Description": "This unit will introduce fundamental concepts of probability theory applied to engineering problems in a manner that combines intuition and mathematical precision. The treatment of probability includes elementary set operations, sample spaces and probability laws, conditional probability, independence, and notions of combinatorics. A discussion of discrete and continuous random variables, common distributions, functions, and expectations forms an important part of this unit. Transform methods, limit theorems, convergences, and bounding techniques are also covered. Special consideration is given to the law of large numbers and the central limit theorem. Markov chain, transition probabilities and steady state distribution will be discussed.Application examples from engineering, science, and statistics will be provided: The Gaussian distribution in source and channel coding, the exponential, Chi-square, and Gamma distributions in wireless communications and Bayesian statistics, the Rayleigh distribution in wireless communications, the Cauchy distribution in detection theory, the Poisson and Erlang distributions in traffic engineering, queuing theory and networking, the Gaussian, Laplacian and generalized Gaussian distributions in image processing, the Weibull distribution in high voltage engineering and electrical insulation, Markov chain in queuing theory, and first-order Markov process in predictive speech/image compression.",
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
                     "EFTSL": 0.125,
                     "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "ENG1091 or ENG1005",
-                    "Prohibitions": "ENG2092",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
                     "SCABand": 2,
-                    "UnitCode": "ECE2191",
+                    "UnitCode": "ENG1060",
                     "UnitLocationTP": [
                         [
                             [
                                 "Clayton"
                             ],
                             [
+                                "First semester 2017 (Day)",
                                 "Second semester 2017 (Day)"
                             ]
                         ],
@@ -268,11 +340,13 @@
                                 "Malaysia"
                             ],
                             [
-                                "Second semester 2017 (Day)"
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
                             ]
                         ]
                     ],
-                    "UnitName": "Probability models in engineering"
+                    "UnitName": "Computing for engineers"
                 },
                 {
                     "CreditPoints": 6,
@@ -305,20 +379,34 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ECC2010,ECC2360,ECC2600,ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
+                    "UnitCode": "Specialisation unit 1 selected from a list",
+                    "UnitName": ""
                 },
                 {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mathematics unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
                     "CreditPoints": 6,
-                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "Description": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
                     "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
-                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
-                    "SCABand": 3,
-                    "UnitCode": "ETC2410",
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1005 or ENG1091 or equivalent",
+                    "Prohibitions": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "UnitCode": "ENG2005",
                     "UnitLocationTP": [
                         [
                             [
@@ -328,12 +416,77 @@
                                 "First semester 2017 (Day)",
                                 "Second semester 2017 (Day)"
                             ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
                         ]
                     ],
-                    "UnitName": "Introductory econometrics"
+                    "UnitName": "Advanced engineering mathematics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Electrical circuits",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 2 selected from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": ""
                 }
             ],
-            "year": 1
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Signals and systems",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Probability models in engineering",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 selected from a list",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
         },
         {
             "code": "S1-01",
@@ -369,160 +522,24 @@
                     "UnitName": "Computer systems"
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit provides foundation knowledge for analogue circuit analysis and design. Students will be introduced to the fundamentals of linear electronic circuit analysis and design. At the completion of the unit students will develop skills in using state of the art prototyping and measurement tools for linear electronic circuit analysis and design. The topics covered in this course include, sinusoidal steady-state analysis using phasors and complex impedances, feedback concepts, solid-state electronics, solid-state diodes and diode circuits, field-effect transistors, bipolar junction transistors and operational amplifiers.The unit will provide a grounding in circuit theory leading to solution of electrical networks with node and mesh analysis, equivalent sources, two port representations and simulation. AC analysis with phasors, first and second order transient responses will be included. Frequency and time response will be developed with Laplace transform techniques.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "(ENG1091 or ENG1005) and ENG1002",
-                    "Prohibitions": "ECE2031",
-                    "SCABand": 2,
-                    "UnitCode": "ECE2131",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Electrical circuits"
-                },
-                {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ETC2460 & ETC2520,ETC2440 & ECC2610,MTH1020 & MTH1030,MTH1030 & MTC2010/MTC2021"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ECC2010,ECC2360,ECC2600,ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
-                }
-            ],
-            "year": 2
-        },
-        {
-            "code": "S2-01",
-            "numberOfUnits": 4,
-            "units": [
-                {
-                    "CreditPoints": 6,
-                    "Description": "This unit provides foundations for the electrical engineering areas of control, signal processing and communications. The unit introduces concepts of continuous-time and discrete-time signals, their sampling and aliasing issues. Complex numbers, in particular, complex exponentials are introduced along with their representation as phasors, leading to periodic waveforms, Fourier series and the signal frequency spectrum. Modification of spectra will be described using FIR filters, discrete-time systems, the unit-sample response, discrete convolution, linear time-invariant systems, convolution integrals, the continuous-time Fourier transform, windowing, DFT, FFT, time-frequency spectrum analysis, spectrogram, and Laplace Transform. Connecting frequency response and time response completes the unit.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "ENG1060 and (ENG1091 or ENG1005)",
-                    "Prohibitions": "ECE2011",
-                    "SCABand": 2,
-                    "UnitCode": "ECE2111",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Signals and systems"
+                    "UnitCode": "ECE3xxx Analogue electronics",
+                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "ECE3161",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": ""
                 },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ETC2460 & ETC2520,ETC2440 & ECC2610,MTH1020 & MTH1030,MTH1030 & MTC2010/MTC2021"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
-                }
-            ],
-            "year": 2
-        },
-        {
-            "code": "S1-01",
-            "numberOfUnits": 4,
-            "units": [
                 {
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "ECE2132",
-                    "UnitName": "Cannot Fetch Data"
-                },
-                {
-                    "CreditPoints": 6,
-                    "Description": "This unit provides an introduction to underlying technologies, major components and system-wide architectures of modern telecommunication systems. After introducing concepts of block and stream delivery, requirements of a telecommunications network and representation of analogue signals (e.g. voice and video) in digital form, the unit will cover all the major functions in layered architectures. Topics to be covered include multiplexing, basic line transmission and modulation, error protection and correction, packet switching, LAN protocols and the TCP/IP protocols on which the Internet is built. Particular emphasis is given to the major functions that combine to allow communication across key modern digital telecommunication systems such as the Internet, mobile telephony, digital TV and Digital Audio Broadcasting.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "VCE specialist mathematics and physics or equivalent.",
-                    "Prohibitions": "ECE2041",
-                    "SCABand": 2,
-                    "UnitCode": "ECE3141",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "First semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Information and networks"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
-                    "SCABand": 0,
-                    "UnitCode": "Choose One",
-                    "UnitName": "ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
-                },
-                {
-                    "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
-                    "SCABand": 0,
-                    "UnitCode": "Faculty Elective",
+                    "UnitCode": "Business and Economics elective",
                     "UnitName": ""
                 }
             ],
@@ -533,33 +550,11 @@
             "numberOfUnits": 4,
             "units": [
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit explores electrostatic, magnetostatic and electromagnetic fields, and their use to create devices and systems. Mathematical concepts are used to describe the fields, and examine the basic laws governing the generation of fields and their interactions with dielectric and magnetic materials. This study results in Maxwell's field equations, and related Laplace, Poisson and continuity equations. The real life applications of electromagnetic fields in radio communications and devises such as scanners, printers and mass spectrometers are also explored in this unit. Finally, plane wave propagation is analysed briefly as an extension of Maxwell's field equations.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Engineering",
-                    "Prerequisites": "ENG2005",
-                    "Prohibitions": "ECE2021",
-                    "SCABand": 2,
-                    "UnitCode": "ECE3121",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ],
-                        [
-                            [
-                                "Malaysia"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Engineering electromagnetics"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Control system design",
+                    "UnitName": ""
                 },
                 {
                     "CreditPoints": 6,
@@ -612,11 +607,25 @@
                     "UnitName": "Mathematical economics"
                 },
                 {
-                    "CreditPoints": 0,
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a formal treatment of the core principles underlying econometric and statistical analysis, with particular focus given to likelihood-based inference. Topics covered include the likelihood principle and maximum likelihood estimation; minimum variance unbiased estimation; maximum likelihood asymptotic distribution theory; likelihood-based hypothesis testing; and quasi-maximum likelihood inference. The theoretical developments are supplemented by numerical results produced using computer simulation. Consideration is also given to the numerical optimisation techniques used to implement likelihood-based procedures in practice.",
+                    "EFTSL": 0.125,
                     "Faculty": "Faculty of Business and Economics",
-                    "SCABand": 0,
-                    "UnitCode": "Faculty Elective",
-                    "UnitName": ""
+                    "Prerequisites": "Students must have passed ETC2410, ETC3440 or MTH2232 or must be enrolled in course 3822 or 4412 before undertaking this unit.",
+                    "Prohibitions": "ETC4340",
+                    "SCABand": 3,
+                    "UnitCode": "ETC3400",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of econometrics"
                 }
             ],
             "year": 3
@@ -627,9 +636,9 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "ECE Faculty Elective",
+                    "UnitCode": "ECE3xxx Information and networks",
                     "UnitName": ""
                 },
                 {
@@ -694,9 +703,9 @@
                 },
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Business and Economics",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "Faculty Elective",
+                    "UnitCode": "ECE elective",
                     "UnitName": ""
                 }
             ],
@@ -708,9 +717,9 @@
             "units": [
                 {
                     "CreditPoints": 0,
-                    "Faculty": "Faculty of Engineering",
+                    "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "ECE Faculty Elective",
+                    "UnitCode": "ECE3xxx Engineering electromagnetics",
                     "UnitName": ""
                 },
                 {
@@ -748,29 +757,15 @@
                     "CreditPoints": 0,
                     "Faculty": "",
                     "SCABand": 0,
-                    "UnitCode": "ECE4151",
-                    "UnitName": "Cannot Fetch Data"
+                    "UnitCode": "ECE4xxx Electrical energy systems",
+                    "UnitName": ""
                 },
                 {
-                    "CreditPoints": 6,
-                    "Description": "This unit provides a formal treatment of the core principles underlying econometric and statistical analysis, with particular focus given to likelihood-based inference. Topics covered include the likelihood principle and maximum likelihood estimation; minimum variance unbiased estimation; maximum likelihood asymptotic distribution theory; likelihood-based hypothesis testing; and quasi-maximum likelihood inference. The theoretical developments are supplemented by numerical results produced using computer simulation. Consideration is also given to the numerical optimisation techniques used to implement likelihood-based procedures in practice.",
-                    "EFTSL": 0.125,
-                    "Faculty": "Faculty of Business and Economics",
-                    "Prerequisites": "Students must have passed ETC2410, ETC3440 or MTH2232 or must be enrolled in course 3822 or 4412 before undertaking this unit.",
-                    "Prohibitions": "ETC4340",
-                    "SCABand": 3,
-                    "UnitCode": "ETC3400",
-                    "UnitLocationTP": [
-                        [
-                            [
-                                "Clayton"
-                            ],
-                            [
-                                "Second semester 2017 (Day)"
-                            ]
-                        ]
-                    ],
-                    "UnitName": "Principles of econometrics"
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE elective",
+                    "UnitName": ""
                 }
             ],
             "year": 4

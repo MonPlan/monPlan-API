@@ -10,7 +10,6 @@ var mongodb = require("mongodb");
 var ObjectID = mongodb.ObjectID;
 
 // MODULES
-var units       = require('./app/units/unitsRoute');
 var spec        = require('./app/specialisations/specialRoute');
 var courses     = require('./app/courses/courses');
 var basic     = require('./app/basic/route');

@@ -27,9 +27,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // MUST HAVE MONGODB ON LOCALHOST
-var address = "mongodb://localhost:27017/unitRating"
+var address = "mongodb://localhost:27017/unitsDatabase"
+//var APIaddress = "mongodb://api.monplan.tech:27017/unitsDatabase"
 // Connect to the database before starting the application server.
-mongodb.MongoClient.connect(address, function (err, database) {
+mongodb.MongoClient.connect(APIaddress, function (err, database) {
   if (err) {
     console.log(err);
     process.exit(1);
@@ -64,10 +65,6 @@ app.set('etag', false);
 // all of our routes will be prefixed with /api
 app.use('/api', router);
 
-// UNITS ROUTES
-app.get('/units/', units.allUnits);
-app.get('/units/:id', units.findUnit);
-
 // SPECIALISATION ROUTES
 app.get('/spec/', spec.allSpec);
 app.get('/spec/:id', spec.findSpec);
@@ -76,12 +73,11 @@ app.get('/courses/:id', courses.findCourseMap)
 
 app.get('/basic/:id', basic.downloadInfo)
 
-
-/*  "/units"
+/*  "/unitRatings"
  *    GET: finds all units
  */
 
-app.get("/unitRatings", function(req, res) {
+app.get("/units/", function(req, res) {
   db.collection(collection).find({}).toArray(function(err, docs) {
     if (err) {
       handleError(res, err.message, "Failed to get units.");
@@ -91,8 +87,8 @@ app.get("/unitRatings", function(req, res) {
   });
 });
 
-app.get("/unitRatings/:id", function(req, res) {
-  db.collection(collection).findOne({ unitCode: (req.params.id) }, function(err, doc) {
+app.get("/units/:id", function(req, res) {
+  db.collection(collection).findOne({ UnitCode: (req.params.id) }, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get contact");
     } else {

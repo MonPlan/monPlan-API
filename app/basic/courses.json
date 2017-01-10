@@ -7,7 +7,7 @@
             }
         ],
         "courseCode": "3971",
-        "courseName": "Bachelor of Health Science (double)",
+        "courseName": "Bachelor degree (honours) - 1 year Health Science",
         "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
     },
     {
@@ -18,7 +18,7 @@
             }
         ],
         "courseCode": "4520",
-        "courseName": "Bachelor of Health Science (double)",
+        "courseName": "Bachelor degree (honours) - 1 year Health Science",
         "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
     },
     {
@@ -29,7 +29,7 @@
             }
         ],
         "courseCode": "4530",
-        "courseName": "Bachelor of Nutrition and Dietetics (double)",
+        "courseName": " Nutrition and Dietetics",
         "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
     },
     {
@@ -93,7 +93,7 @@
             }
         ],
         "courseCode": "A2004",
-        "courseName": "Bachelor of Arts and Music (double)",
+        "courseName": "Bachelor degree/Bachelor degree Arts and Music",
         "managingFaculty": "Faculty of Arts"
     },
     {
@@ -104,7 +104,7 @@
             }
         ],
         "courseCode": "A2005",
-        "courseName": "Bachelor of Arts and Fine Art (double)",
+        "courseName": "Bachelor degree/Bachelor degree Arts and Fine Art",
         "managingFaculty": "Faculty of Arts"
     },
     {
@@ -183,7 +183,7 @@
             }
         ],
         "courseCode": "B2006",
-        "courseName": "Bachelor of Commerce and Global Studies (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Global Studies",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -217,7 +217,7 @@
             }
         ],
         "courseCode": "B2008",
-        "courseName": "Bachelor of Commerce and Computer Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Computer Science",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -248,7 +248,7 @@
             }
         ],
         "courseCode": "B2009",
-        "courseName": "Bachelor of Commerce Specialist and Computer Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Computer Science",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -267,7 +267,7 @@
             }
         ],
         "courseCode": "B2012",
-        "courseName": "Bachelor of Business Specialist and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Business Specialist and Arts",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -286,7 +286,7 @@
             }
         ],
         "courseCode": "B2013",
-        "courseName": "Bachelor of Business and Business Specialist (double)",
+        "courseName": "Bachelor degree/Bachelor degree Business and Business Specialist",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -309,7 +309,7 @@
             }
         ],
         "courseCode": "B2014",
-        "courseName": "Bachelor of Commerce and Commerce Specialist (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Commerce Specialist",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -328,7 +328,7 @@
             }
         ],
         "courseCode": "B2016",
-        "courseName": "Bachelor of Commerce Specialist and Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Science",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -339,7 +339,7 @@
             }
         ],
         "courseCode": "B2017",
-        "courseName": "Bachelor of Business and Information Technology (double)",
+        "courseName": "Bachelor degree/Bachelor degree Business and Information Technology",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -358,7 +358,7 @@
             }
         ],
         "courseCode": "B2018",
-        "courseName": "Bachelor of Business Specialist and Information Technology (double)",
+        "courseName": "Bachelor degree/Bachelor degree Business Specialist and Information Technology",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -369,7 +369,7 @@
             }
         ],
         "courseCode": "B2019",
-        "courseName": "Bachelor of Business and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Business and Arts",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -380,7 +380,7 @@
             }
         ],
         "courseCode": "B2020",
-        "courseName": "Bachelor of Commerce and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Arts",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -391,7 +391,7 @@
             }
         ],
         "courseCode": "B2021",
-        "courseName": "Bachelor of Commerce and Biomedical Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Biomedical Science",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -406,7 +406,7 @@
             }
         ],
         "courseCode": "B2022",
-        "courseName": "Bachelor of Commerce and Music (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Music",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -417,7 +417,7 @@
             }
         ],
         "courseCode": "B2023",
-        "courseName": "Bachelor of Commerce and Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Science",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -436,7 +436,7 @@
             }
         ],
         "courseCode": "B2024",
-        "courseName": "Bachelor of Commerce Specialist and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Arts",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -447,7 +447,7 @@
             }
         ],
         "courseCode": "B2025",
-        "courseName": "Bachelor of Commerce and Information Technology (double)",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Information Technology",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -458,7 +458,7 @@
             }
         ],
         "courseCode": "B6002",
-        "courseName": "Bachelor of Accounting (double)",
+        "courseName": "Master of Accounting",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -469,7 +469,7 @@
             }
         ],
         "courseCode": "B6003",
-        "courseName": "Bachelor of Applied Finance (double)",
+        "courseName": "Master of Applied Finance",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -480,7 +480,7 @@
             }
         ],
         "courseCode": "B6004",
-        "courseName": "Bachelor of Banking and Finance (double)",
+        "courseName": "Master of Banking and Finance",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -491,7 +491,7 @@
             }
         ],
         "courseCode": "B6005",
-        "courseName": "Bachelor of Business (double)",
+        "courseName": "Master of Business",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -502,7 +502,7 @@
             }
         ],
         "courseCode": "B6009",
-        "courseName": "Bachelor of Management (double)",
+        "courseName": "Master of Management",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -513,7 +513,7 @@
             }
         ],
         "courseCode": "B6011",
-        "courseName": "Bachelor of Professional Accounting (double)",
+        "courseName": "Master of Professional Accounting",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -524,7 +524,7 @@
             }
         ],
         "courseCode": "B6013",
-        "courseName": "Bachelor of Business Law (double)",
+        "courseName": "Master of Business Law",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -535,7 +535,7 @@
             }
         ],
         "courseCode": "B6014",
-        "courseName": "Bachelor of Actuarial Studies (double)",
+        "courseName": "Master of Actuarial Studies",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -546,7 +546,7 @@
             }
         ],
         "courseCode": "B6015",
-        "courseName": "Bachelor of Professional Accounting and Business Law (double)",
+        "courseName": "Master degree/Master degree Professional Accounting and Business Law",
         "managingFaculty": "Faculty of Business and Economics"
     },
     {
@@ -583,7 +583,7 @@
             }
         ],
         "courseCode": "C2002",
-        "courseName": "Bachelor of Information Technology and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Information Technology and Arts",
         "managingFaculty": "Faculty of Information Technology"
     },
     {
@@ -594,7 +594,7 @@
             }
         ],
         "courseCode": "C2003",
-        "courseName": "Bachelor of Information Technology and Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Information Technology and Science",
         "managingFaculty": "Faculty of Information Technology"
     },
     {
@@ -655,7 +655,7 @@
             }
         ],
         "courseCode": "D3002",
-        "courseName": "Bachelor of Education and Arts (double)",
+        "courseName": "Bachelor of  Education and Arts (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -670,7 +670,7 @@
             }
         ],
         "courseCode": "D3003",
-        "courseName": "Bachelor of Education and Commerce (double)",
+        "courseName": "Bachelor of  Education and Commerce (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -693,7 +693,7 @@
             }
         ],
         "courseCode": "D3004",
-        "courseName": "Bachelor of Education and Music (double)",
+        "courseName": "Bachelor of  Education and Music (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -708,7 +708,7 @@
             }
         ],
         "courseCode": "D3005",
-        "courseName": "Bachelor of Education and Science (double)",
+        "courseName": "Bachelor of  Education and Science (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -723,7 +723,7 @@
             }
         ],
         "courseCode": "D3006",
-        "courseName": "Bachelor of Education and Fine Art (double)",
+        "courseName": "Bachelor of  Education and Fine Art (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -738,7 +738,7 @@
             }
         ],
         "courseCode": "D3007",
-        "courseName": "Bachelor of Education and Business (double)",
+        "courseName": "Bachelor of  Education and Business (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -753,7 +753,7 @@
             }
         ],
         "courseCode": "D3008",
-        "courseName": "Bachelor of Education and Computer Science (double)",
+        "courseName": "Bachelor of  Education and Computer Science (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -768,7 +768,7 @@
             }
         ],
         "courseCode": "D3009",
-        "courseName": "Bachelor of Education and Information Technology (double)",
+        "courseName": "Bachelor of  Education and Information Technology (double)",
         "managingFaculty": "Faculty of Education"
     },
     {
@@ -858,7 +858,7 @@
             }
         ],
         "courseCode": "E3002",
-        "courseName": "Bachelor of Engineering and Arts (double)",
+        "courseName": "Bachelor of  Engineering and Arts (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1005,7 +1005,7 @@
             }
         ],
         "courseCode": "E3003",
-        "courseName": "Bachelor of Engineering and Commerce Specialist (double)",
+        "courseName": "Bachelor of  Engineering and Commerce Specialist (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1032,7 +1032,7 @@
             }
         ],
         "courseCode": "E3004",
-        "courseName": "Bachelor of Engineering and Biomedical Science (double)",
+        "courseName": "Bachelor of  Engineering and Biomedical Science (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1075,7 +1075,7 @@
             }
         ],
         "courseCode": "E3005",
-        "courseName": "Bachelor of Engineering and Commerce (double)",
+        "courseName": "Bachelor of  Engineering and Commerce (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1118,7 +1118,7 @@
             }
         ],
         "courseCode": "E3007",
-        "courseName": "Bachelor of Engineering and Science (double)",
+        "courseName": "Bachelor of  Engineering and Science (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1129,7 +1129,7 @@
             }
         ],
         "courseCode": "E3009",
-        "courseName": "Bachelor of Engineering and Architectural Design (double)",
+        "courseName": "Bachelor degree/Bachelor degree (honours) Engineering and Architectural Design",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1144,7 +1144,7 @@
             }
         ],
         "courseCode": "E6001",
-        "courseName": "Bachelor of Advanced Engineering (double)",
+        "courseName": "Master of Advanced Engineering",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1181,7 +1181,7 @@
             }
         ],
         "courseCode": "F2004",
-        "courseName": "Bachelor of Design and Business (double)",
+        "courseName": "Bachelor degree/Bachelor degree Design and Business",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1200,7 +1200,7 @@
             }
         ],
         "courseCode": "F2005",
-        "courseName": "Bachelor of Design and Information Technology (double)",
+        "courseName": "Bachelor degree/Bachelor degree Design and Information Technology",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1215,7 +1215,7 @@
             }
         ],
         "courseCode": "F2006",
-        "courseName": "Bachelor of Fine Art and Information Technology (double)",
+        "courseName": "Bachelor degree/Bachelor degree Fine Art and Information Technology",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1226,7 +1226,7 @@
             }
         ],
         "courseCode": "F2007",
-        "courseName": "Bachelor of Fine Art and Business (double)",
+        "courseName": "Bachelor degree/Bachelor degree Fine Art and Business",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1248,7 +1248,7 @@
             }
         ],
         "courseCode": "F6001",
-        "courseName": "Bachelor of Architecture (double)",
+        "courseName": "Professional entry master degree Architecture",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1259,7 +1259,7 @@
             }
         ],
         "courseCode": "F6002",
-        "courseName": "Bachelor of Design (double)",
+        "courseName": "Master of Design",
         "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
@@ -1290,7 +1290,7 @@
             }
         ],
         "courseCode": "L3002",
-        "courseName": "Bachelor of Laws and Engineering (double)",
+        "courseName": "Bachelor of  Laws and Engineering (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1301,7 +1301,7 @@
             }
         ],
         "courseCode": "L3003",
-        "courseName": "Bachelor of Laws and Arts (double)",
+        "courseName": "Bachelor of  Laws and Arts (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1312,7 +1312,7 @@
             }
         ],
         "courseCode": "L3004",
-        "courseName": "Bachelor of Laws and Biomedical Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree (honours) Laws and Biomedical Science",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1323,7 +1323,7 @@
             }
         ],
         "courseCode": "L3005",
-        "courseName": "Bachelor of Laws and Commerce (double)",
+        "courseName": "Bachelor of  Laws and Commerce (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1338,7 +1338,7 @@
             }
         ],
         "courseCode": "L3006",
-        "courseName": "Bachelor of Laws and Music (double)",
+        "courseName": "Bachelor of  Laws and Music (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1349,7 +1349,7 @@
             }
         ],
         "courseCode": "L3007",
-        "courseName": "Bachelor of Laws and Science (double)",
+        "courseName": "Bachelor of  Laws and Science (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1360,7 +1360,7 @@
             }
         ],
         "courseCode": "L3009",
-        "courseName": "Bachelor of Laws and Global Studies (double)",
+        "courseName": "Bachelor of  Laws and Global Studies (double)",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1482,7 +1482,7 @@
             }
         ],
         "courseCode": "M6018",
-        "courseName": "Bachelor of Medical Science and Medicine (double)",
+        "courseName": "Bachelor degree/Master degree Medical Science and Medicine",
         "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
     },
     {
@@ -1531,7 +1531,7 @@
             }
         ],
         "courseCode": "P6001",
-        "courseName": "Bachelor of Pharmacy (double)",
+        "courseName": "Bachelor degree/Master degree Pharmacy",
         "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
     },
     {
@@ -1561,7 +1561,7 @@
             }
         ],
         "courseCode": "S2003",
-        "courseName": "Bachelor of Science and Global Studies (double)",
+        "courseName": "Bachelor degree/Bachelor degree Science and Global Studies",
         "managingFaculty": "Faculty of Science"
     },
     {
@@ -1576,7 +1576,7 @@
             }
         ],
         "courseCode": "S2004",
-        "courseName": "Bachelor of Science and Computer Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Science and Computer Science",
         "managingFaculty": "Faculty of Science"
     },
     {
@@ -1591,7 +1591,7 @@
             }
         ],
         "courseCode": "S2005",
-        "courseName": "Bachelor of Science and Music (double)",
+        "courseName": "Bachelor degree/Bachelor degree Science and Music",
         "managingFaculty": "Faculty of Science"
     },
     {
@@ -1602,7 +1602,7 @@
             }
         ],
         "courseCode": "S2006",
-        "courseName": "Bachelor of Science and Arts (double)",
+        "courseName": "Bachelor degree/Bachelor degree Science and Arts",
         "managingFaculty": "Faculty of Science"
     },
     {
@@ -1613,13 +1613,13 @@
             }
         ],
         "courseCode": "S2007",
-        "courseName": "Bachelor of Science and Biomedical Science (double)",
+        "courseName": "Bachelor degree/Bachelor degree Science and Biomedical Science",
         "managingFaculty": "Faculty of Science"
     },
     {
         "courseAOS": [
             {
-                "aosName": "Bachelor of Science Advanced Global Challenges (Honours)",
+                "aosName": "Bachelor of Science Advanced \u2013 Global Challenges (Honours)",
                 "code": "S3001-0"
             }
         ],
@@ -1630,7 +1630,7 @@
     {
         "courseAOS": [
             {
-                "aosName": "Bachelor of Science Advanced Research (Honours)",
+                "aosName": "Bachelor of Science Advanced \u2013 Research (Honours)",
                 "code": "S3002-0"
             }
         ],
@@ -1646,7 +1646,7 @@
             }
         ],
         "courseCode": "S6001",
-        "courseName": "Bachelor of Financial Mathematics (double)",
+        "courseName": "Master of Financial Mathematics",
         "managingFaculty": "Faculty of Science"
     },
     {
@@ -1657,7 +1657,7 @@
             }
         ],
         "courseCode": "S6002",
-        "courseName": "Bachelor of Environment and Sustainability (double)",
+        "courseName": "Master of Environment and Sustainability",
         "managingFaculty": "Faculty of Science"
     }
 ]

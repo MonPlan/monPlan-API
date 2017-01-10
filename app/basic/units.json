@@ -9720,6 +9720,11 @@
     "Faculty": "Faculty of Engineering"
   },
   {
+    "UnitCode": "MEM0101",
+    "UnitName": "Introduction to Memes",
+    "Faculty": "Faculty of All"
+  },
+  {
     "UnitCode": "CIV6884",
     "UnitName": "Water sensitive stormwater design",
     "Faculty": "Faculty of Engineering"

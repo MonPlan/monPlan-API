@@ -30,7 +30,7 @@ app.use(bodyParser.json());
 var address = "mongodb://localhost:27017/unitsDatabase"
 //var APIaddress = "mongodb://api.monplan.tech:27017/unitsDatabase"
 // Connect to the database before starting the application server.
-mongodb.MongoClient.connect(APIaddress, function (err, database) {
+mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
     console.log(err);
     process.exit(1);

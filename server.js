@@ -18,8 +18,8 @@ var basic     = require('./app/basic/route');
 var db;
 var app         = express();                 // define our app using express
 var cors        = require('cors');
-var collection = "units";
-
+var collectionUnits = "units";
+var collectionCourses = "courses";
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -68,7 +68,6 @@ app.use('/api', router);
 app.get('/spec/', spec.allSpec);
 app.get('/spec/:id', spec.findSpec);
 
-app.get('/courses/:id', courses.findCourseMap)
 
 app.get('/basic/:id', basic.downloadInfo)
 
@@ -87,7 +86,17 @@ app.get("/units/", function(req, res) {
 });
 
 app.get("/units/:id", function(req, res) {
-  db.collection(collection).findOne({ UnitCode: (req.params.id) }, function(err, doc) {
+  db.collection(collectionUnits).findOne({ UnitCode: (req.params.id) }, function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get unit Data");
+    } else {
+        res.status(200).json(doc);
+      }
+  });
+});
+
+app.get("/courses/:id", function(req, res) {
+  db.collection(collectionCourses).findOne({ courseCode: (req.params.id) }, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get unit Data");
     } else {

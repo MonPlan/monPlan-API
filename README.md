@@ -15,10 +15,12 @@ This will install all the required dependencies
 
 To run, simply type in
 ```
-node server.js
+npm start
 ```
+Having an invalid mongoDB setup will not launch the API. MongoDB should not be setup in default configuration, security auth should be enabled as well as it being in a
+non-standard port (i.e. not 27017)
 
-The use of POSTman (A Chrome Extension) is suggested. To test it out on Postman type
+For testing and development purposes, we recommend using POSTman (A Chrome Extension).
 
 The default address (when accessing it locally) is `https://localhost:3000`, we use the 3000 port to prevent conflict with port 8080.
 

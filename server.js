@@ -26,8 +26,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // MUST HAVE MONGODB ON LOCALHOST
-var address = "mongodb://localhost:27017/unitsDatabase"
-//var APIaddress = "mongodb://api.monplan.tech:27017/unitsDatabase"
+//var address = "mongodb://localhost:27017/unitsDatabase"
+var address = "mongodb://api.monplan.tech:27017/unitsDatabase"
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
@@ -89,7 +89,7 @@ app.get("/units/", function(req, res) {
 app.get("/units/:id", function(req, res) {
   db.collection(collection).findOne({ UnitCode: (req.params.id) }, function(err, doc) {
     if (err) {
-      handleError(res, err.message, "Failed to get contact");
+      handleError(res, err.message, "Failed to get unit Data");
     } else {
         res.status(200).json(doc);
       }

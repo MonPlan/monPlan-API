@@ -68,7 +68,6 @@ app.use('/api', router);
 app.get('/spec/', spec.allSpec);
 app.get('/spec/:id', spec.findSpec);
 
-app.get('/courses/:id', courses.findCourseMap)
 
 app.get('/basic/:id', basic.downloadInfo)
 

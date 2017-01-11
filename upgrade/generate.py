@@ -5,7 +5,7 @@ import os
 import json
 from pymongo import MongoClient
 
-client = MongoClient('mongodb://'+ipaddress, 45956)
+client = MongoClient('mongodb://'+ipaddress, port)
 db = client['unitsDatabase']
 collection = db['units']
 

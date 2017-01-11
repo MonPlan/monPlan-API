@@ -5,7 +5,7 @@ import os
 import json
 from pymongo import MongoClient
 
-client = MongoClient('mongodb://api.monplan.tech', 27017)
+client = MongoClient('mongodb://'+ipaddress, 45956)
 db = client['unitsDatabase']
 collection = db['units']
 

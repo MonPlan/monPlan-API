@@ -11,7 +11,6 @@ var ObjectID = mongodb.ObjectID;
 
 // MODULES
 var spec        = require('./app/specialisations/specialRoute');
-var courses     = require('./app/courses/courses');
 var basic     = require('./app/basic/route');
 
 // VARIABLES
@@ -27,7 +26,6 @@ app.use(bodyParser.json());
 
 // MUST HAVE MONGODB ON LOCALHOST
 //var address = "mongodb://localhost:27017/unitsDatabase"
-var address = "mongodb://api.monplan.tech:27017/unitsDatabase"
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
@@ -89,9 +87,13 @@ app.get("/units/:id", function(req, res) {
   db.collection(collectionUnits).findOne({ UnitCode: (req.params.id) }, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get unit Data");
-    } else {
+    }
+
+    if(doc !== null) {
         res.status(200).json(doc);
-      }
+    } else {
+      res.status(404).json({'msg': 'No Unit Data'})
+    }
   });
 });
 
@@ -99,8 +101,11 @@ app.get("/courses/:id", function(req, res) {
   db.collection(collectionCourses).findOne({ courseCode: (req.params.id) }, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get unit Data");
-    } else {
+    }
+    if(doc !== null) {
         res.status(200).json(doc);
-      }
+    } else {
+      res.status(404).json({'msg': 'No Unit Data'})
+    }
   });
 });

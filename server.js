@@ -25,7 +25,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // MUST HAVE MONGODB ON LOCALHOST
-//var address = "mongodb://localhost:27017/unitsDatabase"
+var address = ""
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
@@ -74,7 +74,7 @@ app.get('/basic/:id', basic.downloadInfo)
  */
 
 app.get("/units/", function(req, res) {
-  db.collection(collection).find({}).toArray(function(err, docs) {
+  db.collection(collectionUnits).find({}).toArray(function(err, docs) {
     if (err) {
       handleError(res, err.message, "Failed to get units.");
     } else {
@@ -97,10 +97,55 @@ app.get("/units/:id", function(req, res) {
   });
 });
 
+/*
+app.post("/units/rating/:id", function(req,res) {
+  var rating = req.body;
+
+  var newLearnRating = parseInt(rating.learnrating, 10);
+  var newEnjoyRating = parseInt(rating.enjoyrating, 10);
+  console.log("Updating Unit Rating")
+  if(1<newLearnRating<5 && 1<newEnjoyRating<5){
+    var unitCode = (req.params.id);
+    db.collection(collectionUnits).findOne({ UnitCode: unitCode }, function(err, doc) {
+      if (err) {
+        handleError(res, err.message, "Failed to get unit Data");
+      }
+
+      if(doc !== null) {
+        var oldEnjoyRating = doc.enjoyRating
+        var oldUnitRating = doc.learnRating
+        var uploadUnitRating = (newLearnRating + oldUnitRating)/2
+        var uploadEnjRating = (newEnjoyRating + oldEnjoyRating)/2
+
+        db.collection(collectionUnits).update({ UnitCode: unitCode }, {"$set": {enjoyRating: uploadEnjRating, learnRating: uploadUnitRating}});
+        res.status(200).json({'msg': 'Successfully updated'})
+      } else {
+        res.status(404).json({'msg': 'No Unit Data'})
+      }
+    });
+  } else {
+    res.status(404).json({'msg': 'Invalid Body'})
+  }
+});
+*/
+
 app.get("/courses/:id", function(req, res) {
   db.collection(collectionCourses).findOne({ courseCode: (req.params.id) }, function(err, doc) {
     if (err) {
-      handleError(res, err.message, "Failed to get unit Data");
+      handleError(res, err.message, "Failed to get course map Data");
+    }
+    if(doc !== null) {
+        res.status(200).json(doc);
+    } else {
+      res.status(404).json({'msg': 'No Unit Data'})
+    }
+  });
+});
+
+app.get("/courses/info/:id", function(req, res) {
+  db.collection("courseInfo").findOne({ courseCode: (req.params.id) }, function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get course information Data");
     }
     if(doc !== null) {
         res.status(200).json(doc);

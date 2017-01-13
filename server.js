@@ -7,8 +7,8 @@
 var express    = require('express');        // call express
 var bodyParser = require('body-parser');
 var mongodb = require("mongodb");
-var ObjectID = mongodb.ObjectID;
-
+var ObjectId = require("mongodb").ObjectID;
+var BSON = require("mongodb").BSONPure;
 // MODULES
 var spec        = require('./app/specialisations/specialRoute');
 var basic     = require('./app/basic/route');
@@ -19,6 +19,7 @@ var app         = express();                 // define our app using express
 var cors        = require('cors');
 var collectionUnits = "units";
 var collectionCourses = "courses";
+
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -150,7 +151,44 @@ app.get("/courses/info/:id", function(req, res) {
     if(doc !== null) {
         res.status(200).json(doc);
     } else {
-      res.status(404).json({'msg': 'No Unit Data'})
+      res.status(404).json({'msg': 'No Course Information Data'})
     }
   });
+});
+
+//User Anonymous Snapshots
+app.get("/snaps/:id", function(req, res) {
+  //var target = BSON.ObjectID.createFromHexString(req.params.id)
+  //console.log(target)
+  var id = new ObjectId(req.params.id)
+  db.collection("snapshots").findOne({"_id": id}, function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get snapshot Data");
+    }
+    if(doc !== null) {
+        res.status(200).json(doc);
+    } else {
+      res.status(404).json({'msg': 'No snapshot Data'})
+    }
+  });
+});
+
+app.post("/snaps/", function(req, res) {
+  var postBody = req.body;
+  //console.log(postBody.course)
+  var courseDet = postBody.course
+  if(postBody.course !== null || postBody.course !== ""){
+    db.collection('snapshots').insertOne({"snapshotData": JSON.parse(courseDet)}, function(err, doc) {
+      if (err) {
+        handleError(res, err.message, "Failed to get snapshot Data");
+      }
+      if(doc !== null) {
+          res.status(200).json(doc.insertedId);
+      } else {
+        res.status(404).json({'msg': 'No snapshot Data'})
+      }
+
+    });
+
+  }
 });

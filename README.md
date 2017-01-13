@@ -40,8 +40,8 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 ### User Snapshots
 | T | Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
 |---|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
-| G | /spec/(identifier)     | mongoDB         | v0.5.10         | Returns JavaScript object of saved course maps                                                                          |
-| P  | /spec/                 | mongoDB         | v0.5.10         | **ADD COURSESTRUCTURE ONTO BODY REQUEST under the _KEY_ COURSE**                                                        |
+| G | /snaps/(identifier)     | mongoDB         | v0.5.10         | Returns JavaScript object of saved course maps                                                                          |
+| P  | /snaps/                 | mongoDB         | v0.5.10         | **ADD COURSESTRUCTURE ONTO BODY REQUEST under the _KEY_ COURSE**                                                        |
 
 G - GET REQUEST
 P - POST REQUEST

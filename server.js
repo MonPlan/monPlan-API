@@ -27,6 +27,7 @@ app.use(bodyParser.json());
 
 // MUST HAVE MONGODB ON LOCALHOST
 var address = ""
+
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {

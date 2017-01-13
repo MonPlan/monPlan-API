@@ -1,7 +1,7 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.5.0`
+API Version: `v0.5.10`
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
@@ -26,20 +26,25 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 
 ## Instructions
 
-### GET Requests
+### General Requests
 
-| Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
-|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------|
-| /basic/(types)         | Local JSON      | v0.3            | Returns basic type maps, based off (types), types include: units, teachingperiods, etc.                                 |
-| /courses/(courseCode)  | Local JSON      | v0.4            | Returns course maps based off study.monash courses                                                                      |
-| /courses/info/(code)   | mongoDB         | v0.5            | Returns course information based off code                                                                               |
-| /units/                | mongoDB         | v0.1 (v0.4)     | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions, SETU results)    |
-| /units/(unitCode)      | mongoDB         | v0.1 (v0.4)     | Returns descriptive (same as course/ext details about the course                                                        |
-| /spec/(specCode)       | Local JSON      | v0.2            | Returns JSON response for specialisations                                                                 |
+|T| Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
+|-|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
+|G| /basic/(types)         | Local JSON      | v0.3            | Returns basic type maps, based off (types), types include: units, teachingperiods, etc.                                 |
+|G| /courses/(courseCode)  | Local JSON      | v0.4            | Returns course maps based off study.monash courses                                                                      |
+|G| /courses/info/(code)   | mongoDB         | v0.5            | Returns course information based off code                                                                               |
+|G| /units/                | mongoDB         | v0.1 (v0.4)     | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions, SETU results)    |
+|G| /units/(unitCode)      | mongoDB         | v0.1 (v0.4)     | Returns descriptive (same as course/ext details about the course                                                        |
+|G| /spec/(specCode)       | Local JSON      | v0.2            | Returns JSON response for specialisations                                                                               |
 
-### POST Requests
+### User Snapshots
+|T| Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
+|-|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
+|G| /spec/(identifier)     | mongoDB         | v0.5.10         | Returns JavaScript object of saved course maps                                                                          |
+|P| /spec/                 | mongoDB         | v0.5.10         | **ADD COURSESTRUCTURE ONTO BODY REQUEST under the _KEY_ COURSE**                                                        |
 
-_Post requests are in development mode as we planning API auth as well as user accounts_
+G - GET REQUEST
+P - POST REQUEST
 
 # License
 MIT License

@@ -36,8 +36,7 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 | G | /spec/(specCode)       | Local JSON      | v0.2            | Returns JSON response for specialisations        |  
 
 ### Unit Calls
-| T | Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
-code                                                                               |
+| T | Instruction            | Storage Type    | Intro (Current) | Returns  |
 |---|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
 | G | /units/                | mongoDB         | v0.1 (v0.4)     | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions, SETU results)    |
 | G | /units/(unitCode)      | mongoDB         | v0.1 (v0.4)     | Returns descriptive (same as course/ext details about the course                                                        |

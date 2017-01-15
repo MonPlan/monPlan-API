@@ -1,7 +1,7 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.5.10`
+API Version: `v0.5.15-rc1`
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
@@ -32,10 +32,15 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 |---|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
 | G | /basic/(types)         | Local JSON      | v0.3            | Returns basic type maps, based off (types), types include: units, teachingperiods, etc.                                 |
 | G | /courses/(courseCode)  | Local JSON      | v0.4            | Returns course maps based off study.monash courses                                                                      |
-| G | /courses/info/(code)   | mongoDB         | v0.5            | Returns course information based off code                                                                               |
+| G | /courses/info/(code)   | mongoDB         | v0.5            | Returns course information based off
+| G | /spec/(specCode)       | Local JSON      | v0.2            | Returns JSON response for specialisations        |  
+
+### Unit Calls
+| T | Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
+code                                                                               |
 | G | /units/                | mongoDB         | v0.1 (v0.4)     | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions, SETU results)    |
 | G | /units/(unitCode)      | mongoDB         | v0.1 (v0.4)     | Returns descriptive (same as course/ext details about the course                                                        |
-| G | /spec/(specCode)       | Local JSON      | v0.2            | Returns JSON response for specialisations                                                                               |
+| G | /rules/(unitCode)| mongoDB | v0.5.15 | Returns an array of rules based for the Unit specified UnitCode |
 
 ### User Snapshots
 | T | Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |

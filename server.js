@@ -157,6 +157,19 @@ app.get("/courses/info/:id", function(req, res) {
   });
 });
 
+app.get("/rules/:id", function(req, res) {
+  db.collection("rules").find({ unitCode: (req.params.id) }).toArray(function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get unit rules");
+    }
+    if(doc !== null) {
+        res.status(200).json(doc);
+    } else {
+      res.status(404).json('Missing Rule Data')
+    }
+  });
+});
+
 //User Anonymous Snapshots
 app.get("/snaps/:id", function(req, res) {
   //var target = BSON.ObjectID.createFromHexString(req.params.id)

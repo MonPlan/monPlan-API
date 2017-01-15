@@ -38,6 +38,7 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 ### Unit Calls
 | T | Instruction            | Storage Type    | Intro (Current) | Returns                                                                                                                 |
 code                                                                               |
+|---|------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
 | G | /units/                | mongoDB         | v0.1 (v0.4)     | Returns _every unit with descriptive details (Name, Description, Faculty, Prerequisites, Prohibitions, SETU results)    |
 | G | /units/(unitCode)      | mongoDB         | v0.1 (v0.4)     | Returns descriptive (same as course/ext details about the course                                                        |
 | G | /rules/(unitCode)| mongoDB | v0.5.15 | Returns an array of rules based for the Unit specified UnitCode |

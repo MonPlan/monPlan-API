@@ -519,6 +519,17 @@
     {
         "courseAOS": [
             {
+                "aosName": "Master of Public Policy and Management",
+                "code": "B6012-0"
+            }
+        ],
+        "courseCode": "B6012",
+        "courseName": "Master of Public Policy and Management",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
                 "aosName": "Master of Business Law",
                 "code": "B6013-0"
             }
@@ -972,16 +983,16 @@
                 "code": "E3003-26"
             },
             {
-                "aosName": "Mechanical Engineering and Mathematical Economics and Econometrics specialisations",
-                "code": "E3003-27"
-            },
-            {
                 "aosName": "Mechatronics Engineering and Actuarial Science specialisations",
                 "code": "E3003-28"
             },
             {
                 "aosName": "Mechatronics Engineering and Economics and Economic Policy specialisations",
                 "code": "E3003-29"
+            },
+            {
+                "aosName": "Mechatronics Engineering and Finance specialisations",
+                "code": "E3003-30"
             },
             {
                 "aosName": "Mechatronics Engineering and Mathematical Economics and Econometrics specialisations",
@@ -1076,6 +1087,17 @@
         ],
         "courseCode": "E3005",
         "courseName": "Bachelor of  Engineering and Commerce (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Mechanical Engineering and Industrial Design specialisations",
+                "code": "E3006-0"
+            }
+        ],
+        "courseCode": "E3006",
+        "courseName": "Bachelor of  Engineering and Design (double)",
         "managingFaculty": "Faculty of Engineering"
     },
     {
@@ -1502,6 +1524,21 @@
         ],
         "courseCode": "P2001",
         "courseName": "Bachelor of Pharmaceutical Science",
+        "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Graduate Entry",
+                "code": "P3001-0"
+            },
+            {
+                "aosName": "International Students",
+                "code": "P3001-1"
+            }
+        ],
+        "courseCode": "P3001",
+        "courseName": "Bachelor of Pharmacy (honours)",
         "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
     },
     {

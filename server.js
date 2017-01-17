@@ -50,6 +50,7 @@ mongodb.MongoClient.connect(address, function (err, database) {
 // =============================================================================
 var router = express.Router();              // get an instance of the express Router
 var v02 = express.Router();
+
 // test route to make sure everything is working (accessed at GET http://localhost:8080/api)
 router.get('/', function(req, res) {
     res.json({ message: 'This is the monPlan API. Please read the API documentation at: https://github.com/monashunitplanner/monplan-api' });
@@ -189,10 +190,9 @@ app.get("/snaps/:id", function(req, res) {
 
 app.post("/snaps/", function(req, res) {
   var postBody = req.body;
-  //console.log(postBody.course)
   var courseDet = postBody.course
   if(postBody.course !== null || postBody.course !== ""){
-    db.collection('snapshots').insertOne({"snapshotData": JSON.parse(courseDet)}, function(err, doc) {
+    db.collection('snapshots').insertOne({"snapshotData": courseDet}, function(err, doc) {
       if (err) {
         handleError(res, err.message, "Failed to get snapshot Data");
       }

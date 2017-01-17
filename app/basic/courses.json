@@ -121,17 +121,6 @@
     {
         "courseAOS": [
             {
-                "aosName": "Bachelor of Commerce",
-                "code": "B2001-0"
-            }
-        ],
-        "courseCode": "B2001",
-        "courseName": "Bachelor of Commerce",
-        "managingFaculty": "Faculty of Business and Economics"
-    },
-    {
-        "courseAOS": [
-            {
                 "aosName": "Bachelor of Accounting",
                 "code": "B2003-0"
             },
@@ -519,17 +508,6 @@
     {
         "courseAOS": [
             {
-                "aosName": "Master of Public Policy and Management",
-                "code": "B6012-0"
-            }
-        ],
-        "courseCode": "B6012",
-        "courseName": "Master of Public Policy and Management",
-        "managingFaculty": "Faculty of Business and Economics"
-    },
-    {
-        "courseAOS": [
-            {
                 "aosName": "Master of Business Law",
                 "code": "B6013-0"
             }
@@ -611,17 +589,6 @@
     {
         "courseAOS": [
             {
-                "aosName": "Bachelor of Computer Science Advanced (Honours)",
-                "code": "C3001-0"
-            }
-        ],
-        "courseCode": "C3001",
-        "courseName": "Bachelor of Computer Science Advanced (honours)",
-        "managingFaculty": "Faculty of Information Technology"
-    },
-    {
-        "courseAOS": [
-            {
                 "aosName": "Bachelor of Education (Honours) in Early Years and Primary Education",
                 "code": "D3001-0"
             },
@@ -640,10 +607,6 @@
             {
                 "aosName": "Bachelor of Education (Honours) in Primary and Secondary Special Education",
                 "code": "D3001-4"
-            },
-            {
-                "aosName": "Bachelor of Education (Honours) in Primary Education",
-                "code": "D3001-5"
             },
             {
                 "aosName": "Bachelor of Education (Honours) in Secondary Health and Physical Education",
@@ -983,6 +946,10 @@
                 "code": "E3003-26"
             },
             {
+                "aosName": "Mechanical Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-27"
+            },
+            {
                 "aosName": "Mechatronics Engineering and Actuarial Science specialisations",
                 "code": "E3003-28"
             },
@@ -1092,17 +1059,6 @@
     {
         "courseAOS": [
             {
-                "aosName": "Mechanical Engineering and Industrial Design specialisations",
-                "code": "E3006-0"
-            }
-        ],
-        "courseCode": "E3006",
-        "courseName": "Bachelor of  Engineering and Design (double)",
-        "managingFaculty": "Faculty of Engineering"
-    },
-    {
-        "courseAOS": [
-            {
                 "aosName": "Aerospace Engineering specialisation",
                 "code": "E3007-0"
             },
@@ -1168,32 +1124,6 @@
         "courseCode": "E6001",
         "courseName": "Master of Advanced Engineering",
         "managingFaculty": "Faculty of Engineering"
-    },
-    {
-        "courseAOS": [
-            {
-                "aosName": "Architectural Design",
-                "code": "F2001-0"
-            }
-        ],
-        "courseCode": "F2001",
-        "courseName": "Bachelor of Architectural Design",
-        "managingFaculty": "Faculty of Art, Design and Architecture"
-    },
-    {
-        "courseAOS": [
-            {
-                "aosName": "Bachelor of Art History and Curating",
-                "code": "F2003-0"
-            },
-            {
-                "aosName": "Bachelor of Fine Art",
-                "code": "F2003-1"
-            }
-        ],
-        "courseCode": "F2003",
-        "courseName": "Bachelor of Fine Art",
-        "managingFaculty": "Faculty of Art, Design and Architecture"
     },
     {
         "courseAOS": [
@@ -1324,17 +1254,6 @@
         ],
         "courseCode": "L3003",
         "courseName": "Bachelor of  Laws and Arts (double)",
-        "managingFaculty": "Faculty of Law"
-    },
-    {
-        "courseAOS": [
-            {
-                "aosName": "Bachelor of Laws (Honours) and Bachelor of Biomedical Science",
-                "code": "L3004-0"
-            }
-        ],
-        "courseCode": "L3004",
-        "courseName": "Bachelor degree/Bachelor degree (honours) Laws and Biomedical Science",
         "managingFaculty": "Faculty of Law"
     },
     {
@@ -1529,21 +1448,6 @@
     {
         "courseAOS": [
             {
-                "aosName": "Graduate Entry",
-                "code": "P3001-0"
-            },
-            {
-                "aosName": "International Students",
-                "code": "P3001-1"
-            }
-        ],
-        "courseCode": "P3001",
-        "courseName": "Bachelor of Pharmacy (honours)",
-        "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
-    },
-    {
-        "courseAOS": [
-            {
                 "aosName": "Drug discovery biology specialisation",
                 "code": "P3002-0"
             },
@@ -1673,17 +1577,6 @@
         ],
         "courseCode": "S3002",
         "courseName": "Bachelor of Science Advanced - Research (honours)",
-        "managingFaculty": "Faculty of Science"
-    },
-    {
-        "courseAOS": [
-            {
-                "aosName": "Master of Financial Mathematics",
-                "code": "S6001-0"
-            }
-        ],
-        "courseCode": "S6001",
-        "courseName": "Master of Financial Mathematics",
         "managingFaculty": "Faculty of Science"
     },
     {

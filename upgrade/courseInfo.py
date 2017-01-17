@@ -5,7 +5,7 @@ import os
 import json
 from pymongo import MongoClient
 
-client = MongoClient('', 45956)
+
 db = client['unitsDatabase']
 collection = db['courseInfo']
 

@@ -1,7 +1,10 @@
 # monPlan API
 This is the API Server built on of Node.js used by monPlanR for server side logic.
 
-API Version: `v0.5.15-rc1`
+API Version: `v0.6.0-pr1`
+
+PR - Pre Release
+RC - Release Canditate
 
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
@@ -50,6 +53,10 @@ The default address (when accessing it locally) is `https://localhost:3000`, we 
 
 G - GET REQUEST
 P - POST REQUEST
+
+# To Do
+- [] Apply SSL/TLS Cert
+- [] Enforce HSTS
 
 # License
 MIT License

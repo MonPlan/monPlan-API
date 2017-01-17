@@ -9,6 +9,17 @@ var bodyParser = require('body-parser');
 var mongodb = require("mongodb");
 var ObjectId = require("mongodb").ObjectID;
 var BSON = require("mongodb").BSONPure;
+
+var helmet = require("helmet");
+var hidePoweredBy = require("hide-powered-by");
+var session = require("express-session");
+var nosniff = require("dont-sniff-mimetype");
+var ienoopen = require('ienoopen');
+var xssFilter = require('x-xss-protection');
+var frameguard = require('frameguard');
+var hpkp = require('hpkp');
+var csp = require('helmet-csp');
+
 // MODULES
 var spec        = require('./app/specialisations/specialRoute');
 var basic     = require('./app/basic/route');
@@ -25,8 +36,34 @@ var collectionCourses = "courses";
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+console.log('Deploying Security Measures')
+app.use(hidePoweredBy({setTo: 'Coffee'}));
+app.use(nosniff());
+app.use(ienoopen());
+app.use(xssFilter());
+app.use(frameguard({action: 'deny'}))
+app.use(hpkp({
+  maxAge: 1209600,
+  sha256s: ['AbCdEf123=', "ZyXwVu456"],
+
+  setIf: function(req,res){
+    return req.secure
+  }
+}));
+app.use(csp({
+  directives: {
+    scriptSrc: ["'self'", "'unsafe-inline'"]
+  },
+  reportOnly: false,
+  setAllHeaders: false,
+  disabledAndroid: false,
+  browserSniff: false
+}))
+
 // MUST HAVE MONGODB ON LOCALHOST
-var address = ""
+
+
+console.log('Attempting to connect to mongoDB backend.')
 
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
@@ -173,9 +210,12 @@ app.get("/rules/:id", function(req, res) {
 
 //User Anonymous Snapshots
 app.get("/snaps/:id", function(req, res) {
-  //var target = BSON.ObjectID.createFromHexString(req.params.id)
-  //console.log(target)
-  var id = new ObjectId(req.params.id)
+  //attempt to hash id, if fail return error 418
+  try {
+    var id = new ObjectId(req.params.id)
+  } catch(err) {
+    res.status(418).send("I'm a teapot.");
+  }
   db.collection("snapshots").findOne({"_id": id}, function(err, doc) {
     if (err) {
       handleError(res, err.message, "Failed to get snapshot Data");

@@ -96,6 +96,7 @@ app.use(hsts({
 var address = //insert address here
 
 console.log("Attempting to connect to mongoDB backend.")
+
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {

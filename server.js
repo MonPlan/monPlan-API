@@ -85,7 +85,7 @@ app.use(csp({
 
 
 console.log("Attempting to connect to mongoDB backend.")
-var address = "mongodb://mplanAdmin:Dr6BnHNJydXACJ4@api.monplan.tech:45956/unitsDatabase?authSource=admin"
+
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {

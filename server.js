@@ -10,6 +10,7 @@ var mongodb = require("mongodb");
 var ObjectId = require("mongodb").ObjectID;
 var BSON = require("mongodb").BSONPure;
 
+// SECURITY MODULES
 var helmet = require("helmet");
 var hidePoweredBy = require("hide-powered-by");
 var session = require("express-session");
@@ -19,6 +20,13 @@ var xssFilter = require("x-xss-protection");
 var frameguard = require("frameguard");
 var hpkp = require("hpkp");
 var csp = require("helmet-csp");
+var hsts = require("hsts");
+
+// HTTP/HTTPS Setup
+var fs = require("fs");
+var http = require("http");
+var https = require("https");
+var enableSSL = true;
 
 // MODULES
 var spec        = require("./app/specialisations/specialRoute");
@@ -31,11 +39,7 @@ var cors        = require("cors");
 var collectionUnits = "units";
 var collectionCourses = "courses";
 
-// HTTP/HTTPS Setup
-var fs = require("fs");
-var http = require("http");
-var https = require("https");
-var enableSSL = true;
+
 
 try {
     var pkey = fs.readFileSync("./ssl/server.key","utf8");
@@ -64,7 +68,7 @@ app.use(ienoopen());
 app.use(xssFilter());
 app.use(frameguard({action: "deny"}))
 app.use(hpkp({
-  maxAge: 1209600,
+  maxAge: 1209600, // Max Age is 14 days
   sha256s: ["AbCdEf123=", "ZyXwVu456"],
 
   setIf: function(req,res){
@@ -79,13 +83,19 @@ app.use(csp({
   setAllHeaders: false,
   disabledAndroid: false,
   browserSniff: false
-}))
+}));
+
+app.use(hsts({
+  maxAge: 1209600, // Max Age is 14 days
+  //includeSubDomains: true,
+  //preload: true, //use bake-into chrome HSTS (implement HSTS into main site, then enable this)
+  force: true //always set the header
+}));
 
 // MUST HAVE MONGODB ON LOCALHOST
-
+var address = //insert address here
 
 console.log("Attempting to connect to mongoDB backend.")
-var address = "mongodb://mplanAdmin:Dr6BnHNJydXACJ4@api.monplan.tech:45956/unitsDatabase?authSource=admin"
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
@@ -98,12 +108,12 @@ mongodb.MongoClient.connect(address, function (err, database) {
   console.log("Database connection ready");
 
   var httpServer = http.createServer(app);
-  httpServer.listen(3000);
+  httpServer.listen(80);
 
   if(enableSSL){
       console.log("Initialising HTTPS Server");
       var httpsServer = https.createServer(credentials, app);
-      httpsServer.listen(4000);
+      httpsServer.listen(443);
   } else {
       console.log("Enabling HTTPS Server is false.");
       console.log("To enable place SSL Cert and Key inside the ssl directory");

@@ -285,3 +285,23 @@ app.post("/snaps/", function(req, res) {
 
   }
 });
+
+//User Testing Snapshot
+app.get("/snaps/testing", function(req, res) {
+  //attempt to hash id, if fail return error 418
+  try {
+    var id = new ObjectId(//insert ID here)
+  } catch(err) {
+    res.status(418).send("I'm a teapot.");
+  }
+  db.collection("snapshots").findOne({"_id": id}, function(err, doc) {
+    if (err) {
+      handleError(res, err.message, "Failed to get snapshot Data");
+    }
+    if(doc !== null) {
+        res.status(200).json(doc);
+    } else {
+      res.status(404).json({"msg": "No snapshot Data"})
+    }
+  });
+});

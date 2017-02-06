@@ -6,6 +6,8 @@ API Version: `v0.6.0-pr1`
 PR - Pre Release
 RC - Release Canditate
 
+This project is now **depriciated** as we are moving to a Java Environment for interaction with _Google App Engine's Datastore_
+
 ## What is an API?
 > An API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.
 

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Full-year teaching period",
+        "code": "FY-01",
+        "startDate": "2017-02-27",
+        "endDate": "2017-10-20"
+    },
+    {
+        "name": "Semester 1",
+        "code": "S1-01",
+        "startDate": "2017-02-27",
+        "endDate": "2017-05-26"
+    },
+    {
+        "name": "Semester 2",
+        "code": "S2-01",
+        "startDate": "2017-07-24",
+        "endDate": "2017-10-20"
+    },
+    {
+        "name": "Summer semester A",
+        "code": "SSA-02",
+        "startDate": "2017-11-01",
+        "endDate": "2017-02-16"
+    },
+    {
+        "name": "Summer semester B",
+        "code": "SSB-01",
+        "startDate": "2017-01-01",
+        "endDate": "2017-02-17"
+    },
+    {
+        "name": "Winter semester",
+        "code": "WS-01",
+        "startDate": "2017-06-19",
+        "endDate": "2017-07-14"
+    }
+]

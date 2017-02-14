@@ -11,29 +11,31 @@ import math
 import re
 import os
 import json
-from pymongo import MongoClient
+from google.cloud import datastore
 
-client = MongoClient('', 45956)
-db = client['unitsDatabase']
-collection = db['courses']
+client = datastore.Client(project='monplan-api-dev')
 
 error = []
 for filename in os.listdir("."):
         if filename.endswith('.json') is True: #converts all the file except for the Python File
             try:
+                #generate ID
+                kind = 'courseMaps'
+                uniqueID = client.key(kind)
+                currentItem = datastore.Entity(uniqueID,exclude_from_indexes=('teachingPeriods',))
+
+
                 input_file = open(filename, "r")
                 data = json.loads(input_file.read())
 
-                courseAOS = data["courseAOS"]
-                courseCode = filename.strip('.json')
-                print(courseCode)
-                courseName = data["courseName"]
-                courseType = data["courseType"]
-                faculty = data["faculty"]
-                teachingPeriods = data["teachingPeriods"]
+                currentItem["courseAOS"] = data["courseAOS"]
+                currentItem["courseCode"] = filename.strip('.json')
+                currentItem["courseName"] = data["courseName"]
+                currentItem["courseType"] = data["courseType"]
+                currentItem["faculty"] = data["faculty"]
+                currentItem["teachingPeriods"] = str(data["teachingPeriods"])
 
-                output =  {"courseCode": courseCode, "courseName": courseName, "courseType": courseType, "courseAOS": courseAOS, "faculty": faculty,"teachingPeriods":teachingPeriods  }
-                collection.insert_one(output)
+                client.put(currentItem)
             except json.decoder.JSONDecodeError:
                 error.append(filename)
 

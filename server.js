@@ -31,6 +31,7 @@ var enableSSL = true;
 // MODULES
 var spec        = require("./app/specialisations/specialRoute");
 var basic     = require("./app/basic/route");
+var announce     = require("./app/announcements/announce");
 
 // VARIABLES
 var db;
@@ -93,10 +94,9 @@ app.use(hsts({
 }));
 
 // MUST HAVE MONGODB ON LOCALHOST
-var address = //insert address here
+
 
 console.log("Attempting to connect to mongoDB backend.")
-
 // Connect to the database before starting the application server.
 mongodb.MongoClient.connect(address, function (err, database) {
   if (err) {
@@ -109,12 +109,12 @@ mongodb.MongoClient.connect(address, function (err, database) {
   console.log("Database connection ready");
 
   var httpServer = http.createServer(app);
-  httpServer.listen(80);
+  httpServer.listen(4000);
 
   if(enableSSL){
       console.log("Initialising HTTPS Server");
       var httpsServer = https.createServer(credentials, app);
-      httpsServer.listen(443);
+      httpsServer.listen(5000);
   } else {
       console.log("Enabling HTTPS Server is false.");
       console.log("To enable place SSL Cert and Key inside the ssl directory");
@@ -145,8 +145,10 @@ app.use("/api", router);
 app.get("/spec/", spec.allSpec);
 app.get("/spec/:id", spec.findSpec);
 
-
-app.get("/basic/:id", basic.downloadInfo)
+app.get("/announce", function(req, res) {
+  res.status(200).send(JSON.parse(fs.readFileSync("announcements.json", 'utf8')));
+});
+app.get("/basic/:id", basic.downloadInfo);
 
 /*  "/unitRatings"
  *    GET: finds all units
@@ -290,7 +292,7 @@ app.post("/snaps/", function(req, res) {
 app.get("/snaps/testing", function(req, res) {
   //attempt to hash id, if fail return error 418
   try {
-    var id = new ObjectId(//insert ID here)
+    var id = new ObjectId()
   } catch(err) {
     res.status(418).send("I'm a teapot.");
   }

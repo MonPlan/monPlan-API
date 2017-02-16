@@ -31,21 +31,16 @@ def generateLocationAndTimeObject(array):
 input_file = open("units.json", "r")
 data = json.loads(input_file.read())
 
-
+array = []
 for item in range(0, len(data)):
-    #generate ID
-    kind = 'units'
-    uniqueID = client.key(kind)
-    currentItem = datastore.Entity(uniqueID,exclude_from_indexes=('sypnosis','locationAndTime', ))
-
+    currentItem = {}
     currentItem['unitCode'] = data[item]["UnitCode"]
-    print(data[item]["UnitCode"])
     currentItem['unitName'] = data[item]["UnitName"]
     locationAndTime = (data[item]["LocationAndTime"])
     if(locationAndTime == "Not Offered in 2017"):
-        uploadData =  json.dumps({"location":  "Not Offered in 2017"})
+        uploadData =  [{"location":  "Not Offered in 2017", "time": []}]
     else:
-        uploadData = json.dumps(generateLocationAndTimeObject(locationAndTime))
+        uploadData = generateLocationAndTimeObject(locationAndTime)
     currentItem['locationAndTime'] = uploadData
 
 
@@ -63,7 +58,11 @@ for item in range(0, len(data)):
     currentItem['learnScore'] = setuScore['learnScore']
     currentItem['learnResponse'] = setuScore['learnResponse']
 
-    client.put(currentItem)
+    array.append(currentItem)
 
     percentageComp = round(item/len(data)*100,2)
     print(str(percentageComp)+"% Completed.")
+
+print("Writing to JSON")
+with open("unitsNew.json", "w") as json_file:
+        json_file.write(json.dumps(array, indent=4, sort_keys=True))
